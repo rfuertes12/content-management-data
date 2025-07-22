@@ -498,7 +498,21 @@
       "taskStatus": "inprogress",
       "id": "1753187121558",
       "createdAt": "2025-07-22T12:25:21.558Z"
+    },
+    {
+      "title": "Publish blog post",
+      "link": "",
+      "content": "",
+      "date": "2025-07-23",
+      "time": "20:55",
+      "utc": "2025-07-23T18:55:00.000Z",
+      "updatedAt": "2025-07-22T18:56:04.893Z",
+      "type": "task",
+      "priority": "high",
+      "taskStatus": "todo",
+      "id": "1753210564894",
+      "createdAt": "2025-07-22T18:56:04.894Z"
     }
   ],
-  "lastSync": "2025-07-22T16:52:57.845Z"
+  "lastSync": "2025-07-22T18:56:05.612Z"
 }
