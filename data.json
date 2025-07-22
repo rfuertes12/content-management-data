@@ -482,6 +482,21 @@
       ],
       "id": "1753186988876",
       "createdAt": "2025-07-22T12:23:08.876Z"
+    },
+    {
+      "title": "sdzsafd",
+      "link": "",
+      "content": "asdcsacfsxdcv",
+      "date": "2025-07-22",
+      "time": "17:43",
+      "utc": "2025-07-22T15:43:00.000Z",
+      "updatedAt": "2025-07-22T15:43:39.602Z",
+      "type": "event",
+      "status": "draft",
+      "category": "social",
+      "platforms": [],
+      "id": "1753199019603",
+      "createdAt": "2025-07-22T15:43:39.603Z"
     }
   ],
   "tasks": [
@@ -500,5 +515,5 @@
       "createdAt": "2025-07-22T12:25:21.558Z"
     }
   ],
-  "lastSync": "2025-07-22T12:57:50.285Z"
+  "lastSync": "2025-07-22T15:43:39.608Z"
 }
