@@ -1,5 +1,20 @@
 {
-  "events": [],
+  "events": [
+    {
+      "title": "The Ultimate Guide to Choosing Decorative Cushions: Comfort, Style, and Selection Tips",
+      "link": "https://eilersencushion.eu/blogs/cushion-styling-guides/ultimate-guide-to-cushions",
+      "content": "Discover everything you need to know about cushions - from materials and styles to care tips. Find the perfect cushions to enhance your home comfort and style.",
+      "date": "2025-04-22",
+      "time": "07:30",
+      "updatedAt": "2025-07-22T08:39:27.215Z",
+      "type": "event",
+      "status": "published",
+      "category": "blog",
+      "platforms": [],
+      "id": "1753173567217",
+      "createdAt": "2025-07-22T08:39:27.217Z"
+    }
+  ],
   "tasks": [],
-  "lastSync": "2025-07-22T08:36:40.420Z"
+  "lastSync": "2025-07-22T08:39:27.217Z"
 }
