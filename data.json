@@ -608,21 +608,21 @@
       "title": "Build a content management web app",
       "link": "",
       "content": "For managing posts and tracking them",
-      "date": "2025-07-22",
+      "date": "2025-07-23",
       "time": "07:00",
-      "utc": "2025-07-22T05:00:00.000Z",
-      "updatedAt": "2025-07-23T07:05:13.456Z",
+      "utc": "2025-07-23T05:00:00.000Z",
+      "updatedAt": "2025-07-23T15:39:58.482Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "inprogress",
+      "taskStatus": "completed",
       "id": "1753187121558",
       "createdAt": "2025-07-22T12:25:21.558Z",
-      "startDate": "2025-07-22",
+      "startDate": "2025-07-23",
       "startTime": "07:00",
-      "dueDate": "2025-07-25",
+      "dueDate": "2025-07-23",
       "dueTime": "14:00",
-      "utcStart": "2025-07-22T05:00:00.000Z",
-      "utcDue": "2025-07-25T12:00:00.000Z"
+      "utcStart": "2025-07-23T05:00:00.000Z",
+      "utcDue": "2025-07-23T12:00:00.000Z"
     },
     {
       "title": "Create blog post",
@@ -745,5 +745,5 @@
       "createdAt": "2025-07-23T10:04:58.374Z"
     }
   ],
-  "lastSync": "2025-07-23T15:39:20.078Z"
+  "lastSync": "2025-07-23T15:39:58.483Z"
 }
