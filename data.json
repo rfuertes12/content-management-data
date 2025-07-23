@@ -651,7 +651,7 @@
       "date": "2025-07-24",
       "time": "10:00",
       "utc": "2025-07-24T08:00:00.000Z",
-      "updatedAt": "2025-07-23T17:38:02.869Z",
+      "updatedAt": "2025-07-23T17:38:23.916Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "inprogress",
@@ -745,5 +745,5 @@
       "createdAt": "2025-07-23T10:04:58.374Z"
     }
   ],
-  "lastSync": "2025-07-23T17:38:02.871Z"
+  "lastSync": "2025-07-23T17:38:23.917Z"
 }
