@@ -526,21 +526,7 @@
       "taskStatus": "todo",
       "id": "1753248586057",
       "createdAt": "2025-07-23T05:29:46.057Z"
-    },
-    {
-      "title": "Test",
-      "link": "",
-      "content": "",
-      "date": "2025-07-23",
-      "time": "08:30",
-      "utc": "2025-07-23T06:30:00.000Z",
-      "updatedAt": "2025-07-23T05:30:19.186Z",
-      "type": "task",
-      "priority": "normal",
-      "taskStatus": "todo",
-      "id": "1753248619187",
-      "createdAt": "2025-07-23T05:30:19.187Z"
     }
   ],
-  "lastSync": "2025-07-23T06:25:07.348Z"
+  "lastSync": "2025-07-23T06:50:09.954Z"
 }
