@@ -539,10 +539,10 @@
       "date": "2025-07-23",
       "time": "20:55",
       "utc": "2025-07-23T18:55:00.000Z",
-      "updatedAt": "2025-07-23T09:40:28.379Z",
+      "updatedAt": "2025-07-23T10:02:10.961Z",
       "type": "task",
       "priority": "high",
-      "taskStatus": "inprogress",
+      "taskStatus": "completed",
       "id": "1753210564894",
       "createdAt": "2025-07-22T18:56:04.894Z",
       "startDate": "2025-07-23",
@@ -613,5 +613,5 @@
       "createdAt": "2025-07-23T09:35:14.338Z"
     }
   ],
-  "lastSync": "2025-07-23T09:40:28.380Z"
+  "lastSync": "2025-07-23T10:02:10.963Z"
 }
