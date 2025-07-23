@@ -591,7 +591,27 @@
       "taskStatus": "todo",
       "id": "1753254238622",
       "createdAt": "2025-07-23T07:03:58.622Z"
+    },
+    {
+      "title": "Update EA Service page desig",
+      "link": "https://www.figma.com/design/rHt8tgiZ2lNQX8sSXx0Tw5/MySigrid-Homepage-Design?node-id=302-1394&t=jhbueDyiBfIVibJD-4",
+      "content": "Add a playbook guarantee section",
+      "startDate": "2025-07-23",
+      "startTime": "08:00",
+      "dueDate": "2025-07-23",
+      "dueTime": "08:30",
+      "date": "2025-07-23",
+      "time": "08:00",
+      "utcStart": "2025-07-23T06:00:00.000Z",
+      "utcDue": "2025-07-23T06:30:00.000Z",
+      "utc": "2025-07-23T06:00:00.000Z",
+      "updatedAt": "2025-07-23T09:35:14.336Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "completed",
+      "id": "1753263314338",
+      "createdAt": "2025-07-23T09:35:14.338Z"
     }
   ],
-  "lastSync": "2025-07-23T08:14:34.589Z"
+  "lastSync": "2025-07-23T09:35:14.338Z"
 }
