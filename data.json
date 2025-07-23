@@ -532,6 +532,29 @@
       ],
       "id": "1753265181801",
       "createdAt": "2025-07-23T10:06:21.801Z"
+    },
+    {
+      "title": "The secret every luxury homeowner knows but rarely shares",
+      "link": "",
+      "content": "Ready to unlock the insider secrets of luxury bedroom styling?\n📎 Link in bio for the complete guide\n#LuxuryBedroom #InteriorDesign #HighEndDecor #BedroomStyling #LuxuryLiving #DesignerHome #ScandinavianDesign #DanishDesign #LuxuryPillows #InteriorStyling #HomeDecor #BespokeLiving #LuxuryInteriors #DesignerDecor #PremiumHome",
+      "startDate": "2025-07-23",
+      "startTime": "12:00",
+      "dueDate": "2025-07-23",
+      "dueTime": "13:00",
+      "date": "2025-07-23",
+      "time": "12:00",
+      "utcStart": "2025-07-23T10:00:00.000Z",
+      "utcDue": "2025-07-23T11:00:00.000Z",
+      "utc": "2025-07-23T10:00:00.000Z",
+      "updatedAt": "2025-07-23T10:07:10.234Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "id": "1753265230235",
+      "createdAt": "2025-07-23T10:07:10.235Z"
     }
   ],
   "tasks": [
@@ -676,5 +699,5 @@
       "createdAt": "2025-07-23T10:04:58.374Z"
     }
   ],
-  "lastSync": "2025-07-23T10:06:21.801Z"
+  "lastSync": "2025-07-23T10:07:10.236Z"
 }
