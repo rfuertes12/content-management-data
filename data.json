@@ -651,10 +651,10 @@
       "date": "2025-07-24",
       "time": "13:00",
       "utc": "2025-07-24T11:00:00.000Z",
-      "updatedAt": "2025-07-23T17:55:23.082Z",
+      "updatedAt": "2025-07-23T17:55:57.382Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "inprogress",
+      "taskStatus": "todo",
       "id": "1753248586057",
       "createdAt": "2025-07-23T05:29:46.057Z",
       "startDate": "2025-07-24",
@@ -765,5 +765,5 @@
       "createdAt": "2025-07-23T17:54:51.134Z"
     }
   ],
-  "lastSync": "2025-07-23T17:55:23.083Z"
+  "lastSync": "2025-07-23T17:55:57.384Z"
 }
