@@ -533,13 +533,13 @@
       "utcDue": "2025-07-25T12:00:00.000Z"
     },
     {
-      "title": "Publish blog post",
-      "link": "",
-      "content": "",
+      "title": "Create blog post",
+      "link": "https://seo-writer.brandflowph.com/?doc=the-ultimate-guide-to-throw-pillows-for-beds-mastering-luxury-bedroom-design",
+      "content": "Title\nThe Ultimate Guide to Throw Pillows for Beds: Mastering Luxury Bedroom Design",
       "date": "2025-07-23",
       "time": "20:55",
       "utc": "2025-07-23T18:55:00.000Z",
-      "updatedAt": "2025-07-23T06:53:22.719Z",
+      "updatedAt": "2025-07-23T09:40:28.379Z",
       "type": "task",
       "priority": "high",
       "taskStatus": "inprogress",
@@ -613,5 +613,5 @@
       "createdAt": "2025-07-23T09:35:14.338Z"
     }
   ],
-  "lastSync": "2025-07-23T09:38:49.257Z"
+  "lastSync": "2025-07-23T09:40:28.380Z"
 }
