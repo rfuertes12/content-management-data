@@ -535,7 +535,7 @@
     },
     {
       "title": "The secret every luxury homeowner knows but rarely shares",
-      "link": "",
+      "link": "https://www.instagram.com/p/DMcopBOqXqy/?img_index=1",
       "content": "Ready to unlock the insider secrets of luxury bedroom styling?\n📎 Link in bio for the complete guide\n#LuxuryBedroom #InteriorDesign #HighEndDecor #BedroomStyling #LuxuryLiving #DesignerHome #ScandinavianDesign #DanishDesign #LuxuryPillows #InteriorStyling #HomeDecor #BespokeLiving #LuxuryInteriors #DesignerDecor #PremiumHome",
       "startDate": "2025-07-23",
       "startTime": "12:00",
@@ -546,9 +546,9 @@
       "utcStart": "2025-07-23T10:00:00.000Z",
       "utcDue": "2025-07-23T11:00:00.000Z",
       "utc": "2025-07-23T10:00:00.000Z",
-      "updatedAt": "2025-07-23T10:07:10.234Z",
+      "updatedAt": "2025-07-23T14:19:29.515Z",
       "type": "event",
-      "status": "scheduled",
+      "status": "published",
       "category": "social",
       "platforms": [
         "instagram"
@@ -722,5 +722,5 @@
       "createdAt": "2025-07-23T10:04:58.374Z"
     }
   ],
-  "lastSync": "2025-07-23T14:18:48.525Z"
+  "lastSync": "2025-07-23T14:19:29.518Z"
 }
