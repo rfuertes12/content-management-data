@@ -512,12 +512,18 @@
       "date": "2025-07-23",
       "time": "20:55",
       "utc": "2025-07-23T18:55:00.000Z",
-      "updatedAt": "2025-07-22T18:56:04.893Z",
+      "updatedAt": "2025-07-23T06:52:26.988Z",
       "type": "task",
       "priority": "high",
       "taskStatus": "todo",
       "id": "1753210564894",
-      "createdAt": "2025-07-22T18:56:04.894Z"
+      "createdAt": "2025-07-22T18:56:04.894Z",
+      "startDate": "2025-07-23",
+      "startTime": "20:55",
+      "dueDate": "2025-07-23",
+      "dueTime": "12:00",
+      "utcStart": "2025-07-23T18:55:00.000Z",
+      "utcDue": "2025-07-23T10:00:00.000Z"
     },
     {
       "title": "Community growth and engagement",
@@ -534,5 +540,5 @@
       "createdAt": "2025-07-23T05:29:46.057Z"
     }
   ],
-  "lastSync": "2025-07-23T06:51:40.743Z"
+  "lastSync": "2025-07-23T06:52:26.989Z"
 }
