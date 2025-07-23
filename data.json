@@ -783,7 +783,27 @@
       "taskStatus": "todo",
       "id": "1753293484506",
       "createdAt": "2025-07-23T17:58:04.506Z"
+    },
+    {
+      "title": "Create and share social content for the day",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-24",
+      "startTime": "09:00",
+      "dueDate": "2025-07-24",
+      "dueTime": "09:30",
+      "date": "2025-07-24",
+      "time": "09:00",
+      "utcStart": "2025-07-24T07:00:00.000Z",
+      "utcDue": "2025-07-24T07:30:00.000Z",
+      "utc": "2025-07-24T07:00:00.000Z",
+      "updatedAt": "2025-07-23T18:01:50.215Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1753293710217",
+      "createdAt": "2025-07-23T18:01:50.217Z"
     }
   ],
-  "lastSync": "2025-07-23T17:58:42.816Z"
+  "lastSync": "2025-07-23T18:01:50.217Z"
 }
