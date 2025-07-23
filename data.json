@@ -714,13 +714,13 @@
       "utcStart": "2025-07-23T09:30:00.000Z",
       "utcDue": "2025-07-23T11:00:00.000Z",
       "utc": "2025-07-23T09:30:00.000Z",
-      "updatedAt": "2025-07-23T10:04:58.372Z",
+      "updatedAt": "2025-07-23T10:28:58.719Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "inprogress",
+      "taskStatus": "completed",
       "id": "1753265098374",
       "createdAt": "2025-07-23T10:04:58.374Z"
     }
   ],
-  "lastSync": "2025-07-23T10:28:39.496Z"
+  "lastSync": "2025-07-23T10:28:58.720Z"
 }
