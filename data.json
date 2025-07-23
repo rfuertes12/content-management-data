@@ -544,7 +544,27 @@
       "dueTime": "14:00",
       "utcStart": "2025-07-23T08:00:00.000Z",
       "utcDue": "2025-07-23T12:00:00.000Z"
+    },
+    {
+      "title": "Create blog assets",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-23",
+      "startTime": "10:00",
+      "dueDate": "2025-07-23",
+      "dueTime": "12:00",
+      "date": "2025-07-23",
+      "time": "10:00",
+      "utcStart": "2025-07-23T08:00:00.000Z",
+      "utcDue": "2025-07-23T10:00:00.000Z",
+      "utc": "2025-07-23T08:00:00.000Z",
+      "updatedAt": "2025-07-23T07:03:58.621Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1753254238622",
+      "createdAt": "2025-07-23T07:03:58.622Z"
     }
   ],
-  "lastSync": "2025-07-23T06:53:22.720Z"
+  "lastSync": "2025-07-23T07:03:58.622Z"
 }
