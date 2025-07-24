@@ -830,15 +830,21 @@
       "startDate": "2025-07-24",
       "dueDate": "2025-07-24",
       "priority": "normal",
-      "taskStatus": "todo",
+      "taskStatus": "completed",
       "content": "",
       "link": "",
       "startTime": "10:30",
       "dueTime": "11:00",
       "id": "1753342235296",
       "createdAt": "2025-07-24T07:30:35.296Z",
-      "type": "task"
+      "type": "task",
+      "date": "2025-07-24",
+      "time": "10:30",
+      "utcStart": "2025-07-24T08:30:00.000Z",
+      "utcDue": "2025-07-24T09:00:00.000Z",
+      "utc": "2025-07-24T08:30:00.000Z",
+      "updatedAt": "2025-07-24T09:32:46.877Z"
     }
   ],
-  "lastSync": "2025-07-24T09:32:36.961Z"
+  "lastSync": "2025-07-24T09:32:46.882Z"
 }
