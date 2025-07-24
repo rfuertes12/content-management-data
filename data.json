@@ -622,6 +622,29 @@
       "platforms": [],
       "id": "1753342920859",
       "createdAt": "2025-07-24T07:42:00.859Z"
+    },
+    {
+      "title": "Facebook post",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-24",
+      "startTime": "11:45",
+      "dueDate": "2025-07-24",
+      "dueTime": "11:45",
+      "date": "2025-07-24",
+      "time": "11:45",
+      "utcStart": "2025-07-24T09:45:00.000Z",
+      "utcDue": "2025-07-24T09:45:00.000Z",
+      "utc": "2025-07-24T09:45:00.000Z",
+      "updatedAt": "2025-07-24T09:33:43.550Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "id": "1753349623552",
+      "createdAt": "2025-07-24T09:33:43.552Z"
     }
   ],
   "tasks": [
@@ -846,5 +869,5 @@
       "updatedAt": "2025-07-24T09:32:46.877Z"
     }
   ],
-  "lastSync": "2025-07-24T09:32:46.882Z"
+  "lastSync": "2025-07-24T09:33:43.553Z"
 }
