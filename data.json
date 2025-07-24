@@ -907,16 +907,16 @@
       "title": "Create social media plan for July 28-Aug 1",
       "link": "",
       "content": "",
-      "startDate": "2025-07-25",
+      "startDate": "2025-07-24",
       "startTime": "19:00",
       "dueDate": "2025-07-25",
       "dueTime": "21:00",
-      "date": "2025-07-25",
+      "date": "2025-07-24",
       "time": "19:00",
-      "utcStart": "2025-07-25T11:00:00.000Z",
+      "utcStart": "2025-07-24T11:00:00.000Z",
       "utcDue": "2025-07-25T13:00:00.000Z",
-      "utc": "2025-07-25T11:00:00.000Z",
-      "updatedAt": "2025-07-24T12:47:39.714Z",
+      "utc": "2025-07-24T11:00:00.000Z",
+      "updatedAt": "2025-07-24T12:51:21.336Z",
       "type": "task",
       "priority": "high",
       "taskStatus": "todo",
@@ -1004,5 +1004,5 @@
       "createdAt": "2025-07-24T12:39:43.880Z"
     }
   ],
-  "lastSync": "2025-07-24T12:47:39.716Z"
+  "lastSync": "2025-07-24T12:51:21.337Z"
 }
