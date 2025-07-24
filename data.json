@@ -693,19 +693,19 @@
       "createdAt": "2025-07-24T09:34:34.233Z"
     },
     {
-      "title": "Facbook post",
+      "title": "Facebook post",
       "link": "",
       "content": "",
       "startDate": "2025-07-25",
-      "startTime": "09:00",
+      "startTime": "14:00",
       "dueDate": "2025-07-25",
-      "dueTime": "09:30",
+      "dueTime": "14:30",
       "date": "2025-07-25",
-      "time": "09:00",
-      "utcStart": "2025-07-25T01:00:00.000Z",
-      "utcDue": "2025-07-25T01:30:00.000Z",
-      "utc": "2025-07-25T01:00:00.000Z",
-      "updatedAt": "2025-07-24T10:28:36.907Z",
+      "time": "14:00",
+      "utcStart": "2025-07-25T06:00:00.000Z",
+      "utcDue": "2025-07-25T06:30:00.000Z",
+      "utc": "2025-07-25T06:00:00.000Z",
+      "updatedAt": "2025-07-24T12:37:38.953Z",
       "type": "event",
       "status": "draft",
       "category": "social",
@@ -984,5 +984,5 @@
       "updatedAt": "2025-07-24T09:32:46.877Z"
     }
   ],
-  "lastSync": "2025-07-24T12:36:32.078Z"
+  "lastSync": "2025-07-24T12:37:38.956Z"
 }
