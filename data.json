@@ -668,6 +668,29 @@
       ],
       "id": "1753349655422",
       "createdAt": "2025-07-24T09:34:15.422Z"
+    },
+    {
+      "title": "Pinterest",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-24",
+      "startTime": "11:45",
+      "dueDate": "2025-07-24",
+      "dueTime": "11:45",
+      "date": "2025-07-24",
+      "time": "11:45",
+      "utcStart": "2025-07-24T09:45:00.000Z",
+      "utcDue": "2025-07-24T09:45:00.000Z",
+      "utc": "2025-07-24T09:45:00.000Z",
+      "updatedAt": "2025-07-24T09:34:34.232Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "id": "1753349674233",
+      "createdAt": "2025-07-24T09:34:34.233Z"
     }
   ],
   "tasks": [
@@ -892,5 +915,5 @@
       "updatedAt": "2025-07-24T09:32:46.877Z"
     }
   ],
-  "lastSync": "2025-07-24T09:34:15.423Z"
+  "lastSync": "2025-07-24T09:34:34.234Z"
 }
