@@ -810,7 +810,7 @@
       "date": "2025-07-25",
       "time": "19:00",
       "utc": "2025-07-25T11:00:00.000Z",
-      "updatedAt": "2025-07-24T12:36:32.076Z",
+      "updatedAt": "2025-07-24T12:38:33.694Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "todo",
@@ -819,9 +819,9 @@
       "startDate": "2025-07-25",
       "startTime": "19:00",
       "dueDate": "2025-07-25",
-      "dueTime": "20:00",
+      "dueTime": "21:00",
       "utcStart": "2025-07-25T11:00:00.000Z",
-      "utcDue": "2025-07-25T12:00:00.000Z"
+      "utcDue": "2025-07-25T13:00:00.000Z"
     },
     {
       "title": "Create blog assets",
@@ -984,5 +984,5 @@
       "updatedAt": "2025-07-24T09:32:46.877Z"
     }
   ],
-  "lastSync": "2025-07-24T12:38:21.049Z"
+  "lastSync": "2025-07-24T12:38:33.698Z"
 }
