@@ -807,21 +807,21 @@
       "title": "Community growth and engagement",
       "link": "",
       "content": "",
-      "date": "2025-07-24",
-      "time": "13:00",
-      "utc": "2025-07-24T11:00:00.000Z",
-      "updatedAt": "2025-07-23T17:55:57.382Z",
+      "date": "2025-07-25",
+      "time": "19:00",
+      "utc": "2025-07-25T11:00:00.000Z",
+      "updatedAt": "2025-07-24T12:36:32.076Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "todo",
       "id": "1753248586057",
       "createdAt": "2025-07-23T05:29:46.057Z",
-      "startDate": "2025-07-24",
-      "startTime": "13:00",
-      "dueDate": "2025-07-24",
-      "dueTime": "14:00",
-      "utcStart": "2025-07-24T11:00:00.000Z",
-      "utcDue": "2025-07-24T12:00:00.000Z"
+      "startDate": "2025-07-25",
+      "startTime": "19:00",
+      "dueDate": "2025-07-25",
+      "dueTime": "20:00",
+      "utcStart": "2025-07-25T11:00:00.000Z",
+      "utcDue": "2025-07-25T12:00:00.000Z"
     },
     {
       "title": "Create blog assets",
@@ -984,5 +984,5 @@
       "updatedAt": "2025-07-24T09:32:46.877Z"
     }
   ],
-  "lastSync": "2025-07-24T10:29:25.644Z"
+  "lastSync": "2025-07-24T12:36:32.078Z"
 }
