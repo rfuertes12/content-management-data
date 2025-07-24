@@ -671,7 +671,7 @@
     },
     {
       "title": "Pinterest",
-      "link": "",
+      "link": "https://ph.pinterest.com/pin/1096063628079748232/",
       "content": "",
       "startDate": "2025-07-24",
       "startTime": "11:45",
@@ -682,9 +682,9 @@
       "utcStart": "2025-07-24T09:45:00.000Z",
       "utcDue": "2025-07-24T09:45:00.000Z",
       "utc": "2025-07-24T09:45:00.000Z",
-      "updatedAt": "2025-07-24T09:34:34.232Z",
+      "updatedAt": "2025-07-24T10:00:53.596Z",
       "type": "event",
-      "status": "scheduled",
+      "status": "published",
       "category": "social",
       "platforms": [
         "pinterest"
@@ -915,5 +915,5 @@
       "updatedAt": "2025-07-24T09:32:46.877Z"
     }
   ],
-  "lastSync": "2025-07-24T10:00:19.341Z"
+  "lastSync": "2025-07-24T10:00:53.598Z"
 }
