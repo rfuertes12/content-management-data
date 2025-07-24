@@ -766,21 +766,21 @@
     },
     {
       "title": "Research topic, generate, and publish blog content",
-      "link": "",
+      "link": "https://seo-writer.brandflowph.com/?doc=elevate-your-home-with-the-stunning-eilersen-zephyr-cushion-collection",
       "content": "",
       "startDate": "2025-07-24",
       "startTime": "07:00",
       "dueDate": "2025-07-24",
-      "dueTime": "09:00",
+      "dueTime": "11:00",
       "date": "2025-07-24",
       "time": "07:00",
       "utcStart": "2025-07-24T05:00:00.000Z",
-      "utcDue": "2025-07-24T07:00:00.000Z",
+      "utcDue": "2025-07-24T09:00:00.000Z",
       "utc": "2025-07-24T05:00:00.000Z",
-      "updatedAt": "2025-07-23T17:58:42.814Z",
+      "updatedAt": "2025-07-24T07:28:48.686Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "todo",
+      "taskStatus": "inprogress",
       "id": "1753293484506",
       "createdAt": "2025-07-23T17:58:04.506Z"
     },
@@ -805,5 +805,5 @@
       "createdAt": "2025-07-23T18:01:50.217Z"
     }
   ],
-  "lastSync": "2025-07-23T18:25:28.952Z"
+  "lastSync": "2025-07-24T07:28:48.689Z"
 }
