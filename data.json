@@ -803,7 +803,21 @@
       "taskStatus": "todo",
       "id": "1753293710217",
       "createdAt": "2025-07-23T18:01:50.217Z"
+    },
+    {
+      "title": "Create social media assets",
+      "startDate": "2025-07-24",
+      "dueDate": "2025-07-24",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "content": "",
+      "link": "",
+      "startTime": "10:30",
+      "dueTime": "11:00",
+      "id": "1753342235296",
+      "createdAt": "2025-07-24T07:30:35.296Z",
+      "type": "task"
     }
   ],
-  "lastSync": "2025-07-24T07:28:48.689Z"
+  "lastSync": "2025-07-24T07:30:35.297Z"
 }
