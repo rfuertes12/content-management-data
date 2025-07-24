@@ -604,7 +604,7 @@
     },
     {
       "title": "Elevate Your Home with the Stunning Eilersen Zephyr Cushion Collection",
-      "link": "",
+      "link": "https://eilersencushion.eu/blogs/product-spotlight/eilersen-zephyr-cushion",
       "content": "https://seo-writer.brandflowph.com/?doc=elevate-your-home-with-the-stunning-eilersen-zephyr-cushion-collection",
       "startDate": "2025-07-24",
       "startTime": "11:30",
@@ -615,7 +615,7 @@
       "utcStart": "2025-07-24T09:30:00.000Z",
       "utcDue": "2025-07-24T09:30:00.000Z",
       "utc": "2025-07-24T09:30:00.000Z",
-      "updatedAt": "2025-07-24T07:42:00.857Z",
+      "updatedAt": "2025-07-24T07:54:18.381Z",
       "type": "event",
       "status": "draft",
       "category": "blog",
@@ -840,5 +840,5 @@
       "type": "task"
     }
   ],
-  "lastSync": "2025-07-24T07:42:00.861Z"
+  "lastSync": "2025-07-24T07:54:18.383Z"
 }
