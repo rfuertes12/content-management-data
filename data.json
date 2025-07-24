@@ -771,13 +771,13 @@
       "startDate": "2025-07-24",
       "startTime": "07:00",
       "dueDate": "2025-07-24",
-      "dueTime": "11:00",
+      "dueTime": "09:00",
       "date": "2025-07-24",
       "time": "07:00",
       "utcStart": "2025-07-24T05:00:00.000Z",
-      "utcDue": "2025-07-24T09:00:00.000Z",
+      "utcDue": "2025-07-24T07:00:00.000Z",
       "utc": "2025-07-24T05:00:00.000Z",
-      "updatedAt": "2025-07-24T07:28:48.686Z",
+      "updatedAt": "2025-07-24T07:31:32.281Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "inprogress",
@@ -819,5 +819,5 @@
       "type": "task"
     }
   ],
-  "lastSync": "2025-07-24T07:30:53.818Z"
+  "lastSync": "2025-07-24T07:31:32.282Z"
 }
