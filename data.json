@@ -1007,23 +1007,23 @@
     {
       "title": "Create and publish blog",
       "link": "https://seo-writer.brandflowph.com/index.html?doc=which-size-cushion-is-best-for-me",
-      "content": "",
+      "content": "https://eilersencushion.eu/blogs/cushion-styling-guides/which-size-cushion-is-best-for-me",
       "startDate": "2025-07-25",
       "startTime": "06:00",
       "dueDate": "2025-07-25",
-      "dueTime": "07:30",
+      "dueTime": "12:30",
       "date": "2025-07-25",
       "time": "06:00",
       "utcStart": "2025-07-25T04:00:00.000Z",
-      "utcDue": "2025-07-25T05:30:00.000Z",
+      "utcDue": "2025-07-25T10:30:00.000Z",
       "utc": "2025-07-25T04:00:00.000Z",
-      "updatedAt": "2025-07-25T08:38:41.821Z",
+      "updatedAt": "2025-07-25T10:47:41.311Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "inprogress",
+      "taskStatus": "completed",
       "id": "1753360783880",
       "createdAt": "2025-07-24T12:39:43.880Z"
     }
   ],
-  "lastSync": "2025-07-25T10:47:04.188Z"
+  "lastSync": "2025-07-25T10:47:41.312Z"
 }
