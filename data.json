@@ -743,17 +743,17 @@
       "link": "",
       "content": "",
       "startDate": "2025-07-25",
-      "startTime": "14:00",
+      "startTime": "08:00",
       "dueDate": "2025-07-25",
-      "dueTime": "14:30",
+      "dueTime": "08:30",
       "date": "2025-07-25",
-      "time": "14:00",
+      "time": "08:00",
       "utcStart": "2025-07-25T06:00:00.000Z",
       "utcDue": "2025-07-25T06:30:00.000Z",
       "utc": "2025-07-25T06:00:00.000Z",
-      "updatedAt": "2025-07-24T12:38:21.046Z",
+      "updatedAt": "2025-07-25T10:45:57.096Z",
       "type": "event",
-      "status": "draft",
+      "status": "scheduled",
       "category": "social",
       "platforms": [
         "pinterest"
@@ -1025,5 +1025,5 @@
       "createdAt": "2025-07-24T12:39:43.880Z"
     }
   ],
-  "lastSync": "2025-07-25T10:45:46.960Z"
+  "lastSync": "2025-07-25T10:45:57.099Z"
 }
