@@ -985,7 +985,7 @@
     },
     {
       "title": "Create and publish blog",
-      "link": "",
+      "link": "https://seo-writer.brandflowph.com/index.html?doc=which-size-cushion-is-best-for-me",
       "content": "",
       "startDate": "2025-07-25",
       "startTime": "06:00",
@@ -996,7 +996,7 @@
       "utcStart": "2025-07-25T04:00:00.000Z",
       "utcDue": "2025-07-25T05:30:00.000Z",
       "utc": "2025-07-25T04:00:00.000Z",
-      "updatedAt": "2025-07-25T08:30:58.269Z",
+      "updatedAt": "2025-07-25T08:38:41.821Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "inprogress",
@@ -1004,5 +1004,5 @@
       "createdAt": "2025-07-24T12:39:43.880Z"
     }
   ],
-  "lastSync": "2025-07-25T08:30:58.273Z"
+  "lastSync": "2025-07-25T08:38:41.823Z"
 }
