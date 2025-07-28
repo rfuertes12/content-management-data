@@ -1138,7 +1138,7 @@
     },
     {
       "title": "Generate blog and social media assets",
-      "link": "https://seo-writer.brandflowph.com/index.html?doc=how-to-arrange-bed-pillows-the-complete-guide-to-professional-bedroom-styling",
+      "link": "",
       "content": "",
       "startDate": "2025-07-28",
       "startTime": "08:30",
@@ -1149,7 +1149,7 @@
       "utcStart": "2025-07-28T06:30:00.000Z",
       "utcDue": "2025-07-28T07:15:00.000Z",
       "utc": "2025-07-28T06:30:00.000Z",
-      "updatedAt": "2025-07-28T08:15:37.187Z",
+      "updatedAt": "2025-07-28T08:16:18.858Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "todo",
@@ -1177,5 +1177,5 @@
       "createdAt": "2025-07-28T05:03:18.869Z"
     }
   ],
-  "lastSync": "2025-07-28T08:15:37.188Z"
+  "lastSync": "2025-07-28T08:16:18.860Z"
 }
