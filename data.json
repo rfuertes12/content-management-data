@@ -717,7 +717,7 @@
     },
     {
       "title": "Instagram post",
-      "link": "",
+      "link": "https://www.instagram.com/p/DMhz8tyNeLM/?img_index=1",
       "content": "",
       "startDate": "2025-07-25",
       "startTime": "08:00",
@@ -728,9 +728,9 @@
       "utcStart": "2025-07-25T06:00:00.000Z",
       "utcDue": "2025-07-25T11:00:00.000Z",
       "utc": "2025-07-25T06:00:00.000Z",
-      "updatedAt": "2025-07-25T10:46:48.427Z",
+      "updatedAt": "2025-07-28T04:54:33.060Z",
       "type": "event",
-      "status": "scheduled",
+      "status": "published",
       "category": "social",
       "platforms": [
         "instagram"
@@ -1025,5 +1025,5 @@
       "createdAt": "2025-07-24T12:39:43.880Z"
     }
   ],
-  "lastSync": "2025-07-28T04:54:03.451Z"
+  "lastSync": "2025-07-28T04:54:33.062Z"
 }
