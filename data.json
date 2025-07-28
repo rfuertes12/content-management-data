@@ -1118,21 +1118,21 @@
     },
     {
       "title": "Research topic and generate blog content",
-      "link": "",
+      "link": "https://seo-writer.brandflowph.com/index.html?doc=how-to-arrange-bed-pillows-the-complete-guide-to-professional-bedroom-styling",
       "content": "",
       "startDate": "2025-07-28",
       "startTime": "07:00",
       "dueDate": "2025-07-28",
-      "dueTime": "07:30",
+      "dueTime": "11:30",
       "date": "2025-07-28",
       "time": "07:00",
       "utcStart": "2025-07-28T05:00:00.000Z",
-      "utcDue": "2025-07-28T05:30:00.000Z",
+      "utcDue": "2025-07-28T09:30:00.000Z",
       "utc": "2025-07-28T05:00:00.000Z",
-      "updatedAt": "2025-07-28T04:59:33.184Z",
+      "updatedAt": "2025-07-28T08:16:44.585Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "todo",
+      "taskStatus": "inprogress",
       "id": "1753678773185",
       "createdAt": "2025-07-28T04:59:33.185Z"
     },
@@ -1177,5 +1177,5 @@
       "createdAt": "2025-07-28T05:03:18.869Z"
     }
   ],
-  "lastSync": "2025-07-28T08:16:18.860Z"
+  "lastSync": "2025-07-28T08:16:44.586Z"
 }
