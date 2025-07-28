@@ -808,7 +808,7 @@
     },
     {
       "title": "Discover expert secrets for creating stunning bed displays that combine Scandinavian elegance with luxury hotel sophistication.",
-      "link": "",
+      "link": "https://ph.pinterest.com/pin/1096063628079796129/",
       "content": "",
       "startDate": "2025-07-28",
       "startTime": "09:00",
@@ -819,9 +819,9 @@
       "utcStart": "2025-07-28T07:00:00.000Z",
       "utcDue": "2025-07-28T11:45:00.000Z",
       "utc": "2025-07-28T07:00:00.000Z",
-      "updatedAt": "2025-07-28T11:45:30.198Z",
+      "updatedAt": "2025-07-28T11:59:08.280Z",
       "type": "event",
-      "status": "scheduled",
+      "status": "published",
       "category": "social",
       "platforms": [
         "pinterest"
@@ -1179,5 +1179,5 @@
       "createdAt": "2025-07-28T05:03:18.869Z"
     }
   ],
-  "lastSync": "2025-07-28T11:58:37.558Z"
+  "lastSync": "2025-07-28T11:59:08.282Z"
 }
