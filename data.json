@@ -867,7 +867,7 @@
       "utc": "2025-07-28T06:00:00.000Z",
       "updatedAt": "2025-07-28T11:41:46.203Z",
       "type": "event",
-      "status": "published",
+      "status": "draft",
       "category": "blog",
       "platforms": [],
       "priority": "normal",
@@ -1177,5 +1177,5 @@
       "createdAt": "2025-07-28T05:03:18.869Z"
     }
   ],
-  "lastSync": "2025-07-28T11:41:46.204Z"
+  "lastSync": "2025-07-28T11:41:50.765Z"
 }
