@@ -781,6 +781,29 @@
       "platforms": [],
       "id": "1753433000413",
       "createdAt": "2025-07-25T08:43:20.413Z"
+    },
+    {
+      "title": "Instagram post",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-28",
+      "startTime": "09:00",
+      "dueDate": "2025-07-28",
+      "dueTime": "09:30",
+      "date": "2025-07-28",
+      "time": "09:00",
+      "utcStart": "2025-07-28T07:00:00.000Z",
+      "utcDue": "2025-07-28T07:30:00.000Z",
+      "utc": "2025-07-28T07:00:00.000Z",
+      "updatedAt": "2025-07-28T04:57:40.575Z",
+      "type": "event",
+      "status": "draft",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "id": "1753678660576",
+      "createdAt": "2025-07-28T04:57:40.576Z"
     }
   ],
   "tasks": [
@@ -1045,5 +1068,5 @@
       "createdAt": "2025-07-28T04:56:48.689Z"
     }
   ],
-  "lastSync": "2025-07-28T04:57:02.560Z"
+  "lastSync": "2025-07-28T04:57:40.576Z"
 }
