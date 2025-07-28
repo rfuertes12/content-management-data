@@ -1034,7 +1034,7 @@
       "updatedAt": "2025-07-28T04:55:48.467Z",
       "type": "task",
       "priority": "high",
-      "taskStatus": "todo",
+      "taskStatus": "inprogress",
       "id": "1753293291134",
       "createdAt": "2025-07-23T17:54:51.134Z"
     },
@@ -1179,5 +1179,5 @@
       "createdAt": "2025-07-28T05:03:18.869Z"
     }
   ],
-  "lastSync": "2025-07-28T11:45:51.978Z"
+  "lastSync": "2025-07-28T11:45:56.345Z"
 }
