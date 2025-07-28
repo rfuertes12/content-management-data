@@ -1112,7 +1112,27 @@
       "taskStatus": "todo",
       "id": "1753678773185",
       "createdAt": "2025-07-28T04:59:33.185Z"
+    },
+    {
+      "title": "Generate blog and social media assets",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-28",
+      "startTime": "08:30",
+      "dueDate": "2025-07-28",
+      "dueTime": "09:15",
+      "date": "2025-07-28",
+      "time": "08:30",
+      "utcStart": "2025-07-28T06:30:00.000Z",
+      "utcDue": "2025-07-28T07:15:00.000Z",
+      "utc": "2025-07-28T06:30:00.000Z",
+      "updatedAt": "2025-07-28T05:01:59.940Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1753678919940",
+      "createdAt": "2025-07-28T05:01:59.940Z"
     }
   ],
-  "lastSync": "2025-07-28T05:00:49.011Z"
+  "lastSync": "2025-07-28T05:01:59.941Z"
 }
