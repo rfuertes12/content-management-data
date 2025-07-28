@@ -1132,7 +1132,27 @@
       "taskStatus": "todo",
       "id": "1753678919940",
       "createdAt": "2025-07-28T05:01:59.940Z"
+    },
+    {
+      "title": "Audit site technical SEO and fix issues",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-28",
+      "startTime": "10:00",
+      "dueDate": "2025-07-28",
+      "dueTime": "11:30",
+      "date": "2025-07-28",
+      "time": "10:00",
+      "utcStart": "2025-07-28T08:00:00.000Z",
+      "utcDue": "2025-07-28T09:30:00.000Z",
+      "utc": "2025-07-28T08:00:00.000Z",
+      "updatedAt": "2025-07-28T05:03:18.868Z",
+      "type": "task",
+      "priority": "high",
+      "taskStatus": "todo",
+      "id": "1753678998869",
+      "createdAt": "2025-07-28T05:03:18.869Z"
     }
   ],
-  "lastSync": "2025-07-28T05:01:59.941Z"
+  "lastSync": "2025-07-28T05:03:18.869Z"
 }
