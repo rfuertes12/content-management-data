@@ -844,7 +844,7 @@
       "utc": "2025-07-28T07:00:00.000Z",
       "updatedAt": "2025-07-28T05:00:49.009Z",
       "type": "event",
-      "status": "scheduled",
+      "status": "draft",
       "category": "social",
       "platforms": [
         "facebook"
@@ -1177,5 +1177,5 @@
       "createdAt": "2025-07-28T05:03:18.869Z"
     }
   ],
-  "lastSync": "2025-07-28T07:50:52.529Z"
+  "lastSync": "2025-07-28T07:50:54.612Z"
 }
