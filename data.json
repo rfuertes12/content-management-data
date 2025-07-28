@@ -832,7 +832,7 @@
     },
     {
       "title": "Learn the expert techniques that will elevate your bedroom styling game.",
-      "link": "",
+      "link": "https://www.facebook.com/share/p/1AyUKXZUmM/",
       "content": "",
       "startDate": "2025-07-28",
       "startTime": "09:00",
@@ -843,9 +843,9 @@
       "utcStart": "2025-07-28T07:00:00.000Z",
       "utcDue": "2025-07-28T11:45:00.000Z",
       "utc": "2025-07-28T07:00:00.000Z",
-      "updatedAt": "2025-07-28T11:44:48.584Z",
+      "updatedAt": "2025-07-28T11:58:37.556Z",
       "type": "event",
-      "status": "scheduled",
+      "status": "published",
       "category": "social",
       "platforms": [
         "facebook"
@@ -1179,5 +1179,5 @@
       "createdAt": "2025-07-28T05:03:18.869Z"
     }
   ],
-  "lastSync": "2025-07-28T11:58:14.201Z"
+  "lastSync": "2025-07-28T11:58:37.558Z"
 }
