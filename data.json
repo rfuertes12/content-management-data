@@ -1089,7 +1089,27 @@
       "taskStatus": "todo",
       "id": "1753678608689",
       "createdAt": "2025-07-28T04:56:48.689Z"
+    },
+    {
+      "title": "Research topic and generate blog content",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-28",
+      "startTime": "07:00",
+      "dueDate": "2025-07-28",
+      "dueTime": "07:30",
+      "date": "2025-07-28",
+      "time": "07:00",
+      "utcStart": "2025-07-28T05:00:00.000Z",
+      "utcDue": "2025-07-28T05:30:00.000Z",
+      "utc": "2025-07-28T05:00:00.000Z",
+      "updatedAt": "2025-07-28T04:59:33.184Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1753678773185",
+      "createdAt": "2025-07-28T04:59:33.185Z"
     }
   ],
-  "lastSync": "2025-07-28T04:58:34.270Z"
+  "lastSync": "2025-07-28T04:59:33.185Z"
 }
