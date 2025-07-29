@@ -2287,7 +2287,7 @@
     },
     {
       "title": "Add Stone collection pin board",
-      "link": "",
+      "link": "https://sk.pinterest.com/eilersencushion/eilersen-stone-collection/",
       "content": "",
       "startDate": "2025-07-30",
       "startTime": "13:00",
@@ -2298,7 +2298,7 @@
       "utcStart": "2025-07-30T11:00:00.000Z",
       "utcDue": "2025-07-30T13:00:00.000Z",
       "utc": "2025-07-30T11:00:00.000Z",
-      "updatedAt": "2025-07-29T12:27:22.118Z",
+      "updatedAt": "2025-07-29T12:29:25.190Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "todo",
@@ -2326,5 +2326,5 @@
       "createdAt": "2025-07-29T12:28:52.185Z"
     }
   ],
-  "lastSync": "2025-07-29T12:28:52.186Z"
+  "lastSync": "2025-07-29T12:29:25.192Z"
 }
