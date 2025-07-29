@@ -2445,7 +2445,7 @@
       "updatedAt": "2025-07-29T08:54:17.409Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "inprogress",
+      "taskStatus": "completed",
       "id": "1753771572850",
       "createdAt": "2025-07-29T06:46:12.850Z"
     },
@@ -2870,5 +2870,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T15:19:40.308Z"
+  "lastSync": "2025-07-29T15:19:48.214Z"
 }
