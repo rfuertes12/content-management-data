@@ -1910,6 +1910,30 @@
       "priority": "normal",
       "id": "1753793657662",
       "createdAt": "2025-07-29T12:54:17.662Z"
+    },
+    {
+      "title": "Luxury Eilersen Tent Cushion - Versatile Designer Accent for Modern Interiors",
+      "link": "https://sk.pinterest.com/pin/1096063628078446659/",
+      "content": "Elevate your interior styling with the Eilersen Tent cushion's striking radial stripe pattern. This versatile luxury piece works beautifully on sofas, armchairs, or beds, available in five sophisticated colorways including Burgundy/Blue, Brown/Light Blue, and Green/Beige. Premium materials meet Scandinavian design excellence.",
+      "startDate": "2025-06-25",
+      "startTime": "14:54",
+      "dueDate": "2025-06-25",
+      "dueTime": "14:54",
+      "date": "2025-06-25",
+      "time": "14:54",
+      "utcStart": "2025-06-25T12:54:00.000Z",
+      "utcDue": "2025-06-25T12:54:00.000Z",
+      "utc": "2025-06-25T12:54:00.000Z",
+      "updatedAt": "2025-07-29T12:55:04.543Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793704544",
+      "createdAt": "2025-07-29T12:55:04.544Z"
     }
   ],
   "tasks": [
@@ -2654,5 +2678,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:54:17.665Z"
+  "lastSync": "2025-07-29T12:55:04.548Z"
 }
