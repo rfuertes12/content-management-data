@@ -1331,6 +1331,30 @@
       "priority": "normal",
       "id": "1753785155435",
       "createdAt": "2025-07-29T10:32:35.435Z"
+    },
+    {
+      "title": "One cushion, endless styling possibilities",
+      "link": "https://www.instagram.com/p/DLUIpL1gVQ6/",
+      "content": "One cushion, endless styling possibilities ✨\n\nThe Eilersen Tent cushion proves that luxury lies in the details. This Burgundy/Blue beauty transforms any space with its mesmerizing radial stripe pattern – from minimalist sofas to statement armchairs, bedroom styling to reading nooks.\n\nFive sophisticated colorways mean there's a perfect match for every luxury interior. Crafted from premium materials and designed for real life – because true luxury should be lived in, not just admired.\n\nShop Now via our Instagram Shop 🛍️\n\n#LuxuryInteriorDesign #ScandinavianDesign #DanishDesign #InteriorStyling #HomeLuxury #DesignerCushions #ModernLiving #EilersenDesign #LuxuryDecor #HighEndInteriors #SofaStyling #InteriorInspiration #LuxuryHome #DesignLovers #PremiumTextiles",
+      "startDate": "2025-06-25",
+      "startTime": "12:33",
+      "dueDate": "2025-06-25",
+      "dueTime": "12:33",
+      "date": "2025-06-25",
+      "time": "12:33",
+      "utcStart": "2025-06-25T10:33:00.000Z",
+      "utcDue": "2025-06-25T10:33:00.000Z",
+      "utc": "2025-06-25T10:33:00.000Z",
+      "updatedAt": "2025-07-29T10:33:40.346Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753785220347",
+      "createdAt": "2025-07-29T10:33:40.347Z"
     }
   ],
   "tasks": [
@@ -1675,5 +1699,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:32:42.268Z"
+  "lastSync": "2025-07-29T10:33:40.349Z"
 }
