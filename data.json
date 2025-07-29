@@ -2054,6 +2054,30 @@
       "priority": "normal",
       "id": "1753794137370",
       "createdAt": "2025-07-29T13:02:17.370Z"
+    },
+    {
+      "title": "Luxury Stone Sage Green Designer Cushion - Danish Scandinavian Home Decor",
+      "link": "https://sk.pinterest.com/pin/1096063628078997032/",
+      "content": "Elevate your luxury sofa with this sophisticated Stone Sage Green cushion by Nils Juul Eilersen. The diagonal corded texture and calming sage hue create instant elegance, perfect for cream, charcoal, or navy upholstery. Premium Danish design meets lasting durability in this 50x50cm statement piece.",
+      "startDate": "2025-07-07",
+      "startTime": "15:02",
+      "dueDate": "2025-07-07",
+      "dueTime": "15:02",
+      "date": "2025-07-07",
+      "time": "15:02",
+      "utcStart": "2025-07-07T13:02:00.000Z",
+      "utcDue": "2025-07-07T13:02:00.000Z",
+      "utc": "2025-07-07T13:02:00.000Z",
+      "updatedAt": "2025-07-29T13:04:22.468Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753794262469",
+      "createdAt": "2025-07-29T13:04:22.469Z"
     }
   ],
   "tasks": [
@@ -2798,5 +2822,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T13:02:17.373Z"
+  "lastSync": "2025-07-29T13:04:22.471Z"
 }
