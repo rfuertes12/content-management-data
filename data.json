@@ -2078,6 +2078,30 @@
       "priority": "normal",
       "id": "1753794262469",
       "createdAt": "2025-07-29T13:04:22.469Z"
+    },
+    {
+      "title": "Designer Sage Green Patchwork Cushion - Luxury Sofa Styling Ideas",
+      "link": "https://sk.pinterest.com/pin/1096063628079038959/",
+      "content": "Add architectural interest to your living room with this stunning Cliff Sage Green cushion featuring unique corded patchwork design. Perfect for styling luxury sofas in sage green, cream, burgundy, or leather. Danish craftsmanship meets modern sophistication in this versatile 50x50cm statement piece that transforms any couch into designer-worthy seating.",
+      "startDate": "2025-07-08",
+      "startTime": "15:06",
+      "dueDate": "2025-07-08",
+      "dueTime": "15:06",
+      "date": "2025-07-08",
+      "time": "15:06",
+      "utcStart": "2025-07-08T13:06:00.000Z",
+      "utcDue": "2025-07-08T13:06:00.000Z",
+      "utc": "2025-07-08T13:06:00.000Z",
+      "updatedAt": "2025-07-29T13:06:52.880Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753794412880",
+      "createdAt": "2025-07-29T13:06:52.880Z"
     }
   ],
   "tasks": [
@@ -2822,5 +2846,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T13:04:22.471Z"
+  "lastSync": "2025-07-29T13:06:52.882Z"
 }
