@@ -1115,6 +1115,30 @@
       "priority": "normal",
       "id": "1753784114830",
       "createdAt": "2025-07-29T10:15:14.830Z"
+    },
+    {
+      "title": "The right cushions can transform your outdoor space",
+      "link": "https://www.instagram.com/p/DK9LSUSK-yT/?img_index=1",
+      "content": "Whether you're styling a sun-soaked patio, a cozy garden nook, or a breezy balcony, the right cushions can transform your outdoor space.\n\nFrom picking weather-resistant fabrics to mixing colors and textures, this guide has everything you need to elevate your summer lounging game. \n\nRead the full guide now: https://eilersencushion.eu/blogs/cushion-styling-guides/outdoor-cushions-guide\n\n#OutdoorLiving #CushionStyling #PatioDecor #ScandinavianDesign #OutdoorStyle #SummerHomeVibes #EilersenStyle #HomeInspo #OutdoorFurniture #GardenGoals #DeckDecor #OutdoorSpaces #InteriorDesignLovers #ScandiVibes #HomeStylingTips #CushionGuide",
+      "startDate": "2025-06-16",
+      "startTime": "12:15",
+      "dueDate": "2025-06-16",
+      "dueTime": "12:15",
+      "date": "2025-06-16",
+      "time": "12:15",
+      "utcStart": "2025-06-16T10:15:00.000Z",
+      "utcDue": "2025-06-16T10:15:00.000Z",
+      "utc": "2025-06-16T10:15:00.000Z",
+      "updatedAt": "2025-07-29T10:17:43.846Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753784263847",
+      "createdAt": "2025-07-29T10:17:43.847Z"
     }
   ],
   "tasks": [
@@ -1459,5 +1483,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:15:14.831Z"
+  "lastSync": "2025-07-29T10:17:43.848Z"
 }
