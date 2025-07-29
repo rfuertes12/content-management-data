@@ -1197,7 +1197,27 @@
       "taskStatus": "inprogress",
       "id": "1753771572850",
       "createdAt": "2025-07-29T06:46:12.850Z"
+    },
+    {
+      "title": "Schedule social media post for July 29 to August 3.",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-29",
+      "startTime": "10:05",
+      "dueDate": "2025-07-29",
+      "dueTime": "15:00",
+      "date": "2025-07-29",
+      "time": "10:05",
+      "utcStart": "2025-07-29T08:05:00.000Z",
+      "utcDue": "2025-07-29T13:00:00.000Z",
+      "utc": "2025-07-29T08:05:00.000Z",
+      "updatedAt": "2025-07-29T08:06:27.486Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1753776387487",
+      "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T08:05:40.894Z"
+  "lastSync": "2025-07-29T08:06:27.488Z"
 }
