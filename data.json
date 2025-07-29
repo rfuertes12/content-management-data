@@ -971,6 +971,30 @@
       "priority": "normal",
       "id": "1753783542423",
       "createdAt": "2025-07-29T10:05:42.423Z"
+    },
+    {
+      "title": "The Fern Cushion Collection by Eilersen isn’t just about comfort — it’s a design-forward expression of modern style.",
+      "link": "https://www.instagram.com/p/DKMOxEFurZq/",
+      "content": "The Fern Cushion Collection by Eilersen isn’t just about comfort — it’s a design-forward expression of modern style. With sharp geometric patterns and dynamic color contrasts, Fern transforms everyday spaces into curated interiors.\n\nFrom deep reds and classic navy to subtle olive and icy mint, each cushion adds structure and sophistication to sofas, armchairs, and beds.\n\n- For homes that speak in style.\n- Explore the full Fern Collection → https://eilersencushion.eu/collections/fern \n\n#decorinspo #modernliving #homestylingideas #designyourspace #HomeEssentials #homestyling #DesignYourSpace #eilersen #homeessentials #eilersensofa #ModernLiving #scandinaviandesign #interiordesigngoals #cushion #modernlivingroom #cushioncover #cushionlove #livingwithstyle #cushions",
+      "startDate": "2025-05-28",
+      "startTime": "12:06",
+      "dueDate": "2025-05-28",
+      "dueTime": "12:06",
+      "date": "2025-05-28",
+      "time": "12:06",
+      "utcStart": "2025-05-28T10:06:00.000Z",
+      "utcDue": "2025-05-28T10:06:00.000Z",
+      "utc": "2025-05-28T10:06:00.000Z",
+      "updatedAt": "2025-07-29T10:09:18.209Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753783758210",
+      "createdAt": "2025-07-29T10:09:18.210Z"
     }
   ],
   "tasks": [
@@ -1315,5 +1339,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:06:00.973Z"
+  "lastSync": "2025-07-29T10:09:18.211Z"
 }
