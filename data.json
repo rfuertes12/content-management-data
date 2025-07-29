@@ -1969,16 +1969,16 @@
       "title": "Set up Pinterest Merchant Account",
       "link": "https://sk.pinterest.com/eilersencushion/",
       "content": "",
-      "startDate": "2025-06-23",
+      "startDate": "2025-05-14",
       "startTime": "13:00",
-      "dueDate": "2025-06-24",
+      "dueDate": "2025-05-14",
       "dueTime": "13:00",
-      "date": "2025-06-23",
+      "date": "2025-05-14",
       "time": "13:00",
-      "utcStart": "2025-06-23T11:00:00.000Z",
-      "utcDue": "2025-06-24T11:00:00.000Z",
-      "utc": "2025-06-23T11:00:00.000Z",
-      "updatedAt": "2025-07-29T11:01:28.327Z",
+      "utcStart": "2025-05-14T11:00:00.000Z",
+      "utcDue": "2025-05-14T11:00:00.000Z",
+      "utc": "2025-05-14T11:00:00.000Z",
+      "updatedAt": "2025-07-29T12:17:21.326Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "completed",
@@ -2286,5 +2286,5 @@
       "createdAt": "2025-07-29T12:01:51.187Z"
     }
   ],
-  "lastSync": "2025-07-29T12:01:51.188Z"
+  "lastSync": "2025-07-29T12:17:21.328Z"
 }
