@@ -2249,16 +2249,16 @@
       "title": "Added Quill collection pin board",
       "link": "https://sk.pinterest.com/eilersencushion/eilersen-quill-collection/",
       "content": "",
-      "startDate": "2025-06-25",
+      "startDate": "2025-06-20",
       "startTime": "14:00",
-      "dueDate": "2025-06-25",
+      "dueDate": "2025-06-20",
       "dueTime": "14:00",
-      "date": "2025-06-25",
+      "date": "2025-06-20",
       "time": "14:00",
-      "utcStart": "2025-06-25T12:00:00.000Z",
-      "utcDue": "2025-06-25T12:00:00.000Z",
-      "utc": "2025-06-25T12:00:00.000Z",
-      "updatedAt": "2025-07-29T12:01:10.695Z",
+      "utcStart": "2025-06-20T12:00:00.000Z",
+      "utcDue": "2025-06-20T12:00:00.000Z",
+      "utc": "2025-06-20T12:00:00.000Z",
+      "updatedAt": "2025-07-29T12:25:04.930Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "completed",
@@ -2286,5 +2286,5 @@
       "createdAt": "2025-07-29T12:01:51.187Z"
     }
   ],
-  "lastSync": "2025-07-29T12:24:38.174Z"
+  "lastSync": "2025-07-29T12:25:04.932Z"
 }
