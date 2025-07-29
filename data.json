@@ -1862,6 +1862,30 @@
       "priority": "normal",
       "id": "1753793547630",
       "createdAt": "2025-07-29T12:52:27.630Z"
+    },
+    {
+      "title": "5 Outdoor Cushion Arrangement Ideas for Stylish Scandinavian Living",
+      "link": "https://sk.pinterest.com/pin/1096063628078297216/",
+      "content": "Looking to refresh your patio, terrace, or garden lounge? Our latest guide shares 5 expert outdoor cushion arrangement ideas that bring Scandinavian elegance to your open-air spaces.\n\nFrom sleek symmetry to relaxed layering, get inspired by tips that blend form, function, and comfort — using premium weather-resistant cushions made to last.\n\n✨ Scandinavian simplicity. Outdoor-ready design.",
+      "startDate": "2025-06-23",
+      "startTime": "14:52",
+      "dueDate": "2025-06-23",
+      "dueTime": "14:52",
+      "date": "2025-06-23",
+      "time": "14:52",
+      "utcStart": "2025-06-23T12:52:00.000Z",
+      "utcDue": "2025-06-23T12:52:00.000Z",
+      "utc": "2025-06-23T12:52:00.000Z",
+      "updatedAt": "2025-07-29T12:53:27.895Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793607896",
+      "createdAt": "2025-07-29T12:53:27.896Z"
     }
   ],
   "tasks": [
@@ -2606,5 +2630,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:52:27.633Z"
+  "lastSync": "2025-07-29T12:53:27.898Z"
 }
