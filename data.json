@@ -1451,6 +1451,30 @@
       "priority": "normal",
       "id": "1753785437846",
       "createdAt": "2025-07-29T10:37:17.846Z"
+    },
+    {
+      "title": "When texture becomes art",
+      "link": "https://www.instagram.com/p/DLmDXrQNtQm/?img_index=1",
+      "content": "When texture becomes art ✨\n\nEvery detail in our olive yellow collection tells a story of sophisticated craftsmanship:\n\n🔸 Geometric chevron patterns that create visual rhythm\n🔸 Luxurious ribbed corduroy that begs to be touched\n🔸 Intricate basketweave textures with dimensional depth\n🔸 Varying pile heights that dance with natural light\n\nThese aren't just pillows – they're the perfect finishing touches that transform ordinary spaces into extraordinary sanctuaries. The golden warmth of olive yellow brings life to neutral palettes while maintaining that coveted Scandinavian elegance.\nLayer. Mix. Create magic. ✨\n\nTransform your space – shop our Instagram Shop now 🛍️\n\n#OliveYellow #ScandinavianDesign #LuxuryPillows #InteriorDesign #ModernLiving #TexturedDesign #HomeDecor #LuxuryInteriors #DesignerPillows #Homestyling #PremiumDecor #LuxuryHome #InteriorStyling #NordicDesign #ElegantLiving",
+      "startDate": "2025-07-02",
+      "startTime": "12:37",
+      "dueDate": "2025-07-02",
+      "dueTime": "12:37",
+      "date": "2025-07-02",
+      "time": "12:37",
+      "utcStart": "2025-07-02T10:37:00.000Z",
+      "utcDue": "2025-07-02T10:37:00.000Z",
+      "utc": "2025-07-02T10:37:00.000Z",
+      "updatedAt": "2025-07-29T10:37:52.572Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753785472573",
+      "createdAt": "2025-07-29T10:37:52.573Z"
     }
   ],
   "tasks": [
@@ -1795,5 +1819,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:37:17.849Z"
+  "lastSync": "2025-07-29T10:37:52.575Z"
 }
