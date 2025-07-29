@@ -1595,6 +1595,30 @@
       "priority": "normal",
       "id": "1753785728320",
       "createdAt": "2025-07-29T10:42:08.320Z"
+    },
+    {
+      "title": "Nothing beats the bold sophistication of Eilersen's Tent collection",
+      "link": "https://www.instagram.com/p/DMMrm9Go70X/?img_index=1",
+      "content": "When your neutral sofa needs that perfect pop of personality, nothing beats the bold sophistication of Eilersen's Tent collection. This radial stripe masterpiece by Nils Juul Eilersen transforms any space from understated to unforgettable.\n\n🎯 50x50cm of pure Danish design excellence\n🎯 Premium viscose-cotton-polyester blend\n🎯 Mesmerizing radial pattern that captivates\n🎯 The statement piece your luxury home has been waiting for\n\nSometimes the smallest changes create the biggest impact. This isn't just a cushion—it's the exclamation point your interior has been missing.\n\nCheck it here or in our Instagram Shop: https://eilersencushion.eu/collections/tent/products/tent-red-white\n\n#LuxuryHome #EilersenDesign #DanishDesign #InteriorDesign #LuxuryLiving #DesignerCushions #ScandinavianStyle #LuxuryDecor #HighEndFurniture #PremiumHome #DesignerInteriors #LuxuryLifestyle #HomeDecor #ModernLuxury #StatementPiece",
+      "startDate": "2025-07-17",
+      "startTime": "12:42",
+      "dueDate": "2025-07-17",
+      "dueTime": "12:42",
+      "date": "2025-07-17",
+      "time": "12:42",
+      "utcStart": "2025-07-17T10:42:00.000Z",
+      "utcDue": "2025-07-17T10:42:00.000Z",
+      "utc": "2025-07-17T10:42:00.000Z",
+      "updatedAt": "2025-07-29T10:43:35.231Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753785815233",
+      "createdAt": "2025-07-29T10:43:35.233Z"
     }
   ],
   "tasks": [
@@ -1939,5 +1963,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:42:46.117Z"
+  "lastSync": "2025-07-29T10:43:35.234Z"
 }
