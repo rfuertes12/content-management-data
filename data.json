@@ -1091,6 +1091,30 @@
       "priority": "normal",
       "id": "1753784031549",
       "createdAt": "2025-07-29T10:13:51.549Z"
+    },
+    {
+      "title": "Elevate your space with timeless design Crafted by Nils Juul Eilersen",
+      "link": "https://www.instagram.com/p/DKzhjpEOHQE/?img_index=1",
+      "content": "Elevate your space with timeless design\nCrafted by Nils Juul Eilersen, the Quill Cushion Collection fuses Scandinavian craftsmanship with modern elegance.\n⁠\nWhether you're styling a cozy reading nook or updating your sofa, these color-rich cushions bring warmth, sophistication, and soul into any space. ✨⁠\n⁠\n🖤 True design endures—make a statement that lasts.\n⁠\nExplore the full collection: https://eilersencushion.eu\n\nRead More https://eilersencushion.eu/blogs/product-spotlights/quill-cushion\n\n#QuillCushion #EilersenCushion #ScandinavianDesign #ModernScandi #InteriorElegance #TimelessDesign #ColorRichInteriors #ContemporaryStyle #MinimalistLiving #ModernCraftsmanship #ScandiChic #DanishDesign #InteriorDetails #SofaStyling #ReadingNookVibes #HomeInspo #DesignThatLasts #CushionGoals #StyledByEilersen #EilersenStyle",
+      "startDate": "2025-06-12",
+      "startTime": "12:14",
+      "dueDate": "2025-06-12",
+      "dueTime": "12:14",
+      "date": "2025-06-12",
+      "time": "12:14",
+      "utcStart": "2025-06-12T10:14:00.000Z",
+      "utcDue": "2025-06-12T10:14:00.000Z",
+      "utc": "2025-06-12T10:14:00.000Z",
+      "updatedAt": "2025-07-29T10:15:14.829Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753784114830",
+      "createdAt": "2025-07-29T10:15:14.830Z"
     }
   ],
   "tasks": [
@@ -1435,5 +1459,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:14:21.992Z"
+  "lastSync": "2025-07-29T10:15:14.831Z"
 }
