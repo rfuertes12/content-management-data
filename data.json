@@ -1982,6 +1982,30 @@
       "priority": "normal",
       "id": "1753793802741",
       "createdAt": "2025-07-29T12:56:42.741Z"
+    },
+    {
+      "title": "Summit Midnight Blue Luxury Cushion - Perfect for Mustard Yellow Sofas",
+      "link": "https://sk.pinterest.com/pin/1096063628078657062/",
+      "content": "Discover the perfect color harmony with our Summit Midnight Blue cushion featuring diagonal ribbed texture. This premium 50x50cm cushion creates stunning contrast against mustard yellow luxury sofas, adding sophisticated depth and visual interest to any high-end living space. Crafted with premium materials for the discerning homeowner.",
+      "startDate": "2025-06-30",
+      "startTime": "14:57",
+      "dueDate": "2025-06-30",
+      "dueTime": "14:57",
+      "date": "2025-06-30",
+      "time": "14:57",
+      "utcStart": "2025-06-30T12:57:00.000Z",
+      "utcDue": "2025-06-30T12:57:00.000Z",
+      "utc": "2025-06-30T12:57:00.000Z",
+      "updatedAt": "2025-07-29T12:57:38.517Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793858518",
+      "createdAt": "2025-07-29T12:57:38.518Z"
     }
   ],
   "tasks": [
@@ -2726,5 +2750,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:56:42.743Z"
+  "lastSync": "2025-07-29T12:57:38.520Z"
 }
