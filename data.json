@@ -534,9 +534,9 @@
       "createdAt": "2025-07-23T10:06:21.801Z"
     },
     {
-      "title": "Instagram post",
+      "title": "The secret every luxury homeowner knows but rarely shares",
       "link": "https://www.instagram.com/p/DMcopBOqXqy/?img_index=1",
-      "content": "Ready to unlock the insider secrets of luxury bedroom styling?\n📎 Link in bio for the complete guide\n#LuxuryBedroom #InteriorDesign #HighEndDecor #BedroomStyling #LuxuryLiving #DesignerHome #ScandinavianDesign #DanishDesign #LuxuryPillows #InteriorStyling #HomeDecor #BespokeLiving #LuxuryInteriors #DesignerDecor #PremiumHome",
+      "content": "The secret every luxury homeowner knows but rarely shares...\n\nYour bedroom isn't just where you sleep—it's your personal sanctuary. And the difference between ordinary and extraordinary? It's all in the pillows. 💫\n\nProfessional designers understand that throw pillows are the jewelry of your bedroom. They create depth, add sophistication, and transform any space into a magazine-worthy retreat that rivals the most exclusive boutique hotels. 🏨\n\nFrom rich Scandinavian textures to carefully curated color stories, each pillow tells part of your sophisticated narrative. It's about creating visual poetry that speaks to discerning taste and refined living.\n\nReady to unlock the insider secrets of luxury bedroom styling?\n\n📎 Read Here: https://eilersencushion.eu/blogs/cushion-styling-guides/throw-pillows-for-beds\n\n#LuxuryBedroom #InteriorDesign #HighEndDecor #BedroomStyling #LuxuryLiving #DesignerHome #ScandinavianDesign #DanishDesign #LuxuryPillows #InteriorStyling #HomeDecor #BespokeLiving #LuxuryInteriors #DesignerDecor #PremiumHome",
       "startDate": "2025-07-23",
       "startTime": "12:00",
       "dueDate": "2025-07-23",
@@ -546,7 +546,7 @@
       "utcStart": "2025-07-23T10:00:00.000Z",
       "utcDue": "2025-07-23T11:00:00.000Z",
       "utc": "2025-07-23T10:00:00.000Z",
-      "updatedAt": "2025-07-24T09:46:58.573Z",
+      "updatedAt": "2025-07-29T10:46:34.757Z",
       "type": "event",
       "status": "published",
       "category": "social",
@@ -554,7 +554,8 @@
         "instagram"
       ],
       "id": "1753265230235",
-      "createdAt": "2025-07-23T10:07:10.235Z"
+      "createdAt": "2025-07-23T10:07:10.235Z",
+      "priority": "normal"
     },
     {
       "title": "Pinterest post",
@@ -2011,5 +2012,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:45:57.354Z"
+  "lastSync": "2025-07-29T10:46:34.760Z"
 }
