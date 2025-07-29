@@ -1163,6 +1163,30 @@
       "priority": "normal",
       "id": "1753784513730",
       "createdAt": "2025-07-29T10:21:53.730Z"
+    },
+    {
+      "title": "This guide walks you through everything from measurements and materials",
+      "link": "https://www.instagram.com/p/DLCAT6qs9SQ/?img_index=1",
+      "content": "Struggling to find the perfect seat cushions for your space? Whether it’s for dining chairs, benches, or custom builds, this guide walks you through everything from measurements and materials to comfort and style. \n\nLearn how to avoid common sizing mistakes, choose the right foam density, and match your cushions with your interior or outdoor aesthetic.\n\nDiscover the full guide: https://eilersencushion.eu/blogs/cushion-styling-guides/how-to-choose-seat-cushions\n\n#SeatCushionGuide #HomeComfort #InteriorStyling #ScandinavianDesign #CushionTips #CustomCushions #FurnitureMakeover #ScandiLiving #HomeDecorLovers #CushionStyling #BenchCushions #DiningChairStyle #EilersenStyle #CushionDesign #HomeStylingTips #FunctionalDesign",
+      "startDate": "2025-06-18",
+      "startTime": "12:22",
+      "dueDate": "2025-06-18",
+      "dueTime": "12:22",
+      "date": "2025-06-18",
+      "time": "12:22",
+      "utcStart": "2025-06-18T10:22:00.000Z",
+      "utcDue": "2025-06-18T10:22:00.000Z",
+      "utc": "2025-06-18T10:22:00.000Z",
+      "updatedAt": "2025-07-29T10:23:17.630Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753784597631",
+      "createdAt": "2025-07-29T10:23:17.631Z"
     }
   ],
   "tasks": [
@@ -1507,5 +1531,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:21:53.731Z"
+  "lastSync": "2025-07-29T10:23:17.632Z"
 }
