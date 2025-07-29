@@ -1187,6 +1187,30 @@
       "priority": "normal",
       "id": "1753784597631",
       "createdAt": "2025-07-29T10:23:17.631Z"
+    },
+    {
+      "title": "Add movement and color to your seating with the Fern cushion in Red/White",
+      "link": "https://www.instagram.com/p/DLEsDy8Kb2H/?img_index=1",
+      "content": "Add movement and color to your seating with the Fern cushion in Red/White, featuring a striking diagonal stripe pattern that energizes any room.\n\nStyled here on the Eilersen Luce Sofa, this cushion brings graphic sophistication and warm contrast to a minimalist setting — perfect for modern interiors with personality.\n\nDesign your space, one cushion at a time.\n\nDiscover more at eilersencushion.eu\n\n#EilersenCushions #FernCushion #RedWhiteAccent #StripeStyle #CushionGoals #ScandinavianDesign #BoldDetails #ModernDecor #PillowTalk #GraphicStyle #CushionStyling #LuceSofa #InteriorInspiration #SoftFurnishings #DesignDetails #EilersenStyle",
+      "startDate": "2025-06-19",
+      "startTime": "12:23",
+      "dueDate": "2025-06-19",
+      "dueTime": "12:23",
+      "date": "2025-06-19",
+      "time": "12:23",
+      "utcStart": "2025-06-19T10:23:00.000Z",
+      "utcDue": "2025-06-19T10:23:00.000Z",
+      "utc": "2025-06-19T10:23:00.000Z",
+      "updatedAt": "2025-07-29T10:24:53.730Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753784693731",
+      "createdAt": "2025-07-29T10:24:53.731Z"
     }
   ],
   "tasks": [
@@ -1531,5 +1555,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:23:51.362Z"
+  "lastSync": "2025-07-29T10:24:53.734Z"
 }
