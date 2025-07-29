@@ -648,9 +648,9 @@
       "createdAt": "2025-07-24T09:33:43.552Z"
     },
     {
-      "title": "Instagram post",
+      "title": "When geometric elegance meets Danish design mastery",
       "link": "https://www.instagram.com/p/DMfGimONVtv/",
-      "content": "",
+      "content": "When geometric elegance meets Danish design mastery ✨\n\nThe Eilersen Zephyr collection isn't just about cushions – it's about creating moments of beauty in your everyday spaces. Six stunning colorways, each with its own personality, ready to transform your home into a sanctuary of sophisticated style.\n\nFrom the warm embrace of brown and light blue to the bold statement of burgundy and navy, these 50 x 50 cm masterpieces bring that coveted Scandinavian aesthetic right into your living room.\n\nBecause luxury isn't about excess – it's about choosing pieces that speak to your soul and stand the test of time.\n\nhttps://eilersencushion.eu/blogs/product-spotlights/eilersen-zephyr-cushion\n\n#LuxuryHome #DanishDesign #EilersenDesign #ScandinavianInteriors #InteriorDesign #LuxuryLiving #HomeDecor #DesignerCushions #MinimalistDesign #HighEndHome #ScandinavianStyle #LuxuryDecor #TimelessDesign #PremiumTextiles #HomeInspiration",
       "startDate": "2025-07-24",
       "startTime": "11:45",
       "dueDate": "2025-07-24",
@@ -660,7 +660,7 @@
       "utcStart": "2025-07-24T09:45:00.000Z",
       "utcDue": "2025-07-24T09:45:00.000Z",
       "utc": "2025-07-24T09:45:00.000Z",
-      "updatedAt": "2025-07-24T10:00:19.339Z",
+      "updatedAt": "2025-07-29T10:47:10.501Z",
       "type": "event",
       "status": "published",
       "category": "social",
@@ -668,7 +668,8 @@
         "instagram"
       ],
       "id": "1753349655422",
-      "createdAt": "2025-07-24T09:34:15.422Z"
+      "createdAt": "2025-07-24T09:34:15.422Z",
+      "priority": "normal"
     },
     {
       "title": "Pinterest",
@@ -2012,5 +2013,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:46:47.349Z"
+  "lastSync": "2025-07-29T10:47:10.505Z"
 }
