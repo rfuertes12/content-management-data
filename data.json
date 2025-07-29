@@ -1646,6 +1646,30 @@
       "priority": "normal",
       "id": "1753792424560",
       "createdAt": "2025-07-29T12:33:44.560Z"
+    },
+    {
+      "title": "Summer Solstice Decor: Nordic Style Cushion Arrangements for Light & Warmth",
+      "link": "https://sk.pinterest.com/pin/1096063628077437351/",
+      "content": "Get expert tips on Summer Solstice decor featuring Scandinavian cushion arrangements and Nordic summer styling in the new article from Eilersen Cushion.",
+      "startDate": "2025-06-10",
+      "startTime": "14:36",
+      "dueDate": "2025-06-10",
+      "dueTime": "14:36",
+      "date": "2025-06-10",
+      "time": "14:36",
+      "utcStart": "2025-06-10T12:36:00.000Z",
+      "utcDue": "2025-06-10T12:36:00.000Z",
+      "utc": "2025-06-10T12:36:00.000Z",
+      "updatedAt": "2025-07-29T12:36:46.030Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753792606031",
+      "createdAt": "2025-07-29T12:36:46.031Z"
     }
   ],
   "tasks": [
@@ -2390,5 +2414,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:35:35.908Z"
+  "lastSync": "2025-07-29T12:36:46.032Z"
 }
