@@ -1670,6 +1670,30 @@
       "priority": "normal",
       "id": "1753792606031",
       "createdAt": "2025-07-29T12:36:46.031Z"
+    },
+    {
+      "title": "Bolster Pillows: How to Choose and Style with Cylindrical Cushions",
+      "link": "https://sk.pinterest.com/pin/1096063628077608960/",
+      "content": "More than just eye candy—bolster pillows are the unsung heroes of contemporary design. These sleek, cylindrical cushions bring together style and function, elevating your space with a touch of elegance and comfort.\n\nWhether you're styling your living room or upgrading your bedroom aesthetic, bolster pillows offer endless possibilities. 🎨🛏️\n\n👉 Discover expert tips on how to style them perfectly in your home.",
+      "startDate": "2025-06-12",
+      "startTime": "14:37",
+      "dueDate": "2025-06-12",
+      "dueTime": "14:37",
+      "date": "2025-06-12",
+      "time": "14:37",
+      "utcStart": "2025-06-12T12:37:00.000Z",
+      "utcDue": "2025-06-12T12:37:00.000Z",
+      "utc": "2025-06-12T12:37:00.000Z",
+      "updatedAt": "2025-07-29T12:37:37.037Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753792657038",
+      "createdAt": "2025-07-29T12:37:37.038Z"
     }
   ],
   "tasks": [
@@ -2414,5 +2438,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:36:46.032Z"
+  "lastSync": "2025-07-29T12:37:37.040Z"
 }
