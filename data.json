@@ -875,6 +875,30 @@
       "priority": "normal",
       "id": "1753689029520",
       "createdAt": "2025-07-28T07:50:29.520Z"
+    },
+    {
+      "title": "There's something truly magical about the moment when a single piece transforms an entire room.",
+      "link": "",
+      "content": "There's something truly magical about the moment when a single piece transforms an entire room.\n\nThis exquisite Mist cushion by renowned Danish designer Nils Juul Eilersen embodies over a century of Scandinavian design mastery. The sophisticated burgundy and blue geometric stripes create visual depth while maintaining that effortless elegance that defines luxury living.\n\nWhat sets this apart isn't just its stunning 60x40cm dimensions or the premium blend of viscose, cotton, and polyester—it's the way it elevates your space with understated sophistication. Whether gracing your favorite reading nook, adding texture to a minimalist sofa, or completing that perfectly curated bedroom ensemble, this piece speaks to those who understand that true luxury lies in the details.\n\nThe Eilersen legacy has been defining Danish design excellence since the early 1900s, and this Mist collection continues that tradition of creating pieces that are both timelessly beautiful and exceptionally comfortable.\nReady to bring this level of sophistication to your home?\n\nhttps://eilersencushion.eu/collections/mist/products/mist-burgundy-blue\n\n#LuxuryDecor #ScandinavianDesign #DanishDesign #InteriorDesign #LuxuryLiving #HomeDecor #DesignerCushions #Eilersen #MinimalistLuxury #HighEndDecor #LuxuryInteriors #PremiumDecor #SophisticatedLiving #LuxuryHomeDecor #DesignerHome",
+      "startDate": "2025-07-29",
+      "startTime": "10:49",
+      "dueDate": "2025-07-29",
+      "dueTime": "12:00",
+      "date": "2025-07-29",
+      "time": "10:49",
+      "utcStart": "2025-07-29T08:49:00.000Z",
+      "utcDue": "2025-07-29T10:00:00.000Z",
+      "utc": "2025-07-29T08:49:00.000Z",
+      "updatedAt": "2025-07-29T08:50:30.365Z",
+      "type": "event",
+      "status": "draft",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1753779030366",
+      "createdAt": "2025-07-29T08:50:30.366Z"
     }
   ],
   "tasks": [
@@ -1219,5 +1243,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T08:49:15.087Z"
+  "lastSync": "2025-07-29T08:50:30.368Z"
 }
