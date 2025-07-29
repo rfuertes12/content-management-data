@@ -2102,6 +2102,30 @@
       "priority": "normal",
       "id": "1753794412880",
       "createdAt": "2025-07-29T13:06:52.880Z"
+    },
+    {
+      "title": "Sage Green Pillow Styling Guide: Luxury Interior Design Tips & Expert Techniques",
+      "link": "https://sk.pinterest.com/pin/1096063628079091494/",
+      "content": "Discover the sophisticated art of sage green pillow styling with expert tips that transform any living space into a luxury haven. Learn color coordination secrets, texture layering techniques, and styling approaches inspired by Scandinavian design principles. Perfect for homeowners seeking timeless elegance and modern sophistication in their interior design.",
+      "startDate": "2025-07-09",
+      "startTime": "15:07",
+      "dueDate": "2025-07-09",
+      "dueTime": "15:07",
+      "date": "2025-07-09",
+      "time": "15:07",
+      "utcStart": "2025-07-09T13:07:00.000Z",
+      "utcDue": "2025-07-09T13:07:00.000Z",
+      "utc": "2025-07-09T13:07:00.000Z",
+      "updatedAt": "2025-07-29T13:07:48.263Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753794468264",
+      "createdAt": "2025-07-29T13:07:48.264Z"
     }
   ],
   "tasks": [
@@ -2846,5 +2870,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T13:06:52.882Z"
+  "lastSync": "2025-07-29T13:07:48.266Z"
 }
