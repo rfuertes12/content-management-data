@@ -1766,6 +1766,30 @@
       "priority": "normal",
       "id": "1753793351721",
       "createdAt": "2025-07-29T12:49:11.721Z"
+    },
+    {
+      "title": "Bold Geometry Meets Soft Comfort",
+      "link": "https://sk.pinterest.com/pin/1096063628078011733/",
+      "content": "Add movement and color to your seating with the Fern cushion in Red/White, featuring a striking diagonal stripe pattern that energizes any room.\n\nStyled here on the Eilersen Luce Sofa, this cushion brings graphic sophistication and warm contrast to a minimalist setting — perfect for modern interiors with personality.\n\n🛋️ Design your space, one cushion at a time.",
+      "startDate": "2025-06-19",
+      "startTime": "14:49",
+      "dueDate": "2025-06-19",
+      "dueTime": "14:49",
+      "date": "2025-06-19",
+      "time": "14:49",
+      "utcStart": "2025-06-19T12:49:00.000Z",
+      "utcDue": "2025-06-19T12:49:00.000Z",
+      "utc": "2025-06-19T12:49:00.000Z",
+      "updatedAt": "2025-07-29T12:49:59.568Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793399570",
+      "createdAt": "2025-07-29T12:49:59.570Z"
     }
   ],
   "tasks": [
@@ -2510,5 +2534,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:49:11.723Z"
+  "lastSync": "2025-07-29T12:49:59.573Z"
 }
