@@ -2149,16 +2149,16 @@
       "title": "Added Luna collection pin board",
       "link": "https://sk.pinterest.com/eilersencushion/eilersen-luna-collection/",
       "content": "",
-      "startDate": "2025-06-24",
+      "startDate": "2025-05-19",
       "startTime": "13:55",
-      "dueDate": "2025-06-24",
+      "dueDate": "2025-05-19",
       "dueTime": "13:55",
-      "date": "2025-06-24",
+      "date": "2025-05-19",
       "time": "13:55",
-      "utcStart": "2025-06-24T11:55:00.000Z",
-      "utcDue": "2025-06-24T11:55:00.000Z",
-      "utc": "2025-06-24T11:55:00.000Z",
-      "updatedAt": "2025-07-29T11:56:05.282Z",
+      "utcStart": "2025-05-19T11:55:00.000Z",
+      "utcDue": "2025-05-19T11:55:00.000Z",
+      "utc": "2025-05-19T11:55:00.000Z",
+      "updatedAt": "2025-07-29T12:23:11.595Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "completed",
@@ -2286,5 +2286,5 @@
       "createdAt": "2025-07-29T12:01:51.187Z"
     }
   ],
-  "lastSync": "2025-07-29T12:22:46.056Z"
+  "lastSync": "2025-07-29T12:23:11.596Z"
 }
