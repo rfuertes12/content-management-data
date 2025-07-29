@@ -1934,6 +1934,30 @@
       "priority": "normal",
       "id": "1753793704544",
       "createdAt": "2025-07-29T12:55:04.544Z"
+    },
+    {
+      "title": "Eilersen Tent Cushios Blue/Burgundy - Luxury Scandinavian Interior Design Inspiration",
+      "link": "https://sk.pinterest.com/pin/1096063628078486273/",
+      "content": "Discover the sophisticated beauty of Eilersen Tent cushions in blue/burgundy – the perfect accent pieces for creating a luxury Scandinavian-inspired living space. These premium designer cushions showcase exceptional Danish craftsmanship with their geometric pattern and rich color palette, effortlessly elevating neutral interiors with a touch of contemporary elegance.",
+      "startDate": "2025-06-26",
+      "startTime": "14:55",
+      "dueDate": "2025-06-26",
+      "dueTime": "14:55",
+      "date": "2025-06-26",
+      "time": "14:55",
+      "utcStart": "2025-06-26T12:55:00.000Z",
+      "utcDue": "2025-06-26T12:55:00.000Z",
+      "utc": "2025-06-26T12:55:00.000Z",
+      "updatedAt": "2025-07-29T12:55:55.932Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793755933",
+      "createdAt": "2025-07-29T12:55:55.933Z"
     }
   ],
   "tasks": [
@@ -2678,5 +2702,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:55:04.548Z"
+  "lastSync": "2025-07-29T12:55:55.935Z"
 }
