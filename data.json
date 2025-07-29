@@ -939,7 +939,7 @@
       "utc": "2025-07-29T08:53:00.000Z",
       "updatedAt": "2025-07-29T09:16:39.322Z",
       "type": "event",
-      "status": "published",
+      "status": "scheduled",
       "category": "social",
       "platforms": [
         "pinterest"
@@ -1291,5 +1291,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T09:16:39.325Z"
+  "lastSync": "2025-07-29T09:17:14.161Z"
 }
