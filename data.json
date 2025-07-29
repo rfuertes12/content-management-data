@@ -2284,7 +2284,27 @@
       "taskStatus": "completed",
       "id": "1753790511187",
       "createdAt": "2025-07-29T12:01:51.187Z"
+    },
+    {
+      "title": "Add Stone collection pin board",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-30",
+      "startTime": "13:00",
+      "dueDate": "2025-07-30",
+      "dueTime": "15:00",
+      "date": "2025-07-30",
+      "time": "13:00",
+      "utcStart": "2025-07-30T11:00:00.000Z",
+      "utcDue": "2025-07-30T13:00:00.000Z",
+      "utc": "2025-07-30T11:00:00.000Z",
+      "updatedAt": "2025-07-29T12:27:22.118Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1753792042119",
+      "createdAt": "2025-07-29T12:27:22.119Z"
     }
   ],
-  "lastSync": "2025-07-29T12:25:04.932Z"
+  "lastSync": "2025-07-29T12:27:22.119Z"
 }
