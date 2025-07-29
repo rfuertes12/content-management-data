@@ -1475,6 +1475,30 @@
       "priority": "normal",
       "id": "1753785472573",
       "createdAt": "2025-07-29T10:37:52.573Z"
+    },
+    {
+      "title": "When sophistication meets serenity",
+      "link": "https://www.instagram.com/p/DLy7UwKsL71/?img_index=1",
+      "content": "When sophistication meets serenity.\n\nThe Stone Sage Green by Nils Juul Eilersen isn't just a cushion—it's poetry in textile form.\n\nImagine this Danish masterpiece gracing your ivory sofa, or creating dramatic contrast against deep navy upholstery. The diagonal corded design catches light beautifully, while the nature-inspired sage hue brings instant tranquility to any space.\n\n✨ 50x50cm of pure luxury\n✨ Premium materials that last\n✨ Easy maintenance for busy lifestyles\n\nThis is how you curate a home that whispers elegance rather than shouting for attention.\nTransform your space today. Visit our Instagram to check this pillow.\n\n📎 https://eilersencushion.eu/products/stone-sage-green\n\n#LuxuryHome #DanishDesign #InteriorDesign #LuxuryDecor #HomeDecor #SageGreen #LuxuryCushions #ScandinavianStyle #DesignerPillows #LuxuryLiving #HighEndDecor #InteriorStyling #HomeDesign #LuxuryInteriors #ElegantHome",
+      "startDate": "2025-07-07",
+      "startTime": "12:38",
+      "dueDate": "2025-07-07",
+      "dueTime": "12:38",
+      "date": "2025-07-07",
+      "time": "12:38",
+      "utcStart": "2025-07-07T10:38:00.000Z",
+      "utcDue": "2025-07-07T10:38:00.000Z",
+      "utc": "2025-07-07T10:38:00.000Z",
+      "updatedAt": "2025-07-29T10:38:48.988Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753785528989",
+      "createdAt": "2025-07-29T10:38:48.989Z"
     }
   ],
   "tasks": [
@@ -1819,5 +1843,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:37:52.575Z"
+  "lastSync": "2025-07-29T10:38:48.991Z"
 }
