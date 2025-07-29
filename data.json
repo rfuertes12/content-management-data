@@ -1403,6 +1403,30 @@
       "priority": "normal",
       "id": "1753785312747",
       "createdAt": "2025-07-29T10:35:12.747Z"
+    },
+    {
+      "title": "Color harmony at its finest",
+      "link": "https://www.instagram.com/p/DLhAoQ4tbc7/?img_index=1",
+      "content": "Color harmony at its finest ✨\n\nThe deep, rich texture of our Summit Midnight Blue cushion creates pure magic against mustard yellow luxury sofas. This isn't just about adding an accent—it's about creating a sophisticated dialogue between complementary tones.\nThe diagonal ribbed texture catches light beautifully, while the midnight blue depth adds that coveted luxury touch every discerning homeowner seeks.\n50x50cm of pure elegance, crafted for those who understand that true luxury lies in the details.\nTransform your space. Elevate your style.\n\nhttps://eilersencushion.eu/products/summit-midnight-blue\n\n#LuxuryInteriors #PremiumCushions #MustardYellowSofa #ScandinavianDesign #LuxuryHomeDecor #InteriorDesign #HighEndFurnishings #EilersenCushion #SummitCollection #LuxuryLiving #HomeDesign #PremiumTextiles #LuxuryAccents #DesignerCushions #ElegantInteriors",
+      "startDate": "2025-06-30",
+      "startTime": "12:35",
+      "dueDate": "2025-06-30",
+      "dueTime": "12:35",
+      "date": "2025-06-30",
+      "time": "12:35",
+      "utcStart": "2025-06-30T10:35:00.000Z",
+      "utcDue": "2025-06-30T10:35:00.000Z",
+      "utc": "2025-06-30T10:35:00.000Z",
+      "updatedAt": "2025-07-29T10:35:51.994Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753785351996",
+      "createdAt": "2025-07-29T10:35:51.996Z"
     }
   ],
   "tasks": [
@@ -1747,5 +1771,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:35:12.749Z"
+  "lastSync": "2025-07-29T10:35:51.997Z"
 }
