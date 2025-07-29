@@ -947,6 +947,30 @@
       "priority": "normal",
       "id": "1753779228318",
       "createdAt": "2025-07-29T08:53:48.318Z"
+    },
+    {
+      "title": "Transform your space with the Quill Cushion Collection by Eilersen.",
+      "link": "https://www.instagram.com/p/DKJn2zEMFNU/",
+      "content": "Every piece is a fusion of timeless elegance and bold artistry — from deep burgundy and lush green to soft rose and sky blue. Whether on your sofa, armchair, or bed, these cushions elevate your home with warmth, texture, and modern luxury.\n\nCrafted to be more than just decor — they’re statements of style.\nExplore the full collection here: https://eilersencushion.eu/collections/quill \n\n#eilersen #eilersensofa #interiordesigngoals #quillcollection #homestyling #homestylingideas #scandinaviandesign #cushioncover #cushion #cushions #cushionlove #decorinspo #modernlivingroom #ModernLiving #modernliving #DesignYourSpace #designyourspace #HomeEssentials #homeessentials #livingwithstyle #danishdesign #DanishDesign #pillowtalk #boldinteriors #boldinteriors #styleyourhome",
+      "startDate": "2025-05-27",
+      "startTime": "12:04",
+      "dueDate": "2025-05-27",
+      "dueTime": "12:04",
+      "date": "2025-05-27",
+      "time": "12:04",
+      "utcStart": "2025-05-27T10:04:00.000Z",
+      "utcDue": "2025-05-27T10:04:00.000Z",
+      "utc": "2025-05-27T10:04:00.000Z",
+      "updatedAt": "2025-07-29T10:05:42.422Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753783542423",
+      "createdAt": "2025-07-29T10:05:42.423Z"
     }
   ],
   "tasks": [
@@ -1291,5 +1315,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:04:29.330Z"
+  "lastSync": "2025-07-29T10:05:42.424Z"
 }
