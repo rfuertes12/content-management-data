@@ -1958,6 +1958,30 @@
       "priority": "normal",
       "id": "1753793755933",
       "createdAt": "2025-07-29T12:55:55.933Z"
+    },
+    {
+      "title": "Navy-Blue Sofa Styling Guide: Ruby Red & Terracotta Cushion Combinations",
+      "link": "https://sk.pinterest.com/pin/1096063628078526636/",
+      "content": "Transform your navy sofa with expert color combinations. Discover how Eilersen Cliff, Summit, and Stone cushions in ruby red, rust terracotta, and olive yellow create stunning contrast against deep navy tones. This sophisticated styling approach brings warmth and luxury to any living space while maintaining timeless elegance.",
+      "startDate": "2025-06-27",
+      "startTime": "14:56",
+      "dueDate": "2025-06-27",
+      "dueTime": "14:56",
+      "date": "2025-06-27",
+      "time": "14:56",
+      "utcStart": "2025-06-27T12:56:00.000Z",
+      "utcDue": "2025-06-27T12:56:00.000Z",
+      "utc": "2025-06-27T12:56:00.000Z",
+      "updatedAt": "2025-07-29T12:56:42.740Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793802741",
+      "createdAt": "2025-07-29T12:56:42.741Z"
     }
   ],
   "tasks": [
@@ -2702,5 +2726,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:55:55.935Z"
+  "lastSync": "2025-07-29T12:56:42.743Z"
 }
