@@ -1499,6 +1499,30 @@
       "priority": "normal",
       "id": "1753785528989",
       "createdAt": "2025-07-29T10:38:48.989Z"
+    },
+    {
+      "title": "The art of elevated living starts with one perfect detail",
+      "link": "https://www.instagram.com/p/DL1gL98ui7k/?img_index=1",
+      "content": "The art of elevated living starts with one perfect detail.\n\nThis is the Cliff Sage Green by Nils Juul Eilersen—where Danish craftsmanship meets modern luxury.\n\n🏛️ Architectural patchwork design\n🌿 Calming sage green sophistication\n🛋️ The missing piece your sofa needs\n\nStyle tip: Layer this beauty with cream throws on a deep forest green sofa, or let it shine solo against crisp white linen. The geometric texture play creates depth that flat cushions simply can't achieve.\n\nThis is how you turn a living room into a curated sanctuary that guests remember long after they leave.\n\nReady to upgrade your space? Visit our Instagram Shop.\n\n📎 https://eilersencushion.eu/products/cliff-sage-green\n\n#LuxuryHome #DanishDesign #InteriorDesign #LuxuryDecor #HomeDecor #SageGreen #LuxuryCushions #ScandinavianStyle #DesignerPillows #LuxuryLiving #HighEndDecor #InteriorStyling #HomeDesign #LuxuryInteriors #SofaStyling",
+      "startDate": "2025-07-08",
+      "startTime": "12:39",
+      "dueDate": "2025-07-08",
+      "dueTime": "12:39",
+      "date": "2025-07-08",
+      "time": "12:39",
+      "utcStart": "2025-07-08T10:39:00.000Z",
+      "utcDue": "2025-07-08T10:39:00.000Z",
+      "utc": "2025-07-08T10:39:00.000Z",
+      "updatedAt": "2025-07-29T10:39:44.068Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753785584069",
+      "createdAt": "2025-07-29T10:39:44.069Z"
     }
   ],
   "tasks": [
@@ -1843,5 +1867,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:39:07.248Z"
+  "lastSync": "2025-07-29T10:39:44.071Z"
 }
