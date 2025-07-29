@@ -1355,6 +1355,30 @@
       "priority": "normal",
       "id": "1753785220347",
       "createdAt": "2025-07-29T10:33:40.347Z"
+    },
+    {
+      "title": "When luxury meets livability",
+      "link": "https://www.instagram.com/p/DLWmsxKSM0C/?img_index=1",
+      "content": "When luxury meets livability ✨\n\nThe art of elevated living lies in the details – like these exquisite Eilersen Tent cushions that transform a beautiful space into something truly extraordinary.\n\nThat blue/burgundy geometric pattern? Pure sophistication. The way they complement the neutral tones while adding just the right amount of visual interest? Chef's kiss 👌\n\nThis is Danish design at its finest – where every stitch tells a story of exceptional craftsmanship and timeless elegance. Notice how the natural light dances across the textures, creating that perfect balance between warmth and contemporary cool?\n\nSometimes the smallest touches make the biggest impact. These aren't just accent pieces; they're conversation starters, mood elevators, and the kind of luxury details that make a house feel like a curated home.\n\nReady to discover what makes these pieces so special?\n\n📎 Read more https://eilersencushion.eu/blogs/product-spotlights/tent-burgundy-blue-pillow\n\n#EilersenDesign #LuxuryInteriors #ScandinavianStyle #DanishDesign #LuxuryDecor #InteriorInspiration #DesignerCushions #ModernLiving #LuxuryHome #PremiumTextiles #InteriorDesign #HomeDecor #LuxuryLifestyle #DesignLovers #HomeInspiration",
+      "startDate": "2025-06-26",
+      "startTime": "12:33",
+      "dueDate": "2025-06-26",
+      "dueTime": "12:33",
+      "date": "2025-06-26",
+      "time": "12:33",
+      "utcStart": "2025-06-26T10:33:00.000Z",
+      "utcDue": "2025-06-26T10:33:00.000Z",
+      "utc": "2025-06-26T10:33:00.000Z",
+      "updatedAt": "2025-07-29T10:34:20.993Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753785260994",
+      "createdAt": "2025-07-29T10:34:20.994Z"
     }
   ],
   "tasks": [
@@ -1699,5 +1723,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:33:46.735Z"
+  "lastSync": "2025-07-29T10:34:20.996Z"
 }
