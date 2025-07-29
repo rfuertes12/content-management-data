@@ -1718,6 +1718,30 @@
       "priority": "normal",
       "id": "1753793241597",
       "createdAt": "2025-07-29T12:47:21.597Z"
+    },
+    {
+      "title": "Add a Splash of Sunshine with Cliff Pillows",
+      "link": "https://sk.pinterest.com/pin/1096063628077926377/",
+      "content": "Turn up the brightness in your space with our Cliff pillows in Olive Yellow — a bold yet refined accent that instantly elevates any neutral setting. Styled here on the Eilersen Float High Sofa, these pillows blend Scandinavian calm with joyful energy.\n\nSoft to the touch, tailored in design, and crafted to refresh your home this season.\n\nIt’s not just a cushion. It’s the finishing touch.",
+      "startDate": "2025-06-17",
+      "startTime": "14:47",
+      "dueDate": "2025-06-17",
+      "dueTime": "14:47",
+      "date": "2025-06-17",
+      "time": "14:47",
+      "utcStart": "2025-06-17T12:47:00.000Z",
+      "utcDue": "2025-06-17T12:47:00.000Z",
+      "utc": "2025-06-17T12:47:00.000Z",
+      "updatedAt": "2025-07-29T12:48:18.006Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793298007",
+      "createdAt": "2025-07-29T12:48:18.007Z"
     }
   ],
   "tasks": [
@@ -2462,5 +2486,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:47:21.599Z"
+  "lastSync": "2025-07-29T12:48:18.010Z"
 }
