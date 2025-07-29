@@ -1646,30 +1646,6 @@
       "priority": "normal",
       "id": "1753792424560",
       "createdAt": "2025-07-29T12:33:44.560Z"
-    },
-    {
-      "title": "Eilersen Mist - Brown/Light Blue",
-      "link": "https://sk.pinterest.com/pin/1096063628076979175/",
-      "content": "Introducing a sophisticated addition to your home decor: a beautifully designed Mist cushion by Nils Juul Eilersen. Measuring 60 x 40 cm, this cushion features an intricate striped pattern in earthy brown and soft light blue, arranged in a captivating geometric design that exudes contemporary elegance.\n\nCushion Details:\nDimensions: 60 x 40 cm\nMaterial: 45% viscose, 35% cotton, 20% polyester\nWeight: 920 g/ml\nColour fastness to light - EN ISO 105-B02\nColour fastness to rubbing wet - EN ISO 105-X12\nColour fastness to rubbing dry 4-5 - EN ISO 105-X12\nAbrasion: 27.000 - EN ISO 12947-2\nAvailable Colors: Brown/Light Blue\nDesign: Geometric striped pattern\nCare: Easy to maintain, can be cleaned with a damp cloth",
-      "startDate": "2025-06-03",
-      "startTime": "14:34",
-      "dueDate": "2025-06-03",
-      "dueTime": "14:34",
-      "date": "2025-06-03",
-      "time": "14:34",
-      "utcStart": "2025-06-03T12:34:00.000Z",
-      "utcDue": "2025-06-03T12:34:00.000Z",
-      "utc": "2025-06-03T12:34:00.000Z",
-      "updatedAt": "2025-07-29T12:35:00.056Z",
-      "type": "event",
-      "status": "published",
-      "category": "social",
-      "platforms": [
-        "pinterest"
-      ],
-      "priority": "normal",
-      "id": "1753792500057",
-      "createdAt": "2025-07-29T12:35:00.057Z"
     }
   ],
   "tasks": [
@@ -2414,5 +2390,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:35:00.059Z"
+  "lastSync": "2025-07-29T12:35:35.908Z"
 }
