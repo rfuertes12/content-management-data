@@ -1886,6 +1886,30 @@
       "priority": "normal",
       "id": "1753793607896",
       "createdAt": "2025-07-29T12:53:27.896Z"
+    },
+    {
+      "title": "Eilersen Luna Pillows - Premium Scandinavian Design Cushions",
+      "link": "https://sk.pinterest.com/pin/1096063628078402573/",
+      "content": "Discover the artistry behind Eilersen's beloved Luna cushion collection in this detailed design spotlight. Learn about the Danish craftsmanship traditions, premium material selection, and thoughtful color combinations that make these checkerboard beauties so coveted by interior designers. Get insider styling tips and explore the heritage behind over a century of Scandinavian design excellence. Perfect inspiration for creating sophisticated, timeless living spaces with luxury accent pillows.",
+      "startDate": "2025-06-24",
+      "startTime": "14:53",
+      "dueDate": "2025-06-24",
+      "dueTime": "14:53",
+      "date": "2025-06-24",
+      "time": "14:53",
+      "utcStart": "2025-06-24T12:53:00.000Z",
+      "utcDue": "2025-06-24T12:53:00.000Z",
+      "utc": "2025-06-24T12:53:00.000Z",
+      "updatedAt": "2025-07-29T12:54:17.662Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793657662",
+      "createdAt": "2025-07-29T12:54:17.662Z"
     }
   ],
   "tasks": [
@@ -2630,5 +2654,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:53:27.898Z"
+  "lastSync": "2025-07-29T12:54:17.665Z"
 }
