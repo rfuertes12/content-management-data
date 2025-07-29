@@ -1139,6 +1139,30 @@
       "priority": "normal",
       "id": "1753784263847",
       "createdAt": "2025-07-29T10:17:43.847Z"
+    },
+    {
+      "title": "Turn up the brightness in your space with our Cliff pillows in Olive Yellow",
+      "link": "https://www.instagram.com/p/DK_iZKBMGxp/?img_index=1",
+      "content": "Turn up the brightness in your space with our Cliff pillows in Olive Yellow — a bold yet refined accent that instantly elevates any neutral setting. Styled here on the Eilersen Float High Sofa, these pillows blend Scandinavian calm with joyful energy.\n\nSoft to the touch, tailored in design, and crafted to refresh your home this season.\n\nIt’s not just a cushion. It’s the finishing touch.\n\nShop the full collection at eilersencushion.eu\n\n#EilersenCushion #CliffCushion #OliveYellow #ScandiStyle #PillowGoals #CushionInspo #InteriorAccessories #SoftFurnishings #SummerRefresh #DanishDesign #HomeStylingTips #ThrowPillows #MinimalistInteriors #PopOfColor #EilersenStyle #ScandinavianDesign",
+      "startDate": "2025-06-17",
+      "startTime": "12:21",
+      "dueDate": "2025-06-17",
+      "dueTime": "12:21",
+      "date": "2025-06-17",
+      "time": "12:21",
+      "utcStart": "2025-06-17T10:21:00.000Z",
+      "utcDue": "2025-06-17T10:21:00.000Z",
+      "utc": "2025-06-17T10:21:00.000Z",
+      "updatedAt": "2025-07-29T10:21:53.728Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753784513730",
+      "createdAt": "2025-07-29T10:21:53.730Z"
     }
   ],
   "tasks": [
@@ -1483,5 +1507,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:21:09.178Z"
+  "lastSync": "2025-07-29T10:21:53.731Z"
 }
