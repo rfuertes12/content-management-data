@@ -1043,6 +1043,30 @@
       "priority": "normal",
       "id": "1753783891531",
       "createdAt": "2025-07-29T10:11:31.531Z"
+    },
+    {
+      "title": "Get expert tips on Summer Solstice decor featuring Scandinavian cushion arrangements",
+      "link": "https://www.instagram.com/p/DKtnkWrtWIi/",
+      "content": "Get expert tips on Summer Solstice decor featuring Scandinavian cushion arrangements and Nordic summer styling in the new article from Eilersen Cushion.\n\nRead More 👉 https://eilersencushion.eu/blogs/cushion-styling-guides/cushion-summer-solstice-decor\n\n#CushionStyling #ScandiDecor #InteriorInspo #NordicInterior #HomeStylingTips #EilersenCushion #HyggeHome #ScandinavianDesign #MinimalistDecor #HomeInspiration #NordicLiving #SummerSolstice #SummerDecor #ScandinavianSummer #NordicStyle #MidsummerVibes #CozySummer",
+      "startDate": "2025-06-10",
+      "startTime": "12:12",
+      "dueDate": "2025-06-10",
+      "dueTime": "12:12",
+      "date": "2025-06-10",
+      "time": "12:12",
+      "utcStart": "2025-06-10T10:12:00.000Z",
+      "utcDue": "2025-06-10T10:12:00.000Z",
+      "utc": "2025-06-10T10:12:00.000Z",
+      "updatedAt": "2025-07-29T10:12:47.207Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753783967209",
+      "createdAt": "2025-07-29T10:12:47.209Z"
     }
   ],
   "tasks": [
@@ -1387,5 +1411,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:12:03.360Z"
+  "lastSync": "2025-07-29T10:12:47.210Z"
 }
