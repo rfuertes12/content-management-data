@@ -1177,7 +1177,27 @@
       "taskStatus": "todo",
       "id": "1753678998869",
       "createdAt": "2025-07-28T05:03:18.869Z"
+    },
+    {
+      "title": "Generate social media assets",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-29",
+      "startTime": "08:45",
+      "dueDate": "2025-07-29",
+      "dueTime": "10:45",
+      "date": "2025-07-29",
+      "time": "08:45",
+      "utcStart": "2025-07-29T06:45:00.000Z",
+      "utcDue": "2025-07-29T08:45:00.000Z",
+      "utc": "2025-07-29T06:45:00.000Z",
+      "updatedAt": "2025-07-29T06:46:12.849Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "inprogress",
+      "id": "1753771572850",
+      "createdAt": "2025-07-29T06:46:12.850Z"
     }
   ],
-  "lastSync": "2025-07-29T06:43:49.747Z"
+  "lastSync": "2025-07-29T06:46:12.850Z"
 }
