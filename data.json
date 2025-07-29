@@ -1814,6 +1814,30 @@
       "priority": "normal",
       "id": "1753793450620",
       "createdAt": "2025-07-29T12:50:50.620Z"
+    },
+    {
+      "title": "Ruby Red Cliff Pillow - Premium Designer Cushion for Cozy Living Spaces",
+      "link": "https://sk.pinterest.com/pin/1096063628078213451/",
+      "content": "Transform your living space with this stunning Ruby Red Cliff pillow from Eilersen Cushion. The rich color and unique patchwork design bring instant warmth and sophistication to any room. Made with premium materials and easy-care fabric – perfect for busy homeowners and design enthusiasts. Available in multiple beautiful colors including Rust Terracotta, Olive Green, and White. Discover the complete Cliff collection for your perfect home accent piece.",
+      "startDate": "2025-06-21",
+      "startTime": "14:51",
+      "dueDate": "2025-06-21",
+      "dueTime": "14:51",
+      "date": "2025-06-21",
+      "time": "14:51",
+      "utcStart": "2025-06-21T12:51:00.000Z",
+      "utcDue": "2025-06-21T12:51:00.000Z",
+      "utc": "2025-06-21T12:51:00.000Z",
+      "updatedAt": "2025-07-29T12:51:42.631Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793502633",
+      "createdAt": "2025-07-29T12:51:42.633Z"
     }
   ],
   "tasks": [
@@ -2558,5 +2582,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:50:50.621Z"
+  "lastSync": "2025-07-29T12:51:42.636Z"
 }
