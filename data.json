@@ -1307,6 +1307,30 @@
       "priority": "normal",
       "id": "1753785101965",
       "createdAt": "2025-07-29T10:31:41.965Z"
+    },
+    {
+      "title": "Behind every beautiful design lies an even more beautiful story",
+      "link": "https://www.instagram.com/p/DLRdEhNsvqm/",
+      "content": "Behind every beautiful design lies an even more beautiful story ✨\n\nEver wondered what makes the Luna cushion collection so captivating? Our latest blog spotlight reveals the Danish design secrets and century-old craftsmanship traditions that go into creating these stunning checkerboard masterpieces.\n\nFrom the careful selection of premium materials to the thoughtful color palettes that complement any interior style – there's artistry in every detail. Discover why interior designers and style enthusiasts worldwide are choosing Luna cushions to elevate their spaces.\n\nSwipe through these gorgeous styling inspirations, then dive deeper into the complete story 👆\n\nhttps://eilersencushion.eu/blogs/product-spotlights/eilersen-luna-pill\n\n#Eilersen #LunaCushion #ScandinavianLiving #LuxuryHomeDecor #DanishDesign #InteriorDesign #HomeDecorInspo #LivingRoomDecor #ScandinavianDecor #DesignerCushions #LuxuryPillows #DesignSpotlight #DecorBlog #HomeStyle",
+      "startDate": "2025-06-24",
+      "startTime": "12:31",
+      "dueDate": "2025-06-24",
+      "dueTime": "12:31",
+      "date": "2025-06-24",
+      "time": "12:31",
+      "utcStart": "2025-06-24T10:31:00.000Z",
+      "utcDue": "2025-06-24T10:31:00.000Z",
+      "utc": "2025-06-24T10:31:00.000Z",
+      "updatedAt": "2025-07-29T10:32:35.435Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753785155435",
+      "createdAt": "2025-07-29T10:32:35.435Z"
     }
   ],
   "tasks": [
@@ -1651,5 +1675,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:31:41.966Z"
+  "lastSync": "2025-07-29T10:32:35.437Z"
 }
