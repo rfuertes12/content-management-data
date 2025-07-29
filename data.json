@@ -2004,7 +2004,27 @@
       "taskStatus": "completed",
       "id": "1753787221787",
       "createdAt": "2025-07-29T11:07:01.787Z"
+    },
+    {
+      "title": "Added Blaze collection pin board",
+      "link": "https://sk.pinterest.com/eilersencushion/eilersen-blaze-collection/",
+      "content": "",
+      "startDate": "2025-06-23",
+      "startTime": "13:08",
+      "dueDate": "2025-06-23",
+      "dueTime": "13:08",
+      "date": "2025-06-23",
+      "time": "13:08",
+      "utcStart": "2025-06-23T11:08:00.000Z",
+      "utcDue": "2025-06-23T11:08:00.000Z",
+      "utc": "2025-06-23T11:08:00.000Z",
+      "updatedAt": "2025-07-29T11:09:39.140Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "completed",
+      "id": "1753787379141",
+      "createdAt": "2025-07-29T11:09:39.141Z"
     }
   ],
-  "lastSync": "2025-07-29T11:08:29.312Z"
+  "lastSync": "2025-07-29T11:09:39.141Z"
 }
