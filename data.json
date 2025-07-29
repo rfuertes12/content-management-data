@@ -923,6 +923,30 @@
       "priority": "normal",
       "id": "1753779169783",
       "createdAt": "2025-07-29T08:52:49.783Z"
+    },
+    {
+      "title": "Luxury Danish Designer Cushion - Eilersen Mist Burgundy Blue Geometric Pattern",
+      "link": "",
+      "content": "Elevate your interior with this exquisite Mist cushion featuring sophisticated burgundy and blue geometric stripes. Crafted by renowned Danish designer Nils Juul Eilersen, this 60x40cm luxury piece embodies over a century of Scandinavian design excellence. The premium fabric blend offers both visual elegance and exceptional comfort, perfect for creating sophisticated living spaces that reflect refined taste and timeless style.\n\nhttps://eilersencushion.eu/collections/mist/products/mist-burgundy-blue",
+      "startDate": "2025-07-29",
+      "startTime": "10:53",
+      "dueDate": "2025-07-29",
+      "dueTime": "12:00",
+      "date": "2025-07-29",
+      "time": "10:53",
+      "utcStart": "2025-07-29T08:53:00.000Z",
+      "utcDue": "2025-07-29T10:00:00.000Z",
+      "utc": "2025-07-29T08:53:00.000Z",
+      "updatedAt": "2025-07-29T08:53:48.317Z",
+      "type": "event",
+      "status": "draft",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753779228318",
+      "createdAt": "2025-07-29T08:53:48.318Z"
     }
   ],
   "tasks": [
@@ -1267,5 +1291,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T08:52:49.784Z"
+  "lastSync": "2025-07-29T08:53:48.320Z"
 }
