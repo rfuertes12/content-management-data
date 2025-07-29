@@ -1986,9 +1986,9 @@
       "createdAt": "2025-07-29T11:01:28.328Z"
     },
     {
-      "title": "Added Pinterest Pin boards",
-      "link": "",
-      "content": "Bali outdoor\nBlaze\nCliff\nCrest\nEmber",
+      "title": "Added Bali Outdoor Pin board",
+      "link": "https://sk.pinterest.com/eilersencushion/eilersen-bali-outdoor-collection/",
+      "content": "",
       "startDate": "2025-06-23",
       "startTime": "13:01",
       "dueDate": "2025-06-23",
@@ -1998,7 +1998,7 @@
       "utcStart": "2025-06-23T11:01:00.000Z",
       "utcDue": "2025-06-23T11:01:00.000Z",
       "utc": "2025-06-23T11:01:00.000Z",
-      "updatedAt": "2025-07-29T11:07:01.786Z",
+      "updatedAt": "2025-07-29T11:08:29.311Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "completed",
@@ -2006,5 +2006,5 @@
       "createdAt": "2025-07-29T11:07:01.787Z"
     }
   ],
-  "lastSync": "2025-07-29T11:07:01.788Z"
+  "lastSync": "2025-07-29T11:08:29.312Z"
 }
