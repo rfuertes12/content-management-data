@@ -2189,16 +2189,16 @@
       "title": "Added Lisbon collection pin board",
       "link": "https://sk.pinterest.com/eilersencushion/eilersen-lisbon-outdoor-collection/",
       "content": "",
-      "startDate": "2025-06-23",
+      "startDate": "2025-05-19",
       "startTime": "13:57",
-      "dueDate": "2025-06-23",
+      "dueDate": "2025-05-19",
       "dueTime": "13:57",
-      "date": "2025-06-23",
+      "date": "2025-05-19",
       "time": "13:57",
-      "utcStart": "2025-06-23T11:57:00.000Z",
-      "utcDue": "2025-06-23T11:57:00.000Z",
-      "utc": "2025-06-23T11:57:00.000Z",
-      "updatedAt": "2025-07-29T11:58:33.489Z",
+      "utcStart": "2025-05-19T11:57:00.000Z",
+      "utcDue": "2025-05-19T11:57:00.000Z",
+      "utc": "2025-05-19T11:57:00.000Z",
+      "updatedAt": "2025-07-29T12:22:46.055Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "completed",
@@ -2286,5 +2286,5 @@
       "createdAt": "2025-07-29T12:01:51.187Z"
     }
   ],
-  "lastSync": "2025-07-29T12:21:59.224Z"
+  "lastSync": "2025-07-29T12:22:46.056Z"
 }
