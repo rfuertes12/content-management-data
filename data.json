@@ -1019,6 +1019,30 @@
       "priority": "normal",
       "id": "1753783833528",
       "createdAt": "2025-07-29T10:10:33.528Z"
+    },
+    {
+      "title": "Turn up the color. Turn up the comfort",
+      "link": "https://www.instagram.com/p/DKRNqQABKDi/",
+      "content": "Turn up the color. Turn up the comfort.\n\nThe Blaze Cushion Collection by Eilersen delivers an electrifying mix of color and craftsmanship. With striking pairings like Yellow/Beige, Teal/Beige, and Green/Blue, each cushion brings bold personality and refined Scandinavian design to your home.\n\nPerfect for adding a modern edge to sofas, armchairs, or beds — Blaze is where vivid color meets timeless texture.\n\n💥 Add your favorite pop of color now → https://eilersencushion.eu/collections/blaze\n\n#patternplay #minimalluxury #MinimalLuxury #decorinspo #modernliving #homestylingideas #designyourspace #HomeEssentials #homestyling #eilersen #eilersensofa #scandinaviandesign #interiordesigngoals #cushion #modernlivingroom #cushioncover #cushionlove #livingwithstyle #cushions #colorpop #PillowPerfection #pillowperfection",
+      "startDate": "2025-05-30",
+      "startTime": "12:10",
+      "dueDate": "2025-05-30",
+      "dueTime": "12:10",
+      "date": "2025-05-30",
+      "time": "12:10",
+      "utcStart": "2025-05-30T10:10:00.000Z",
+      "utcDue": "2025-05-30T10:10:00.000Z",
+      "utc": "2025-05-30T10:10:00.000Z",
+      "updatedAt": "2025-07-29T10:11:31.530Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753783891531",
+      "createdAt": "2025-07-29T10:11:31.531Z"
     }
   ],
   "tasks": [
@@ -1363,5 +1387,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T10:10:39.711Z"
+  "lastSync": "2025-07-29T10:11:31.532Z"
 }
