@@ -1622,6 +1622,30 @@
       "priority": "normal",
       "id": "1753785815233",
       "createdAt": "2025-07-29T10:43:35.233Z"
+    },
+    {
+      "title": "Top 5 Cushion Color Trends for Summer 2025",
+      "link": "https://pin.it/3lgZzkGIZ",
+      "content": "Discover the top cushion color trends transforming European interiors in 2025. From olive yellow to serene taupe grey, explore sophisticated palette ideas.",
+      "startDate": "2025-06-03",
+      "startTime": "14:32",
+      "dueDate": "2025-06-03",
+      "dueTime": "14:32",
+      "date": "2025-06-03",
+      "time": "14:32",
+      "utcStart": "2025-06-03T12:32:00.000Z",
+      "utcDue": "2025-06-03T12:32:00.000Z",
+      "utc": "2025-06-03T12:32:00.000Z",
+      "updatedAt": "2025-07-29T12:33:44.559Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753792424560",
+      "createdAt": "2025-07-29T12:33:44.560Z"
     }
   ],
   "tasks": [
@@ -2366,5 +2390,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:31:58.213Z"
+  "lastSync": "2025-07-29T12:33:44.562Z"
 }
