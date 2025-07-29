@@ -2030,6 +2030,30 @@
       "priority": "normal",
       "id": "1753793909179",
       "createdAt": "2025-07-29T12:58:29.179Z"
+    },
+    {
+      "title": "Olive Yellow Luxury Pillows - Scandinavian Design Textured Home Decor",
+      "link": "https://sk.pinterest.com/pin/1096063628078742041/",
+      "content": "Discover the sophisticated beauty of olive yellow through masterfully crafted textures – geometric chevron patterns, luxurious ribbed corduroy, and intricate basketweave designs. Each pillow features varying pile heights and directional weaves that create stunning visual depth and tactile luxury. Perfect for elevating Scandinavian and modern living spaces with warm, golden sophistication.",
+      "startDate": "2025-07-02",
+      "startTime": "14:58",
+      "dueDate": "2025-07-02",
+      "dueTime": "14:58",
+      "date": "2025-07-02",
+      "time": "14:58",
+      "utcStart": "2025-07-02T12:58:00.000Z",
+      "utcDue": "2025-07-02T12:58:00.000Z",
+      "utc": "2025-07-02T12:58:00.000Z",
+      "updatedAt": "2025-07-29T13:02:17.370Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753794137370",
+      "createdAt": "2025-07-29T13:02:17.370Z"
     }
   ],
   "tasks": [
@@ -2774,5 +2798,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:58:29.181Z"
+  "lastSync": "2025-07-29T13:02:17.373Z"
 }
