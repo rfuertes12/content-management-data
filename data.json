@@ -1694,6 +1694,30 @@
       "priority": "normal",
       "id": "1753792657038",
       "createdAt": "2025-07-29T12:37:37.038Z"
+    },
+    {
+      "title": "Outdoor Cushions Guide 2025: Styles, Materials & Trends for European Outdoors",
+      "link": "https://sk.pinterest.com/pin/1096063628077879961/",
+      "content": "Whether you're styling a sun-soaked patio, a cozy garden nook, or a breezy balcony, the right cushions can transform your outdoor space.\n\nFrom picking weather-resistant fabrics to mixing colors and textures, this guide has everything you need to elevate your summer lounging game. ☀️🪴",
+      "startDate": "2025-06-16",
+      "startTime": "14:46",
+      "dueDate": "2025-06-16",
+      "dueTime": "14:46",
+      "date": "2025-06-16",
+      "time": "14:46",
+      "utcStart": "2025-06-16T12:46:00.000Z",
+      "utcDue": "2025-06-16T12:46:00.000Z",
+      "utc": "2025-06-16T12:46:00.000Z",
+      "updatedAt": "2025-07-29T12:47:21.596Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793241597",
+      "createdAt": "2025-07-29T12:47:21.597Z"
     }
   ],
   "tasks": [
@@ -2438,5 +2462,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:37:37.040Z"
+  "lastSync": "2025-07-29T12:47:21.599Z"
 }
