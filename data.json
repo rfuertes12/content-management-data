@@ -899,6 +899,30 @@
       "priority": "normal",
       "id": "1753779030366",
       "createdAt": "2025-07-29T08:50:30.366Z"
+    },
+    {
+      "title": "When sophistication meets comfort, magic happens",
+      "link": "",
+      "content": "When sophistication meets comfort, magic happens\n\nThis isn't just a cushion—it's a century of Danish design excellence captured in burgundy and blue geometric perfection.\n\nThe Mist collection by Nils Juul Eilersen represents everything we love about Scandinavian luxury: clean lines, premium materials, and that effortless elegance that transforms any space into something extraordinary.\n\n- 60x40cm of pure sophistication\n- Premium fabric blend for ultimate comfort\n- Geometric pattern that's both timeless and contemporary\n- Crafted by Denmark's most celebrated furniture dynasty\n\nWhether you're curating a reading corner, elevating your living room, or adding that perfect finishing touch to your bedroom sanctuary—this piece speaks the language of refined taste.\n\nSome investments are worth making. Your home deserves this level of artistry.\n\nLink here: https://eilersencushion.eu/collections/mist/products/mist-burgundy-blue\n\n#LuxuryDecor #ScandinavianDesign #DanishDesign #Eilersen #LuxuryLiving #InteriorDesign #DesignerCushions #PremiumDecor #LuxuryInteriors #MinimalistLuxury #HighEndDecor #SophisticatedLiving #LuxuryHome #DesignerHome #LuxuryHomeDecor",
+      "startDate": "2025-07-29",
+      "startTime": "10:51",
+      "dueDate": "2025-07-29",
+      "dueTime": "12:00",
+      "date": "2025-07-29",
+      "time": "10:51",
+      "utcStart": "2025-07-29T08:51:00.000Z",
+      "utcDue": "2025-07-29T10:00:00.000Z",
+      "utc": "2025-07-29T08:51:00.000Z",
+      "updatedAt": "2025-07-29T08:52:49.782Z",
+      "type": "event",
+      "status": "draft",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753779169783",
+      "createdAt": "2025-07-29T08:52:49.783Z"
     }
   ],
   "tasks": [
@@ -1243,5 +1267,5 @@
       "createdAt": "2025-07-29T08:06:27.487Z"
     }
   ],
-  "lastSync": "2025-07-29T08:50:30.368Z"
+  "lastSync": "2025-07-29T08:52:49.784Z"
 }
