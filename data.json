@@ -1742,6 +1742,30 @@
       "priority": "normal",
       "id": "1753793298007",
       "createdAt": "2025-07-29T12:48:18.007Z"
+    },
+    {
+      "title": "How to Choose and Style Seat Cushions for a Chic and Comfortable Home",
+      "link": "https://sk.pinterest.com/pin/1096063628077965841/",
+      "content": "Struggling to find the perfect seat cushions for your space? Whether it’s for dining chairs, benches, or custom builds, this guide walks you through everything from measurements and materials to comfort and style. 🎯\n\nLearn how to avoid common sizing mistakes, choose the right foam density, and match your cushions with your interior or outdoor aesthetic.",
+      "startDate": "2025-06-18",
+      "startTime": "14:48",
+      "dueDate": "2025-06-18",
+      "dueTime": "14:48",
+      "date": "2025-06-18",
+      "time": "14:48",
+      "utcStart": "2025-06-18T12:48:00.000Z",
+      "utcDue": "2025-06-18T12:48:00.000Z",
+      "utc": "2025-06-18T12:48:00.000Z",
+      "updatedAt": "2025-07-29T12:49:11.720Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793351721",
+      "createdAt": "2025-07-29T12:49:11.721Z"
     }
   ],
   "tasks": [
@@ -2486,5 +2510,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:48:18.010Z"
+  "lastSync": "2025-07-29T12:49:11.723Z"
 }
