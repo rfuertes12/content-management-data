@@ -1790,6 +1790,30 @@
       "priority": "normal",
       "id": "1753793399570",
       "createdAt": "2025-07-29T12:49:59.570Z"
+    },
+    {
+      "title": "Styling Sofa Cushions for Summer 2025: Fresh Ideas for Your Home",
+      "link": "https://sk.pinterest.com/pin/1096063628078107515/",
+      "content": "Bring effortless elegance to your home with our 2025 summer sofa cushion styling guide, inspired by Scandinavian design. Whether you crave soft neutrals, airy textures, or playful contrasts, this guide shows you how to style your sofa for a calm, curated summer look.\n\nPerfect for both indoor and covered outdoor spaces, these tips will help you mix and match like a designer.",
+      "startDate": "2025-06-20",
+      "startTime": "14:50",
+      "dueDate": "2025-06-20",
+      "dueTime": "14:50",
+      "date": "2025-06-20",
+      "time": "14:50",
+      "utcStart": "2025-06-20T12:50:00.000Z",
+      "utcDue": "2025-06-20T12:50:00.000Z",
+      "utc": "2025-06-20T12:50:00.000Z",
+      "updatedAt": "2025-07-29T12:50:50.619Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753793450620",
+      "createdAt": "2025-07-29T12:50:50.620Z"
     }
   ],
   "tasks": [
@@ -2534,5 +2558,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-29T12:49:59.573Z"
+  "lastSync": "2025-07-29T12:50:50.621Z"
 }
