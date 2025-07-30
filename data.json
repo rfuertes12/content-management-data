@@ -2174,6 +2174,30 @@
       "priority": "normal",
       "id": "1753854092991",
       "createdAt": "2025-07-30T05:41:32.991Z"
+    },
+    {
+      "title": "Luxury Danish Design: Eilersen Mist Pillow for Sophisticated Seating Spaces",
+      "link": "",
+      "content": "Transform your seating spaces with the sophisticated elegance of the Eilersen Mist rectangular pillow. This Danish-designed masterpiece in brown and light blue brings timeless Scandinavian style to window seats, built-in benches, and luxury sofas. Perfect for creating that coveted reading nook or elevating any corner of your home.",
+      "startDate": "2025-07-30",
+      "startTime": "07:42",
+      "dueDate": "2025-07-30",
+      "dueTime": "07:45",
+      "date": "2025-07-30",
+      "time": "07:42",
+      "utcStart": "2025-07-30T05:42:00.000Z",
+      "utcDue": "2025-07-30T05:45:00.000Z",
+      "utc": "2025-07-30T05:42:00.000Z",
+      "updatedAt": "2025-07-30T05:43:10.673Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753854190674",
+      "createdAt": "2025-07-30T05:43:10.674Z"
     }
   ],
   "tasks": [
@@ -2918,5 +2942,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T05:42:47.325Z"
+  "lastSync": "2025-07-30T05:43:10.676Z"
 }
