@@ -3300,7 +3300,27 @@
       "taskStatus": "todo",
       "id": "1753792318213",
       "createdAt": "2025-07-29T12:31:58.213Z"
+    },
+    {
+      "title": "Generate social media assets",
+      "link": "",
+      "content": "Product Highlight:\n\nCliff collection",
+      "startDate": "2025-07-30",
+      "startTime": "08:30",
+      "dueDate": "2025-07-30",
+      "dueTime": "15:47",
+      "date": "2025-07-30",
+      "time": "08:30",
+      "utcStart": "2025-07-30T06:30:00.000Z",
+      "utcDue": "2025-07-30T13:47:00.000Z",
+      "utc": "2025-07-30T06:30:00.000Z",
+      "updatedAt": "2025-07-30T13:48:15.568Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "completed",
+      "id": "1753883295568",
+      "createdAt": "2025-07-30T13:48:15.568Z"
     }
   ],
-  "lastSync": "2025-07-30T13:47:14.051Z"
+  "lastSync": "2025-07-30T13:48:15.569Z"
 }
