@@ -2342,6 +2342,30 @@
       "priority": "normal",
       "id": "1753858728982",
       "createdAt": "2025-07-30T06:58:48.982Z"
+    },
+    {
+      "title": "Discover how the Cliff collection can transform your living space",
+      "link": "",
+      "content": "The art of elevated living lies in the details that whisper luxury rather than shout it. Our Cliff collection transforms ordinary moments into extraordinary experiences through its signature corduroy patchwork pattern.",
+      "startDate": "2025-07-31",
+      "startTime": "07:00",
+      "dueDate": "2025-07-31",
+      "dueTime": "07:00",
+      "date": "2025-07-31",
+      "time": "07:00",
+      "utcStart": "2025-07-31T05:00:00.000Z",
+      "utcDue": "2025-07-31T05:00:00.000Z",
+      "utc": "2025-07-31T05:00:00.000Z",
+      "updatedAt": "2025-07-30T08:10:52.180Z",
+      "type": "event",
+      "status": "draft",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1753863052182",
+      "createdAt": "2025-07-30T08:10:52.182Z"
     }
   ],
   "tasks": [
@@ -3086,5 +3110,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T06:59:41.810Z"
+  "lastSync": "2025-07-30T08:10:52.184Z"
 }
