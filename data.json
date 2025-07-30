@@ -2297,7 +2297,7 @@
     },
     {
       "title": "Ready to elevate your living space?",
-      "link": "",
+      "link": "https://www.instagram.com/p/DMuy4IouOQc/",
       "content": "When your living room has views like this, every detail matters ✨\nEnter the stunning Eilersen Tent square cushion in brown and light blue—the perfect finishing touch for luxury living spaces that demand nothing but the best.",
       "startDate": "2025-07-30",
       "startTime": "14:00",
@@ -2308,9 +2308,9 @@
       "utcStart": "2025-07-30T12:00:00.000Z",
       "utcDue": "2025-07-30T12:00:00.000Z",
       "utc": "2025-07-30T12:00:00.000Z",
-      "updatedAt": "2025-07-30T06:58:07.974Z",
+      "updatedAt": "2025-07-30T13:46:07.954Z",
       "type": "event",
-      "status": "scheduled",
+      "status": "published",
       "category": "social",
       "platforms": [
         "instagram"
@@ -3302,5 +3302,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T13:45:36.943Z"
+  "lastSync": "2025-07-30T13:46:07.962Z"
 }
