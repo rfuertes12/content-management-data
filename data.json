@@ -2462,6 +2462,30 @@
       "priority": "normal",
       "id": "1753865325373",
       "createdAt": "2025-07-30T08:48:45.373Z"
+    },
+    {
+      "title": "Luxury Outdoor Terrace Design with Cliff Collection Cushions - Golden Hour Styling",
+      "link": "",
+      "content": "Transform your outdoor terrace into a sophisticated sanctuary with the Cliff collection's premium cushions. This golden hour terrace showcases how thoughtful cushion selection creates visual harmony while maintaining the comfort standards of luxury living. Perfect inspiration for high-end outdoor sp",
+      "startDate": "2025-07-31",
+      "startTime": "11:00",
+      "dueDate": "2025-07-31",
+      "dueTime": "11:00",
+      "date": "2025-07-31",
+      "time": "11:00",
+      "utcStart": "2025-07-31T09:00:00.000Z",
+      "utcDue": "2025-07-31T09:00:00.000Z",
+      "utc": "2025-07-31T09:00:00.000Z",
+      "updatedAt": "2025-07-30T08:49:47.440Z",
+      "type": "event",
+      "status": "draft",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753865387442",
+      "createdAt": "2025-07-30T08:49:47.442Z"
     }
   ],
   "tasks": [
@@ -3206,5 +3230,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T08:48:45.377Z"
+  "lastSync": "2025-07-30T08:49:47.445Z"
 }
