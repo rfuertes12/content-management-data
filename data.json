@@ -2222,6 +2222,30 @@
       "priority": "normal",
       "id": "1753856609671",
       "createdAt": "2025-07-30T06:23:29.671Z"
+    },
+    {
+      "title": "Transform your space with Danish design perfection.",
+      "link": "",
+      "content": "When your bedroom feels like a five-star retreat every single night 🌿✨\n\nThe secret? This gorgeous Eilersen Mist pillow in mist green and brown, perfectly placed against crisp white linens in this Scandinavian sanctuary.",
+      "startDate": "2025-07-30",
+      "startTime": "11:00",
+      "dueDate": "2025-07-30",
+      "dueTime": "11:00",
+      "date": "2025-07-30",
+      "time": "11:00",
+      "utcStart": "2025-07-30T09:00:00.000Z",
+      "utcDue": "2025-07-30T09:00:00.000Z",
+      "utc": "2025-07-30T09:00:00.000Z",
+      "updatedAt": "2025-07-30T06:24:22.810Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753856662811",
+      "createdAt": "2025-07-30T06:24:22.811Z"
     }
   ],
   "tasks": [
@@ -2966,5 +2990,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T06:23:37.696Z"
+  "lastSync": "2025-07-30T06:24:22.813Z"
 }
