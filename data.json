@@ -2366,6 +2366,30 @@
       "priority": "normal",
       "id": "1753863052182",
       "createdAt": "2025-07-30T08:10:52.182Z"
+    },
+    {
+      "title": "When texture becomes art",
+      "link": "",
+      "content": "The Cliff collection's corduroy patchwork pattern doesn't just add comfort—it creates visual poetry across your living space. Each ridge catches light differently, transforming your sofa into a canvas of sophisticated elegance.",
+      "startDate": "2025-07-31",
+      "startTime": "07:00",
+      "dueDate": "2025-07-31",
+      "dueTime": "07:00",
+      "date": "2025-07-31",
+      "time": "07:00",
+      "utcStart": "2025-07-31T05:00:00.000Z",
+      "utcDue": "2025-07-31T05:00:00.000Z",
+      "utc": "2025-07-31T05:00:00.000Z",
+      "updatedAt": "2025-07-30T08:12:32.697Z",
+      "type": "event",
+      "status": "draft",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753863152698",
+      "createdAt": "2025-07-30T08:12:32.698Z"
     }
   ],
   "tasks": [
@@ -3110,5 +3134,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T08:10:52.184Z"
+  "lastSync": "2025-07-30T08:12:32.701Z"
 }
