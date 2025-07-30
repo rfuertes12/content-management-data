@@ -2198,6 +2198,30 @@
       "priority": "normal",
       "id": "1753854190674",
       "createdAt": "2025-07-30T05:43:10.674Z"
+    },
+    {
+      "title": "Ready to elevate your bedroom sanctuary?",
+      "link": "",
+      "content": "A bedroom that whispers luxury in every carefully curated detail. This serene sanctuary showcases the art of Scandinavian sophistication, where the stunning Eilersen Mist rectangular pillow in mist green and brown becomes the perfect accent against pristine neutral linens.",
+      "startDate": "2025-07-30",
+      "startTime": "11:00",
+      "dueDate": "2025-07-30",
+      "dueTime": "11:00",
+      "date": "2025-07-30",
+      "time": "11:00",
+      "utcStart": "2025-07-30T09:00:00.000Z",
+      "utcDue": "2025-07-30T09:00:00.000Z",
+      "utc": "2025-07-30T09:00:00.000Z",
+      "updatedAt": "2025-07-30T06:23:29.669Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1753856609671",
+      "createdAt": "2025-07-30T06:23:29.671Z"
     }
   ],
   "tasks": [
@@ -2942,5 +2966,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T06:19:38.355Z"
+  "lastSync": "2025-07-30T06:23:29.674Z"
 }
