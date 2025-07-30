@@ -2246,6 +2246,30 @@
       "priority": "normal",
       "id": "1753856662811",
       "createdAt": "2025-07-30T06:24:22.811Z"
+    },
+    {
+      "title": "Scandinavian Bedroom Design: Mist Green Accent Pillow for Luxury Master Suite",
+      "link": "",
+      "content": "Create the ultimate bedroom sanctuary with the Eilersen Mist pillow in mist green and brown. This Danish-designed accent piece brings sophisticated color and texture to neutral bedrooms. Perfect for adding visual interest to minimalist spaces while maintaining that coveted Scandinavian elegance.",
+      "startDate": "2025-07-30",
+      "startTime": "11:00",
+      "dueDate": "2025-07-30",
+      "dueTime": "11:00",
+      "date": "2025-07-30",
+      "time": "11:00",
+      "utcStart": "2025-07-30T09:00:00.000Z",
+      "utcDue": "2025-07-30T09:00:00.000Z",
+      "utc": "2025-07-30T09:00:00.000Z",
+      "updatedAt": "2025-07-30T06:26:07.557Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753856767559",
+      "createdAt": "2025-07-30T06:26:07.559Z"
     }
   ],
   "tasks": [
@@ -2990,5 +3014,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T06:24:22.813Z"
+  "lastSync": "2025-07-30T06:26:07.561Z"
 }
