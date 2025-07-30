@@ -2414,6 +2414,30 @@
       "priority": "normal",
       "id": "1753863220299",
       "createdAt": "2025-07-30T08:13:40.299Z"
+    },
+    {
+      "title": "Elevate your outdoor moments with designs that understand true refinement",
+      "link": "",
+      "content": "There's something magical about golden hour on your private terrace—when the city skyline becomes your backdrop and every design choice you've made comes together in perfect harmony.",
+      "startDate": "2025-07-31",
+      "startTime": "11:00",
+      "dueDate": "2025-07-31",
+      "dueTime": "11:00",
+      "date": "2025-07-31",
+      "time": "11:00",
+      "utcStart": "2025-07-31T09:00:00.000Z",
+      "utcDue": "2025-07-31T09:00:00.000Z",
+      "utc": "2025-07-31T09:00:00.000Z",
+      "updatedAt": "2025-07-30T08:47:02.064Z",
+      "type": "event",
+      "status": "draft",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1753865222066",
+      "createdAt": "2025-07-30T08:47:02.066Z"
     }
   ],
   "tasks": [
@@ -3158,5 +3182,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T08:13:40.301Z"
+  "lastSync": "2025-07-30T08:47:02.068Z"
 }
