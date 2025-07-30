@@ -2126,6 +2126,30 @@
       "priority": "normal",
       "id": "1753794468264",
       "createdAt": "2025-07-29T13:07:48.264Z"
+    },
+    {
+      "title": "Ready to transform your seating spaces?",
+      "link": "",
+      "content": "There's something magical about a perfectly styled reading nook that makes you want to curl up with a good book and never leave. This stunning window seat showcases the exquisite Eilersen Mist rectangular pillow in brown and light blue—a masterpiece of Danish craftsmanship that elevates any seating area from ordinary to extraordinary.\n\n\nThe subtle striped pattern creates visual depth while maintaining that coveted Scandinavian minimalism we all crave. Notice how the pillow's sophisticated colorway complements the warm wood tones and crisp white surroundings? This is intentional design at its finest.\n\n\nWhether you're creating a luxury reading corner, upgrading your built-in seating, or adding that perfect finishing touch to your designer sofa, the Mist collection brings effortless elegance to any space. Quality Danish textiles meet timeless design—because your home deserves nothing less than perfection.\n\n\nReady to transform your seating spaces? ✨\nhttps://eilersencushion.eu/collections/mist\n\n\n#LuxuryHomeDecor #ScandinavianDesign #DanishDesign #EilersenPillows #InteriorDesign #LuxuryLiving #HomeStyler #DesignerPillows #MinimalistDecor #QualityTextiles #WindowSeat #ReadingNook #LuxuryInteriors #HighEndDecor #HomeDecorInspo",
+      "startDate": "2025-07-30",
+      "startTime": "07:45",
+      "dueDate": "2025-07-30",
+      "dueTime": "07:45",
+      "date": "2025-07-30",
+      "time": "07:45",
+      "utcStart": "2025-07-30T05:45:00.000Z",
+      "utcDue": "2025-07-30T05:45:00.000Z",
+      "utc": "2025-07-30T05:45:00.000Z",
+      "updatedAt": "2025-07-30T05:39:11.772Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1753853951774",
+      "createdAt": "2025-07-30T05:39:11.774Z"
     }
   ],
   "tasks": [
@@ -2870,5 +2894,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T04:28:58.696Z"
+  "lastSync": "2025-07-30T05:39:11.778Z"
 }
