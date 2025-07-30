@@ -2420,15 +2420,15 @@
       "link": "",
       "content": "There's something magical about golden hour on your private terrace—when the city skyline becomes your backdrop and every design choice you've made comes together in perfect harmony.",
       "startDate": "2025-07-31",
-      "startTime": "11:00",
+      "startTime": "14:00",
       "dueDate": "2025-07-31",
-      "dueTime": "11:00",
+      "dueTime": "14:00",
       "date": "2025-07-31",
-      "time": "11:00",
-      "utcStart": "2025-07-31T09:00:00.000Z",
-      "utcDue": "2025-07-31T09:00:00.000Z",
-      "utc": "2025-07-31T09:00:00.000Z",
-      "updatedAt": "2025-07-30T08:47:02.064Z",
+      "time": "14:00",
+      "utcStart": "2025-07-31T12:00:00.000Z",
+      "utcDue": "2025-07-31T12:00:00.000Z",
+      "utc": "2025-07-31T12:00:00.000Z",
+      "updatedAt": "2025-07-30T10:10:54.265Z",
       "type": "event",
       "status": "draft",
       "category": "social",
@@ -3302,5 +3302,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T10:10:46.922Z"
+  "lastSync": "2025-07-30T10:10:54.268Z"
 }
