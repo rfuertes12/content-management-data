@@ -2318,6 +2318,30 @@
       "priority": "normal",
       "id": "1753858687976",
       "createdAt": "2025-07-30T06:58:07.976Z"
+    },
+    {
+      "title": "Luxury Living Room Design: Eilersen Tent Cushion with Radial Stripe Pattern",
+      "link": "",
+      "content": "Transform your living space with the sophisticated elegance of the Eilersen Tent square cushion. The unique radial stripe pattern in brown and light blue creates stunning visual interest while adding luxury and coziness to any seating area. Perfect for modern living rooms, luxury retreats, and sophi",
+      "startDate": "2025-07-30",
+      "startTime": "14:00",
+      "dueDate": "2025-07-30",
+      "dueTime": "14:00",
+      "date": "2025-07-30",
+      "time": "14:00",
+      "utcStart": "2025-07-30T12:00:00.000Z",
+      "utcDue": "2025-07-30T12:00:00.000Z",
+      "utc": "2025-07-30T12:00:00.000Z",
+      "updatedAt": "2025-07-30T06:58:48.981Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753858728982",
+      "createdAt": "2025-07-30T06:58:48.982Z"
     }
   ],
   "tasks": [
@@ -3062,5 +3086,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T06:58:07.977Z"
+  "lastSync": "2025-07-30T06:58:48.984Z"
 }
