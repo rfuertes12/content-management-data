@@ -2438,6 +2438,30 @@
       "priority": "normal",
       "id": "1753865222066",
       "createdAt": "2025-07-30T08:47:02.066Z"
+    },
+    {
+      "title": "Golden hour meets golden taste",
+      "link": "",
+      "content": "When your terrace becomes a canvas for sophisticated living, every element matters. The Cliff collection transforms outdoor spaces into luxury retreats where texture meets tranquility.",
+      "startDate": "2025-07-31",
+      "startTime": "11:00",
+      "dueDate": "2025-07-31",
+      "dueTime": "11:00",
+      "date": "2025-07-31",
+      "time": "11:00",
+      "utcStart": "2025-07-31T09:00:00.000Z",
+      "utcDue": "2025-07-31T09:00:00.000Z",
+      "utc": "2025-07-31T09:00:00.000Z",
+      "updatedAt": "2025-07-30T08:48:45.372Z",
+      "type": "event",
+      "status": "draft",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753865325373",
+      "createdAt": "2025-07-30T08:48:45.373Z"
     }
   ],
   "tasks": [
@@ -3182,5 +3206,5 @@
       "createdAt": "2025-07-29T12:31:58.213Z"
     }
   ],
-  "lastSync": "2025-07-30T08:47:02.068Z"
+  "lastSync": "2025-07-30T08:48:45.377Z"
 }
