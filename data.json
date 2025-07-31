@@ -2383,7 +2383,7 @@
       "utcStart": "2025-07-31T05:00:00.000Z",
       "utcDue": "2025-07-31T05:00:00.000Z",
       "utc": "2025-07-31T05:00:00.000Z",
-      "updatedAt": "2025-07-31T05:21:52.756Z",
+      "updatedAt": "2025-07-31T06:24:12.393Z",
       "type": "event",
       "status": "published",
       "category": "social",
@@ -2392,7 +2392,10 @@
       ],
       "priority": "normal",
       "id": "1753863152698",
-      "createdAt": "2025-07-30T08:12:32.698Z"
+      "createdAt": "2025-07-30T08:12:32.698Z",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#000000",
+      "clientTagIcon": "briefcase"
     },
     {
       "title": "Luxury Corduroy Patchwork Cushions - Cliff Collection Sofa Styling Ideas",
@@ -3387,5 +3390,5 @@
       "createdAt": "2025-07-31T05:12:37.481Z"
     }
   ],
-  "lastSync": "2025-07-31T06:23:25.583Z"
+  "lastSync": "2025-07-31T06:24:12.396Z"
 }
