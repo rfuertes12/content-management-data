@@ -3009,12 +3009,15 @@
       "utcStart": "2025-07-29T10:00:00.000Z",
       "utcDue": "2025-08-01T11:00:00.000Z",
       "utc": "2025-07-29T10:00:00.000Z",
-      "updatedAt": "2025-07-31T05:14:04.715Z",
+      "updatedAt": "2025-07-31T12:17:40.324Z",
       "type": "task",
       "priority": "high",
-      "taskStatus": "todo",
+      "taskStatus": "inprogress",
       "id": "1753678998869",
-      "createdAt": "2025-07-28T05:03:18.869Z"
+      "createdAt": "2025-07-28T05:03:18.869Z",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user"
     },
     {
       "title": "Generate social media assets",
@@ -3572,5 +3575,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T12:17:17.784Z"
+  "lastSync": "2025-07-31T12:17:40.326Z"
 }
