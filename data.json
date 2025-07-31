@@ -2677,6 +2677,33 @@
       "priority": "normal",
       "id": "1753962707594",
       "createdAt": "2025-07-31T11:51:47.594Z"
+    },
+    {
+      "title": "Brown Couch Pillow Styling Guide - Transform Your Living Room",
+      "link": "",
+      "content": "Discover the secret to styling brown couches like a luxury interior designer! Learn which colors, textures, and patterns create perfect harmony with chocolate and caramel sofas. Complete guide to transforming your space from ordinary to extraordinary.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-07-08",
+      "startTime": "08:00",
+      "dueDate": "2025-07-08",
+      "dueTime": "08:00",
+      "date": "2025-07-08",
+      "time": "08:00",
+      "utcStart": "2025-07-08T06:00:00.000Z",
+      "utcDue": "2025-07-08T06:00:00.000Z",
+      "utc": "2025-07-08T06:00:00.000Z",
+      "updatedAt": "2025-07-31T11:53:21.762Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1753962801764",
+      "createdAt": "2025-07-31T11:53:21.764Z"
     }
   ],
   "tasks": [
@@ -3533,5 +3560,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T11:51:47.598Z"
+  "lastSync": "2025-07-31T11:53:21.766Z"
 }
