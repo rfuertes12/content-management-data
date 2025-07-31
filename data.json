@@ -2356,7 +2356,7 @@
       "utcStart": "2025-07-31T05:00:00.000Z",
       "utcDue": "2025-07-31T05:00:00.000Z",
       "utc": "2025-07-31T05:00:00.000Z",
-      "updatedAt": "2025-07-31T05:20:23.012Z",
+      "updatedAt": "2025-07-31T06:22:27.051Z",
       "type": "event",
       "status": "published",
       "category": "social",
@@ -2365,7 +2365,10 @@
       ],
       "priority": "normal",
       "id": "1753863052182",
-      "createdAt": "2025-07-30T08:10:52.182Z"
+      "createdAt": "2025-07-30T08:10:52.182Z",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#000000",
+      "clientTagIcon": "tag"
     },
     {
       "title": "When texture becomes art",
@@ -3384,5 +3387,5 @@
       "createdAt": "2025-07-31T05:12:37.481Z"
     }
   ],
-  "lastSync": "2025-07-31T06:03:37.630Z"
+  "lastSync": "2025-07-31T06:22:27.054Z"
 }
