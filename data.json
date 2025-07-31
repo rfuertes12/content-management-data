@@ -2369,7 +2369,7 @@
     },
     {
       "title": "When texture becomes art",
-      "link": "",
+      "link": "https://www.instagram.com/p/DMwngvgomPO/",
       "content": "The Cliff collection's corduroy patchwork pattern doesn't just add comfort—it creates visual poetry across your living space. Each ridge catches light differently, transforming your sofa into a canvas of sophisticated elegance.",
       "startDate": "2025-07-31",
       "startTime": "07:00",
@@ -2380,9 +2380,9 @@
       "utcStart": "2025-07-31T05:00:00.000Z",
       "utcDue": "2025-07-31T05:00:00.000Z",
       "utc": "2025-07-31T05:00:00.000Z",
-      "updatedAt": "2025-07-30T08:12:32.697Z",
+      "updatedAt": "2025-07-31T05:21:52.756Z",
       "type": "event",
-      "status": "draft",
+      "status": "published",
       "category": "social",
       "platforms": [
         "instagram"
@@ -3382,5 +3382,5 @@
       "createdAt": "2025-07-31T05:12:37.481Z"
     }
   ],
-  "lastSync": "2025-07-31T05:21:20.086Z"
+  "lastSync": "2025-07-31T05:21:52.761Z"
 }
