@@ -3377,15 +3377,15 @@
       "utcStart": "2025-07-31T05:10:00.000Z",
       "utcDue": "2025-07-31T10:10:00.000Z",
       "utc": "2025-07-31T05:10:00.000Z",
-      "updatedAt": "2025-07-31T07:08:05.358Z",
+      "updatedAt": "2025-07-31T10:40:59.801Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "todo",
+      "taskStatus": "completed",
       "id": "1753938710437",
       "createdAt": "2025-07-31T05:11:50.437Z",
       "clientTag": "Eilersen",
       "clientTagColor": "#50b9dc",
-      "clientTagIcon": "user"
+      "clientTagIcon": "tag"
     },
     {
       "title": "Create media assets for blog",
@@ -3457,5 +3457,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T10:40:30.215Z"
+  "lastSync": "2025-07-31T10:40:59.804Z"
 }
