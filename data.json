@@ -3400,15 +3400,15 @@
       "utcStart": "2025-07-31T05:11:00.000Z",
       "utcDue": "2025-07-31T10:00:00.000Z",
       "utc": "2025-07-31T05:11:00.000Z",
-      "updatedAt": "2025-07-31T07:01:42.771Z",
+      "updatedAt": "2025-07-31T10:41:12.322Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "todo",
+      "taskStatus": "completed",
       "id": "1753938739280",
       "createdAt": "2025-07-31T05:12:19.280Z",
       "clientTag": "Eilersen",
       "clientTagColor": "#50b9dc",
-      "clientTagIcon": "user"
+      "clientTagIcon": "tag"
     },
     {
       "title": "Research topic for blog post",
@@ -3457,5 +3457,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T10:40:59.804Z"
+  "lastSync": "2025-07-31T10:41:12.325Z"
 }
