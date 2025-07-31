@@ -3332,8 +3332,8 @@
     },
     {
       "title": "Generate blog post 1",
-      "link": "",
-      "content": "",
+      "link": "https://seo-writer.brandflowph.com/index.html?doc=brown-couch-pillows-the-ultimate-guide-to-styling-your-sofa-with-confidence",
+      "content": "Title: Brown Couch Pillows: The Ultimate Guide to Styling Your Sofa with Confidence",
       "startDate": "2025-07-31",
       "startTime": "07:10",
       "dueDate": "2025-07-31",
@@ -3343,7 +3343,7 @@
       "utcStart": "2025-07-31T05:10:00.000Z",
       "utcDue": "2025-07-31T10:10:00.000Z",
       "utc": "2025-07-31T05:10:00.000Z",
-      "updatedAt": "2025-07-31T07:00:59.518Z",
+      "updatedAt": "2025-07-31T07:08:05.358Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "todo",
@@ -3423,5 +3423,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T07:07:05.952Z"
+  "lastSync": "2025-07-31T07:08:05.360Z"
 }
