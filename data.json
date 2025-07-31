@@ -2483,7 +2483,7 @@
       "utcStart": "2025-07-31T09:00:00.000Z",
       "utcDue": "2025-07-31T09:00:00.000Z",
       "utc": "2025-07-31T09:00:00.000Z",
-      "updatedAt": "2025-07-31T10:37:56.754Z",
+      "updatedAt": "2025-07-31T12:15:53.845Z",
       "type": "event",
       "status": "published",
       "category": "social",
@@ -2495,7 +2495,7 @@
       "createdAt": "2025-07-30T08:48:45.373Z",
       "clientTag": "Eilersen",
       "clientTagColor": "#50b9dc",
-      "clientTagIcon": "tag"
+      "clientTagIcon": "user"
     },
     {
       "title": "Luxury Outdoor Terrace Design with Cliff Collection Cushions - Golden Hour Styling",
@@ -3566,5 +3566,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T12:14:23.300Z"
+  "lastSync": "2025-07-31T12:15:53.849Z"
 }
