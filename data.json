@@ -2650,6 +2650,33 @@
       "priority": "normal",
       "id": "1753962662169",
       "createdAt": "2025-07-31T11:51:02.169Z"
+    },
+    {
+      "title": "Your brown couch isn't a design limitation – it's your secret weapon for luxury styling!",
+      "link": "",
+      "content": "So many homeowners think brown furniture boxes them in, but here's the truth: brown is one of the most versatile colors in high-end interior design. The magic happens when you understand undertones and choose pillow combinations that create perfect harmony.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "08:00",
+      "dueDate": "2025-08-01",
+      "dueTime": "08:00",
+      "date": "2025-08-01",
+      "time": "08:00",
+      "utcStart": "2025-08-01T06:00:00.000Z",
+      "utcDue": "2025-08-01T06:00:00.000Z",
+      "utc": "2025-08-01T06:00:00.000Z",
+      "updatedAt": "2025-07-31T11:51:47.591Z",
+      "type": "event",
+      "status": "scheduled",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1753962707594",
+      "createdAt": "2025-07-31T11:51:47.594Z"
     }
   ],
   "tasks": [
@@ -3506,5 +3533,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T11:51:02.172Z"
+  "lastSync": "2025-07-31T11:51:47.598Z"
 }
