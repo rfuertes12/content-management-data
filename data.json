@@ -2450,7 +2450,7 @@
     },
     {
       "title": "Golden hour meets golden taste",
-      "link": "",
+      "link": "https://www.instagram.com/p/DMxDC5TI-mX/",
       "content": "When your terrace becomes a canvas for sophisticated living, every element matters. The Cliff collection transforms outdoor spaces into luxury retreats where texture meets tranquility.",
       "startDate": "2025-07-31",
       "startTime": "11:00",
@@ -2461,16 +2461,19 @@
       "utcStart": "2025-07-31T09:00:00.000Z",
       "utcDue": "2025-07-31T09:00:00.000Z",
       "utc": "2025-07-31T09:00:00.000Z",
-      "updatedAt": "2025-07-30T08:48:45.372Z",
+      "updatedAt": "2025-07-31T10:37:56.754Z",
       "type": "event",
-      "status": "draft",
+      "status": "published",
       "category": "social",
       "platforms": [
         "instagram"
       ],
       "priority": "normal",
       "id": "1753865325373",
-      "createdAt": "2025-07-30T08:48:45.373Z"
+      "createdAt": "2025-07-30T08:48:45.373Z",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "tag"
     },
     {
       "title": "Luxury Outdoor Terrace Design with Cliff Collection Cushions - Golden Hour Styling",
@@ -3448,5 +3451,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T09:54:34.875Z"
+  "lastSync": "2025-07-31T10:37:56.759Z"
 }
