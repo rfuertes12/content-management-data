@@ -3360,7 +3360,27 @@
       "taskStatus": "todo",
       "id": "1753938739280",
       "createdAt": "2025-07-31T05:12:19.280Z"
+    },
+    {
+      "title": "Research topic for blog post",
+      "link": "",
+      "content": "",
+      "startDate": "2025-07-31",
+      "startTime": "07:12",
+      "dueDate": "2025-07-31",
+      "dueTime": "12:00",
+      "date": "2025-07-31",
+      "time": "07:12",
+      "utcStart": "2025-07-31T05:12:00.000Z",
+      "utcDue": "2025-07-31T10:00:00.000Z",
+      "utc": "2025-07-31T05:12:00.000Z",
+      "updatedAt": "2025-07-31T05:12:37.480Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1753938757481",
+      "createdAt": "2025-07-31T05:12:37.481Z"
     }
   ],
-  "lastSync": "2025-07-31T05:12:19.281Z"
+  "lastSync": "2025-07-31T05:12:37.482Z"
 }
