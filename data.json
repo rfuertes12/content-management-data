@@ -2434,7 +2434,7 @@
       "utcStart": "2025-07-31T21:00:00.000Z",
       "utcDue": "2025-07-31T21:00:00.000Z",
       "utc": "2025-07-31T21:00:00.000Z",
-      "updatedAt": "2025-07-31T10:39:01.408Z",
+      "updatedAt": "2025-07-31T11:33:31.072Z",
       "type": "event",
       "status": "published",
       "category": "social",
@@ -2446,7 +2446,7 @@
       "createdAt": "2025-07-30T08:47:02.066Z",
       "clientTag": "Eilersen",
       "clientTagColor": "#50b9dc",
-      "clientTagIcon": "tag"
+      "clientTagIcon": "user"
     },
     {
       "title": "Golden hour meets golden taste",
@@ -3457,5 +3457,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T10:41:29.511Z"
+  "lastSync": "2025-07-31T11:33:31.078Z"
 }
