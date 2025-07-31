@@ -5,14 +5,25 @@
       "link": "https://eilersencushion.eu/blogs/cushion-styling-guides/ultimate-guide-to-cushions",
       "content": "Discover everything you need to know about cushions - from materials and styles to care tips. Find the perfect cushions to enhance your home comfort and style.",
       "date": "2025-04-22",
-      "time": "07:30",
-      "updatedAt": "2025-07-22T08:39:27.215Z",
+      "time": "07:00",
+      "updatedAt": "2025-07-31T11:36:28.560Z",
       "type": "event",
       "status": "published",
       "category": "blog",
       "platforms": [],
       "id": "1753173567217",
-      "createdAt": "2025-07-22T08:39:27.217Z"
+      "createdAt": "2025-07-22T08:39:27.217Z",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-04-22",
+      "startTime": "07:00",
+      "dueDate": "2025-04-22",
+      "dueTime": "07:00",
+      "utcStart": "2025-04-22T05:00:00.000Z",
+      "utcDue": "2025-04-22T05:00:00.000Z",
+      "utc": "2025-04-22T05:00:00.000Z",
+      "priority": "normal"
     },
     {
       "title": "How to Choose and Style Seat Cushions for a Chic and Comfortable Home",
@@ -3457,5 +3468,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T11:33:31.078Z"
+  "lastSync": "2025-07-31T11:36:28.563Z"
 }
