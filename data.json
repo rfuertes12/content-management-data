@@ -2553,7 +2553,7 @@
     },
     {
       "title": "One pillow. Complete transformation.",
-      "link": "",
+      "link": "https://www.instagram.com/p/DMxXxP2xER2/",
       "content": "When slate grey meets rust magic ✨\n\n\nThis is what happens when you understand the art of sophisticated contrast. The Cliff collection's slate grey cushion doesn't just rest on this beautiful chair—it transforms it into something extraordinary.",
       "startDate": "2025-07-31",
       "startTime": "14:00",
@@ -2564,9 +2564,9 @@
       "utcStart": "2025-07-31T12:00:00.000Z",
       "utcDue": "2025-07-31T12:00:00.000Z",
       "utc": "2025-07-31T12:00:00.000Z",
-      "updatedAt": "2025-07-31T10:40:30.211Z",
+      "updatedAt": "2025-07-31T12:12:59.430Z",
       "type": "event",
-      "status": "draft",
+      "status": "published",
       "category": "social",
       "platforms": [
         "instagram"
@@ -2576,7 +2576,7 @@
       "createdAt": "2025-07-30T10:08:01.804Z",
       "clientTag": "Eilersen",
       "clientTagColor": "#50b9dc",
-      "clientTagIcon": "tag"
+      "clientTagIcon": "user"
     },
     {
       "title": "Slate Grey Corduroy Pillow Styling - Cliff Collection Color Contrast Ideas",
@@ -3563,5 +3563,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T12:12:28.257Z"
+  "lastSync": "2025-07-31T12:12:59.435Z"
 }
