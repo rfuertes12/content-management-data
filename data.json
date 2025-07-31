@@ -3386,13 +3386,16 @@
       "utcStart": "2025-07-31T05:12:00.000Z",
       "utcDue": "2025-07-31T10:00:00.000Z",
       "utc": "2025-07-31T05:12:00.000Z",
-      "updatedAt": "2025-07-31T05:12:37.480Z",
+      "updatedAt": "2025-07-31T07:01:54.246Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "todo",
       "id": "1753938757481",
-      "createdAt": "2025-07-31T05:12:37.481Z"
+      "createdAt": "2025-07-31T05:12:37.481Z",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user"
     }
   ],
-  "lastSync": "2025-07-31T07:01:42.774Z"
+  "lastSync": "2025-07-31T07:01:54.248Z"
 }
