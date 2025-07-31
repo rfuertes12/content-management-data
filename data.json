@@ -2575,16 +2575,16 @@
       "clientTag": "Eilersen",
       "clientTagColor": "#50b9dc",
       "clientTagIcon": "tag",
-      "startDate": "2025-08-01",
+      "startDate": "2025-08-02",
       "startTime": "08:00",
-      "dueDate": "2025-08-01",
+      "dueDate": "2025-08-02",
       "dueTime": "08:00",
-      "date": "2025-08-01",
+      "date": "2025-08-02",
       "time": "08:00",
-      "utcStart": "2025-08-01T06:00:00.000Z",
-      "utcDue": "2025-08-01T06:00:00.000Z",
-      "utc": "2025-08-01T06:00:00.000Z",
-      "updatedAt": "2025-07-31T09:53:55.182Z",
+      "utcStart": "2025-08-02T06:00:00.000Z",
+      "utcDue": "2025-08-02T06:00:00.000Z",
+      "utc": "2025-08-02T06:00:00.000Z",
+      "updatedAt": "2025-07-31T09:54:34.870Z",
       "type": "event",
       "status": "scheduled",
       "category": "blog",
@@ -3448,5 +3448,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T09:53:55.188Z"
+  "lastSync": "2025-07-31T09:54:34.875Z"
 }
