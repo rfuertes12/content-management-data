@@ -3395,7 +3395,30 @@
       "clientTag": "Eilersen",
       "clientTagColor": "#50b9dc",
       "clientTagIcon": "user"
+    },
+    {
+      "title": "Design UI/UX for MySigrid Web pages",
+      "link": "",
+      "content": "AI Service page\nRemote Service page\nProject Management service page",
+      "clientTag": "MySigrid",
+      "clientTagColor": "#bd1faf",
+      "clientTagIcon": "briefcase",
+      "startDate": "2025-07-31",
+      "startTime": "13:00",
+      "dueDate": "2025-08-01",
+      "dueTime": "17:00",
+      "date": "2025-07-31",
+      "time": "13:00",
+      "utcStart": "2025-07-31T11:00:00.000Z",
+      "utcDue": "2025-08-01T15:00:00.000Z",
+      "utc": "2025-07-31T11:00:00.000Z",
+      "updatedAt": "2025-07-31T07:05:22.999Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "inprogress",
+      "id": "1753945523001",
+      "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-07-31T07:02:09.922Z"
+  "lastSync": "2025-07-31T07:05:23.002Z"
 }
