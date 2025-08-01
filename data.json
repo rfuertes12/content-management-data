@@ -2635,7 +2635,7 @@
     },
     {
       "title": "Think your brown couch limits your decorating possibilities? Think again!",
-      "link": "",
+      "link": "https://www.facebook.com/122114478212878481/posts/122129064644878481",
       "content": "Brown furniture is actually one of the most versatile pieces you can own – it's all about knowing how to style it properly. The secret lies in understanding undertones and choosing the perfect pillow combinations that work harmoniously with your sofa.",
       "clientTag": "Eilersen",
       "clientTagColor": "#50b9dc",
@@ -2649,9 +2649,9 @@
       "utcStart": "2025-08-01T06:00:00.000Z",
       "utcDue": "2025-08-01T06:00:00.000Z",
       "utc": "2025-08-01T06:00:00.000Z",
-      "updatedAt": "2025-07-31T11:51:02.166Z",
+      "updatedAt": "2025-08-01T05:23:17.497Z",
       "type": "event",
-      "status": "scheduled",
+      "status": "published",
       "category": "social",
       "platforms": [
         "facebook"
@@ -3587,5 +3587,5 @@
       "createdAt": "2025-07-31T07:05:23.001Z"
     }
   ],
-  "lastSync": "2025-08-01T05:22:26.616Z"
+  "lastSync": "2025-08-01T05:23:17.501Z"
 }
