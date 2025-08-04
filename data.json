@@ -4435,7 +4435,30 @@
       "taskStatus": "inprogress",
       "id": "1754298822377",
       "createdAt": "2025-08-04T09:13:42.377Z"
+    },
+    {
+      "title": "Generate blog content",
+      "link": "https://seo-writer.brandflowph.com/?doc=blaze-yellow-beige-cushion-vibrant-chevron-for-stylish-living-spaces",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-04",
+      "startTime": "12:12",
+      "dueDate": "2025-08-04",
+      "dueTime": "14:00",
+      "date": "2025-08-04",
+      "time": "12:12",
+      "utcStart": "2025-08-04T10:12:00.000Z",
+      "utcDue": "2025-08-04T12:00:00.000Z",
+      "utc": "2025-08-04T10:12:00.000Z",
+      "updatedAt": "2025-08-04T10:12:54.074Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "inprogress",
+      "id": "1754302374075",
+      "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T10:12:00.683Z"
+  "lastSync": "2025-08-04T10:12:54.076Z"
 }
