@@ -3677,7 +3677,30 @@
       "taskStatus": "todo",
       "id": "1754283717688",
       "createdAt": "2025-08-04T05:01:57.688Z"
+    },
+    {
+      "title": "Generate media asset for social post",
+      "link": "",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-03",
+      "startTime": "09:30",
+      "dueDate": "2025-08-03",
+      "dueTime": "10:30",
+      "date": "2025-08-03",
+      "time": "09:30",
+      "utcStart": "2025-08-03T07:30:00.000Z",
+      "utcDue": "2025-08-03T08:30:00.000Z",
+      "utc": "2025-08-03T07:30:00.000Z",
+      "updatedAt": "2025-08-04T05:02:59.802Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1754283779807",
+      "createdAt": "2025-08-04T05:02:59.807Z"
     }
   ],
-  "lastSync": "2025-08-04T05:02:14.743Z"
+  "lastSync": "2025-08-04T05:02:59.809Z"
 }
