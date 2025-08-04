@@ -3780,6 +3780,33 @@
       "priority": "normal",
       "id": "1754325668813",
       "createdAt": "2025-08-04T16:41:08.813Z"
+    },
+    {
+      "title": "Stone-Rust Terracotta",
+      "link": "https://www.pinterest.com/pin/1096063628080098947",
+      "content": "Elevate your decor with the rich, earthy tones of the Stone-Rust Terracotta by Nils Juul Eilersen. This cushion’s warm rust color and luxurious diagonal corded texture bring a touch of cozy elegance to any room, making it a perfect accent for both modern and classic spaces.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "18:41",
+      "dueDate": "2025-08-01",
+      "dueTime": "18:41",
+      "date": "2025-08-01",
+      "time": "18:41",
+      "utcStart": "2025-08-01T16:41:00.000Z",
+      "utcDue": "2025-08-01T16:41:00.000Z",
+      "utc": "2025-08-01T16:41:00.000Z",
+      "updatedAt": "2025-08-04T16:41:37.017Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1754325697020",
+      "createdAt": "2025-08-04T16:41:37.020Z"
     }
   ],
   "tasks": [
@@ -4838,5 +4865,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:41:08.815Z"
+  "lastSync": "2025-08-04T16:41:37.024Z"
 }
