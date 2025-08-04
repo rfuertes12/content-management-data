@@ -3053,9 +3053,9 @@
       "title": "Crest Brown/Light Blue Cushion – Elegant Stripes for Modern Homes",
       "link": "",
       "content": "Explain the Crest collection’s blend of colours such as brown/light‑blue, burgundy/navy and green/beige to add depth and warmth\neilersencushion.eu\n. Focus on the cylindrical Crest Brown/Light Blue cushion – its striped pattern, viscose/cotton/polyester blend and Ø15 × 74 cm size\neilersencushion.eu",
-      "clientTag": "",
-      "clientTagColor": "",
-      "clientTagIcon": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
       "startDate": "2025-08-11",
       "startTime": "11:01",
       "dueDate": "2025-08-11",
@@ -3065,7 +3065,7 @@
       "utcStart": "2025-08-11T09:01:00.000Z",
       "utcDue": "2025-08-11T09:01:00.000Z",
       "utc": "2025-08-11T09:01:00.000Z",
-      "updatedAt": "2025-08-04T09:02:05.926Z",
+      "updatedAt": "2025-08-04T09:12:07.895Z",
       "type": "event",
       "status": "idea",
       "category": "blog",
@@ -4110,5 +4110,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T09:11:47.010Z"
+  "lastSync": "2025-08-04T09:12:07.898Z"
 }
