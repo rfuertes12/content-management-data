@@ -3672,6 +3672,33 @@
       "priority": "normal",
       "id": "1754325428426",
       "createdAt": "2025-08-04T16:37:08.426Z"
+    },
+    {
+      "title": "Stone-Taupe Gray",
+      "link": "https://www.pinterest.com/pin/1096063628080098802",
+      "content": "Enhance your space with the warm, earthy tones of the Stone-Taupe Gray by Nils Juul Eilersen. This cushion’s rich mocha color and elegant diagonal corded texture provide a cozy yet sophisticated touch, ideal for adding depth and warmth to any decor style.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:37",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:37",
+      "date": "2025-08-01",
+      "time": "15:37",
+      "utcStart": "2025-08-01T13:37:00.000Z",
+      "utcDue": "2025-08-01T13:37:00.000Z",
+      "utc": "2025-08-01T13:37:00.000Z",
+      "updatedAt": "2025-08-04T16:37:45.493Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754325465494",
+      "createdAt": "2025-08-04T16:37:45.495Z"
     }
   ],
   "tasks": [
@@ -4730,5 +4757,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:37:08.431Z"
+  "lastSync": "2025-08-04T16:37:45.497Z"
 }
