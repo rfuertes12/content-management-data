@@ -2998,6 +2998,31 @@
       "priority": "normal",
       "id": "1754291847551",
       "createdAt": "2025-08-04T07:17:27.551Z"
+    },
+    {
+      "title": "Blaze Yellow/Beige Cushion – Vibrant Chevron for Stylish Living Spaces",
+      "link": "",
+      "content": "Describe how the Blaze collection uses vibrant colour combinations such as yellow/beige, green/blue and teal/beige to add a pop of colour and comfort\neilersencushion.eu\n. Focus on the chevron‑patterned 50 × 50 cm Blaze‑Yellow/Beige cushion – its warm yellow and beige tones, viscose/cotton/polyester",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "tag",
+      "startDate": "2025-08-04",
+      "startTime": "12:00",
+      "dueDate": "2025-08-04",
+      "dueTime": "12:00",
+      "date": "2025-08-04",
+      "time": "12:00",
+      "utcStart": "2025-08-04T10:00:00.000Z",
+      "utcDue": "2025-08-04T10:00:00.000Z",
+      "utc": "2025-08-04T10:00:00.000Z",
+      "updatedAt": "2025-08-04T08:22:23.856Z",
+      "type": "event",
+      "status": "draft",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754295743858",
+      "createdAt": "2025-08-04T08:22:23.858Z"
     }
   ],
   "tasks": [
@@ -3287,7 +3312,7 @@
       "content": "",
       "startDate": "2025-07-29",
       "startTime": "12:00",
-      "dueDate": "2025-08-01",
+      "dueDate": "2025-08-04",
       "dueTime": "13:00",
       "date": "2025-07-29",
       "time": "12:00",
@@ -3880,7 +3905,7 @@
       "clientTagIcon": "",
       "startDate": "2025-08-01",
       "startTime": "07:30",
-      "dueDate": "2025-08-01",
+      "dueDate": "2025-08-04",
       "dueTime": "08:00",
       "date": "2025-08-01",
       "time": "07:30",
@@ -4010,5 +4035,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T07:29:23.916Z"
+  "lastSync": "2025-08-04T08:22:23.860Z"
 }
