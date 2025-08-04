@@ -3569,17 +3569,17 @@
       "content": "AI Service page\nRemote Service page\nProject Management service page",
       "clientTag": "MySigrid",
       "clientTagColor": "#bd1faf",
-      "clientTagIcon": "briefcase",
+      "clientTagIcon": "tag",
       "startDate": "2025-07-31",
       "startTime": "13:00",
-      "dueDate": "2025-08-01",
+      "dueDate": "2025-08-05",
       "dueTime": "17:00",
       "date": "2025-07-31",
       "time": "13:00",
       "utcStart": "2025-07-31T11:00:00.000Z",
-      "utcDue": "2025-08-01T15:00:00.000Z",
+      "utcDue": "2025-08-05T15:00:00.000Z",
       "utc": "2025-07-31T11:00:00.000Z",
-      "updatedAt": "2025-07-31T07:05:52.181Z",
+      "updatedAt": "2025-08-04T04:57:15.760Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "inprogress",
@@ -3656,5 +3656,5 @@
       "createdAt": "2025-08-04T04:41:55.333Z"
     }
   ],
-  "lastSync": "2025-08-04T04:41:55.334Z"
+  "lastSync": "2025-08-04T04:57:15.767Z"
 }
