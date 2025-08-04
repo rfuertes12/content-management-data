@@ -3807,6 +3807,33 @@
       "priority": "normal",
       "id": "1754325697020",
       "createdAt": "2025-08-04T16:41:37.020Z"
+    },
+    {
+      "title": "Stone - Oyster Gray",
+      "link": "https://www.pinterest.com/pin/1096063628080098953",
+      "content": "Enhance your home with the calming touch of the Stone - Oyster Gray by Nils Juul Eilersen. With its soft oyster-gray tone and elegant diagonal corded texture, this cushion exudes understated elegance, making it a versatile accent for both modern and classic interiors.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:41",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:41",
+      "date": "2025-08-01",
+      "time": "15:41",
+      "utcStart": "2025-08-01T13:41:00.000Z",
+      "utcDue": "2025-08-01T13:41:00.000Z",
+      "utc": "2025-08-01T13:41:00.000Z",
+      "updatedAt": "2025-08-04T16:42:16.954Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754325736955",
+      "createdAt": "2025-08-04T16:42:16.955Z"
     }
   ],
   "tasks": [
@@ -4865,5 +4892,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:41:37.024Z"
+  "lastSync": "2025-08-04T16:42:16.957Z"
 }
