@@ -3023,6 +3023,31 @@
       "priority": "normal",
       "id": "1754295743858",
       "createdAt": "2025-08-04T08:22:23.858Z"
+    },
+    {
+      "title": "Bali Outdoor Emerald Haven Cushion – Transform Patios with Lush Green",
+      "link": "",
+      "content": "Highlight how the Bali outdoor collection transforms patios, terraces and gardens into stylish retreats with Scandinavian‑inspired textures\neilersencushion.eu\n. Describe the Emerald Haven variant: an emerald‑green cushion made from 100 % polypropylene, water‑repellent and quick‑dry, with weather‑res",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-07",
+      "startTime": "12:00",
+      "dueDate": "2025-08-07",
+      "dueTime": "12:00",
+      "date": "2025-08-07",
+      "time": "12:00",
+      "utcStart": "2025-08-07T10:00:00.000Z",
+      "utcDue": "2025-08-07T10:00:00.000Z",
+      "utc": "2025-08-07T10:00:00.000Z",
+      "updatedAt": "2025-08-04T08:23:06.676Z",
+      "type": "event",
+      "status": "draft",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754295786678",
+      "createdAt": "2025-08-04T08:23:06.678Z"
     }
   ],
   "tasks": [
@@ -4035,5 +4060,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T08:22:23.860Z"
+  "lastSync": "2025-08-04T08:23:06.682Z"
 }
