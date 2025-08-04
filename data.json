@@ -4202,16 +4202,16 @@
       "title": "Add Tent collection pin board",
       "link": "https://sk.pinterest.com/eilersencushion/eilersen-tent-collection/",
       "content": "",
-      "startDate": "2025-07-30",
+      "startDate": "2025-07-05",
       "startTime": "13:00",
       "dueDate": "2025-08-05",
       "dueTime": "15:00",
-      "date": "2025-07-30",
+      "date": "2025-07-05",
       "time": "13:00",
-      "utcStart": "2025-07-30T11:00:00.000Z",
+      "utcStart": "2025-07-05T11:00:00.000Z",
       "utcDue": "2025-08-05T13:00:00.000Z",
-      "utc": "2025-07-30T11:00:00.000Z",
-      "updatedAt": "2025-08-04T14:12:35.735Z",
+      "utc": "2025-07-05T11:00:00.000Z",
+      "updatedAt": "2025-08-04T14:13:14.808Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "inprogress",
@@ -4541,5 +4541,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T14:13:02.230Z"
+  "lastSync": "2025-08-04T14:13:14.810Z"
 }
