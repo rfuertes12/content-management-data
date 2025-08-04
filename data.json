@@ -3190,13 +3190,11 @@
       "utcStart": "2025-08-28T09:15:00.000Z",
       "utcDue": "2025-08-28T09:15:00.000Z",
       "utc": "2025-08-28T09:15:00.000Z",
-      "updatedAt": "2025-08-04T09:15:57.179Z",
+      "updatedAt": "2025-08-04T17:43:26.776Z",
       "type": "event",
       "status": "idea",
-      "category": "social",
-      "platforms": [
-        "facebook"
-      ],
+      "category": "blog",
+      "platforms": [],
       "priority": "normal",
       "id": "1754298957181",
       "createdAt": "2025-08-04T09:15:57.181Z"
@@ -5135,5 +5133,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T17:42:51.150Z"
+  "lastSync": "2025-08-04T17:43:26.783Z"
 }
