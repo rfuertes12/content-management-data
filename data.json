@@ -3753,6 +3753,33 @@
       "priority": "normal",
       "id": "1754325545460",
       "createdAt": "2025-08-04T16:39:05.460Z"
+    },
+    {
+      "title": "Stone-White",
+      "link": "https://www.pinterest.com/pin/1096063628080098942",
+      "content": "Introduce a soft, airy elegance to your decor with the Stone-White by Nils Juul Eilersen. This cushion’s light misty hue and refined diagonal corded texture offer a fresh, serene vibe, making it a perfect accent for both minimalist and classic interiors.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:40",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:40",
+      "date": "2025-08-01",
+      "time": "15:40",
+      "utcStart": "2025-08-01T13:40:00.000Z",
+      "utcDue": "2025-08-01T13:40:00.000Z",
+      "utc": "2025-08-01T13:40:00.000Z",
+      "updatedAt": "2025-08-04T16:41:08.811Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754325668813",
+      "createdAt": "2025-08-04T16:41:08.813Z"
     }
   ],
   "tasks": [
@@ -4811,5 +4838,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:40:23.490Z"
+  "lastSync": "2025-08-04T16:41:08.815Z"
 }
