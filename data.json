@@ -3706,7 +3706,7 @@
       "updatedAt": "2025-08-01T05:20:10.142Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "inprogress",
+      "taskStatus": "completed",
       "id": "1753792132185",
       "createdAt": "2025-07-29T12:28:52.185Z",
       "clientTag": "Eilersen",
@@ -4010,5 +4010,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T07:27:08.153Z"
+  "lastSync": "2025-08-04T07:27:22.058Z"
 }
