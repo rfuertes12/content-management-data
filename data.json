@@ -3699,6 +3699,33 @@
       "priority": "normal",
       "id": "1754325465494",
       "createdAt": "2025-08-04T16:37:45.495Z"
+    },
+    {
+      "title": "Stone-Deep Forest",
+      "link": "https://www.pinterest.com/pin/1096063628080098803",
+      "content": "Bring the serene beauty of nature indoors with the Stone-Deep Forest by Nils Juul Eilersen. This cushion’s rich forest green hue and sophisticated diagonal corded texture add a touch of depth and elegance, creating a refreshing and calming atmosphere.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:38",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:38",
+      "date": "2025-08-01",
+      "time": "15:38",
+      "utcStart": "2025-08-01T13:38:00.000Z",
+      "utcDue": "2025-08-01T13:38:00.000Z",
+      "utc": "2025-08-01T13:38:00.000Z",
+      "updatedAt": "2025-08-04T16:38:20.591Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754325500593",
+      "createdAt": "2025-08-04T16:38:20.593Z"
     }
   ],
   "tasks": [
@@ -4757,5 +4784,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:37:45.497Z"
+  "lastSync": "2025-08-04T16:38:20.595Z"
 }
