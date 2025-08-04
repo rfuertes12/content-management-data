@@ -3915,6 +3915,33 @@
       "priority": "normal",
       "id": "1754325866825",
       "createdAt": "2025-08-04T16:44:26.825Z"
+    },
+    {
+      "title": "Summit- Midnight Blue",
+      "link": "https://www.pinterest.com/pin/1096063628080099474",
+      "content": "Infuse your space with the calm, cool elegance of the Summit- Midnight Blue by Nils Juul Eilersen. This cushion, in a rich teal shade, features a sleek, diagonal ribbed texture that brings both visual and tactile appeal. Perfect for creating a serene ambiance in any modern or coastal-inspired settin",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:44",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:44",
+      "date": "2025-08-01",
+      "time": "15:44",
+      "utcStart": "2025-08-01T13:44:00.000Z",
+      "utcDue": "2025-08-01T13:44:00.000Z",
+      "utc": "2025-08-01T13:44:00.000Z",
+      "updatedAt": "2025-08-04T16:45:06.285Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754325906286",
+      "createdAt": "2025-08-04T16:45:06.286Z"
     }
   ],
   "tasks": [
@@ -4973,5 +5000,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:44:26.829Z"
+  "lastSync": "2025-08-04T16:45:06.289Z"
 }
