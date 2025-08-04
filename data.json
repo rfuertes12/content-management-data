@@ -2971,6 +2971,33 @@
       "priority": "normal",
       "id": "1754291801543",
       "createdAt": "2025-08-04T07:16:41.543Z"
+    },
+    {
+      "title": "Styling Sofa Cushions for Summer 2025",
+      "link": "https://www.pinterest.com/pin/1096063628079474630",
+      "content": "Bring effortless elegance to your home with our 2025 summer sofa cushion styling guide, inspired by Scandinavian design. Whether you crave soft neutrals, airy textures, or playful contrasts, this guide shows you how to style your sofa for a calm, curated summer look.\n\nPerfect for both indoor and cov",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-07-18",
+      "startTime": "09:16",
+      "dueDate": "2025-07-18",
+      "dueTime": "09:16",
+      "date": "2025-07-18",
+      "time": "09:16",
+      "utcStart": "2025-07-18T07:16:00.000Z",
+      "utcDue": "2025-07-18T07:16:00.000Z",
+      "utc": "2025-07-18T07:16:00.000Z",
+      "updatedAt": "2025-08-04T07:17:27.549Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754291847551",
+      "createdAt": "2025-08-04T07:17:27.551Z"
     }
   ],
   "tasks": [
@@ -3983,5 +4010,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T07:16:41.547Z"
+  "lastSync": "2025-08-04T07:17:27.553Z"
 }
