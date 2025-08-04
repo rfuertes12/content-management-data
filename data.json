@@ -2917,6 +2917,33 @@
       "priority": "normal",
       "id": "1754291686091",
       "createdAt": "2025-08-04T07:14:46.091Z"
+    },
+    {
+      "title": "How to Choose and Style Seat Cushions",
+      "link": "https://www.pinterest.com/pin/1096063628079388673",
+      "content": "Struggling to find the perfect seat cushions for your space? Whether it’s for dining chairs, benches, or custom builds, this guide walks you through everything from measurements and materials to comfort and style.\n\nLearn how to avoid common sizing mistakes, choose the right foam density, and match y",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-07-16",
+      "startTime": "09:14",
+      "dueDate": "2025-07-16",
+      "dueTime": "09:14",
+      "date": "2025-07-16",
+      "time": "09:14",
+      "utcStart": "2025-07-16T07:14:00.000Z",
+      "utcDue": "2025-07-16T07:14:00.000Z",
+      "utc": "2025-07-16T07:14:00.000Z",
+      "updatedAt": "2025-08-04T07:15:50.620Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754291750622",
+      "createdAt": "2025-08-04T07:15:50.622Z"
     }
   ],
   "tasks": [
@@ -3929,5 +3956,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T07:14:46.094Z"
+  "lastSync": "2025-08-04T07:15:50.624Z"
 }
