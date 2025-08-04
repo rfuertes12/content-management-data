@@ -4533,13 +4533,13 @@
       "utcStart": "2025-08-04T10:12:00.000Z",
       "utcDue": "2025-08-04T12:00:00.000Z",
       "utc": "2025-08-04T10:12:00.000Z",
-      "updatedAt": "2025-08-04T10:12:54.074Z",
+      "updatedAt": "2025-08-04T14:11:00.390Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "inprogress",
+      "taskStatus": "completed",
       "id": "1754302374075",
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T14:10:49.120Z"
+  "lastSync": "2025-08-04T14:11:00.392Z"
 }
