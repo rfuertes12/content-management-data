@@ -3616,16 +3616,16 @@
       "clientTag": "Eilersen",
       "clientTagColor": "#50b9dc",
       "clientTagIcon": "user",
-      "startDate": "2025-08-03",
+      "startDate": "2025-08-04",
       "startTime": "07:00",
-      "dueDate": "2025-08-03",
+      "dueDate": "2025-08-04",
       "dueTime": "08:00",
-      "date": "2025-08-03",
+      "date": "2025-08-04",
       "time": "07:00",
-      "utcStart": "2025-08-03T05:00:00.000Z",
-      "utcDue": "2025-08-03T06:00:00.000Z",
-      "utc": "2025-08-03T05:00:00.000Z",
-      "updatedAt": "2025-08-04T04:40:52.498Z",
+      "utcStart": "2025-08-04T05:00:00.000Z",
+      "utcDue": "2025-08-04T06:00:00.000Z",
+      "utc": "2025-08-04T05:00:00.000Z",
+      "updatedAt": "2025-08-04T04:41:07.268Z",
       "type": "task",
       "priority": "high",
       "taskStatus": "todo",
@@ -3633,5 +3633,5 @@
       "createdAt": "2025-08-04T04:40:52.499Z"
     }
   ],
-  "lastSync": "2025-08-04T04:40:52.500Z"
+  "lastSync": "2025-08-04T04:41:07.271Z"
 }
