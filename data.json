@@ -3888,6 +3888,33 @@
       "priority": "normal",
       "id": "1754325829813",
       "createdAt": "2025-08-04T16:43:49.813Z"
+    },
+    {
+      "title": "Summit- Olive Green Pillow",
+      "link": "https://www.pinterest.com/pin/1096063628080099473",
+      "content": "Elevate your decor with the rich, organic charm of the Summit- Olive Green Pillow by Nils Juul Eilersen. This cushion boasts a vibrant olive hue paired with a refined, diagonal ribbed texture that adds depth and sophistication to any living space. Ideal for both contemporary and rustic interiors, th",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:44",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:44",
+      "date": "2025-08-01",
+      "time": "15:44",
+      "utcStart": "2025-08-01T13:44:00.000Z",
+      "utcDue": "2025-08-01T13:44:00.000Z",
+      "utc": "2025-08-01T13:44:00.000Z",
+      "updatedAt": "2025-08-04T16:44:26.823Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754325866825",
+      "createdAt": "2025-08-04T16:44:26.825Z"
     }
   ],
   "tasks": [
@@ -4946,5 +4973,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:43:49.818Z"
+  "lastSync": "2025-08-04T16:44:26.829Z"
 }
