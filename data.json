@@ -3030,7 +3030,7 @@
       "content": "Highlight how the Bali outdoor collection transforms patios, terraces and gardens into stylish retreats with Scandinavian‑inspired textures\neilersencushion.eu\n. Describe the Emerald Haven variant: an emerald‑green cushion made from 100 % polypropylene, water‑repellent and quick‑dry, with weather‑res",
       "clientTag": "Eilersen",
       "clientTagColor": "#3bc8f7",
-      "clientTagIcon": "tag",
+      "clientTagIcon": "user",
       "startDate": "2025-08-07",
       "startTime": "12:00",
       "dueDate": "2025-08-07",
@@ -3040,7 +3040,7 @@
       "utcStart": "2025-08-07T10:00:00.000Z",
       "utcDue": "2025-08-07T10:00:00.000Z",
       "utc": "2025-08-07T10:00:00.000Z",
-      "updatedAt": "2025-08-04T09:01:24.906Z",
+      "updatedAt": "2025-08-04T09:11:30.782Z",
       "type": "event",
       "status": "idea",
       "category": "blog",
@@ -4110,5 +4110,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T09:02:42.089Z"
+  "lastSync": "2025-08-04T09:11:30.786Z"
 }
