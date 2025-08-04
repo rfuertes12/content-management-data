@@ -2890,6 +2890,33 @@
       "priority": "normal",
       "id": "1754291637652",
       "createdAt": "2025-08-04T07:13:57.652Z"
+    },
+    {
+      "title": "The Ultimate Guide to Choosing Decorative Cushions",
+      "link": "https://sk.pinterest.com/pin/1096063628079347229/",
+      "content": "Discover everything you need to know about cushions - from materials and styles to care tips. Find the perfect cushions to enhance your home comfort and style.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-07-15",
+      "startTime": "09:14",
+      "dueDate": "2025-07-15",
+      "dueTime": "09:14",
+      "date": "2025-07-15",
+      "time": "09:14",
+      "utcStart": "2025-07-15T07:14:00.000Z",
+      "utcDue": "2025-07-15T07:14:00.000Z",
+      "utc": "2025-07-15T07:14:00.000Z",
+      "updatedAt": "2025-08-04T07:14:46.090Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754291686091",
+      "createdAt": "2025-08-04T07:14:46.091Z"
     }
   ],
   "tasks": [
@@ -3902,5 +3929,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T07:13:57.654Z"
+  "lastSync": "2025-08-04T07:14:46.094Z"
 }
