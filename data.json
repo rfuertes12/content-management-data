@@ -3123,6 +3123,31 @@
       "priority": "normal",
       "id": "1754298884172",
       "createdAt": "2025-08-04T09:14:44.172Z"
+    },
+    {
+      "title": "Ember Blue/Black/Grey Cylinder Cushion – Deep Colours & Modern Lines",
+      "link": "",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-21",
+      "startTime": "11:14",
+      "dueDate": "2025-08-21",
+      "dueTime": "11:14",
+      "date": "2025-08-21",
+      "time": "11:14",
+      "utcStart": "2025-08-21T09:14:00.000Z",
+      "utcDue": "2025-08-21T09:14:00.000Z",
+      "utc": "2025-08-21T09:14:00.000Z",
+      "updatedAt": "2025-08-04T09:15:05.903Z",
+      "type": "event",
+      "status": "idea",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754298905905",
+      "createdAt": "2025-08-04T09:15:05.905Z"
     }
   ],
   "tasks": [
@@ -4158,5 +4183,5 @@
       "createdAt": "2025-08-04T09:13:42.377Z"
     }
   ],
-  "lastSync": "2025-08-04T09:14:44.174Z"
+  "lastSync": "2025-08-04T09:15:05.907Z"
 }
