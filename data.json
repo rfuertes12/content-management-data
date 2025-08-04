@@ -2813,6 +2813,31 @@
       "priority": "normal",
       "id": "1754291474017",
       "createdAt": "2025-08-04T07:11:14.017Z"
+    },
+    {
+      "title": "How to Style Throw Pillows on a Sectional: The Ultimate Guide to Perfect Arrangements",
+      "link": "https://eilersencushion.eu/blogs/cushion-styling-guides/how-to-style-throw-pillows-sectional",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-07-16",
+      "startTime": "09:11",
+      "dueDate": "2025-07-16",
+      "dueTime": "09:11",
+      "date": "2025-07-16",
+      "time": "09:11",
+      "utcStart": "2025-07-16T07:11:00.000Z",
+      "utcDue": "2025-07-16T07:11:00.000Z",
+      "utc": "2025-07-16T07:11:00.000Z",
+      "updatedAt": "2025-08-04T07:11:38.188Z",
+      "type": "event",
+      "status": "published",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754291498190",
+      "createdAt": "2025-08-04T07:11:38.190Z"
     }
   ],
   "tasks": [
@@ -3825,5 +3850,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T07:11:14.023Z"
+  "lastSync": "2025-08-04T07:11:38.192Z"
 }
