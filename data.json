@@ -3407,9 +3407,9 @@
       "title": "Transform your living space into a sanctuary of sophisticated elegance with the stunning Eilersen Blaze yellow-beige cushion",
       "link": "https://facebook.com/678023775391662_122129988746878481",
       "content": "Transform your living space into a sanctuary of sophisticated elegance with the stunning Eilersen Blaze yellow-beige cushion.\n\nThis isn't just another throw pillow – it's a statement piece that speaks to your refined taste. The distinctive chevron pattern creates visual intrigue while the carefully",
-      "clientTag": "",
-      "clientTagColor": "",
-      "clientTagIcon": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
       "startDate": "2025-08-04",
       "startTime": "15:00",
       "dueDate": "2025-08-04",
@@ -3419,7 +3419,7 @@
       "utcStart": "2025-08-04T13:00:00.000Z",
       "utcDue": "2025-08-04T13:00:00.000Z",
       "utc": "2025-08-04T13:00:00.000Z",
-      "updatedAt": "2025-08-04T14:07:31.704Z",
+      "updatedAt": "2025-08-04T14:08:45.605Z",
       "type": "event",
       "status": "published",
       "category": "social",
@@ -4514,5 +4514,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T14:08:30.445Z"
+  "lastSync": "2025-08-04T14:08:45.609Z"
 }
