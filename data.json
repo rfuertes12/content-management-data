@@ -3618,6 +3618,33 @@
       "priority": "normal",
       "id": "1754325353534",
       "createdAt": "2025-08-04T16:35:53.535Z"
+    },
+    {
+      "title": "Stone-Sage Green",
+      "link": "https://www.pinterest.com/pin/1096063628080098798",
+      "content": "Bring a touch of nature-inspired calm to your decor with the Stone-Sage Green by Nils Juul Eilersen. With its soft sage green hue and elegant diagonal corded design, this cushion adds a gentle, earthy charm, perfect for both modern and traditional interiors.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:36",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:36",
+      "date": "2025-08-01",
+      "time": "15:36",
+      "utcStart": "2025-08-01T13:36:00.000Z",
+      "utcDue": "2025-08-01T13:36:00.000Z",
+      "utc": "2025-08-01T13:36:00.000Z",
+      "updatedAt": "2025-08-04T16:36:33.853Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754325393856",
+      "createdAt": "2025-08-04T16:36:33.856Z"
     }
   ],
   "tasks": [
@@ -4676,5 +4703,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:35:53.537Z"
+  "lastSync": "2025-08-04T16:36:33.860Z"
 }
