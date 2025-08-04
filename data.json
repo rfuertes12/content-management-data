@@ -3456,6 +3456,33 @@
       "priority": "normal",
       "id": "1754316510442",
       "createdAt": "2025-08-04T14:08:30.442Z"
+    },
+    {
+      "title": "Eilersen Blaze Yellow-Beige Cushion - Scandinavian Luxury Home Décor",
+      "link": "https://www.pinterest.com/pin/1096063628080237101",
+      "content": "Elevate your living space with the sophisticated elegance of Scandinavian design. This premium yellow-beige cushion features a stunning chevron pattern that brings warmth and visual interest to any room. Perfect for luxury home enthusiasts who appreciate quality craftsmanship and timeless Danish des",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-04",
+      "startTime": "15:00",
+      "dueDate": "2025-08-04",
+      "dueTime": "15:00",
+      "date": "2025-08-04",
+      "time": "15:00",
+      "utcStart": "2025-08-04T13:00:00.000Z",
+      "utcDue": "2025-08-04T13:00:00.000Z",
+      "utc": "2025-08-04T13:00:00.000Z",
+      "updatedAt": "2025-08-04T14:09:57.649Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754316597651",
+      "createdAt": "2025-08-04T14:09:57.651Z"
     }
   ],
   "tasks": [
@@ -4514,5 +4541,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T14:09:11.258Z"
+  "lastSync": "2025-08-04T14:09:57.653Z"
 }
