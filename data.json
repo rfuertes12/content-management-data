@@ -4091,24 +4091,24 @@
       "link": "",
       "content": "",
       "clientTag": "Eilersen",
-      "clientTagColor": "#50b9dc",
+      "clientTagColor": "#3bc8f7",
       "clientTagIcon": "user",
       "startDate": "2025-08-04",
       "startTime": "09:30",
       "dueDate": "2025-08-04",
-      "dueTime": "10:30",
+      "dueTime": "15:00",
       "date": "2025-08-04",
       "time": "09:30",
       "utcStart": "2025-08-04T07:30:00.000Z",
-      "utcDue": "2025-08-04T08:30:00.000Z",
+      "utcDue": "2025-08-04T13:00:00.000Z",
       "utc": "2025-08-04T07:30:00.000Z",
-      "updatedAt": "2025-08-04T05:03:48.456Z",
+      "updatedAt": "2025-08-04T09:13:01.672Z",
       "type": "task",
       "priority": "normal",
-      "taskStatus": "todo",
+      "taskStatus": "inprogress",
       "id": "1754283828458",
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T09:12:16.967Z"
+  "lastSync": "2025-08-04T09:13:01.675Z"
 }
