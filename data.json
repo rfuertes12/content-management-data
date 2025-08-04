@@ -3302,6 +3302,31 @@
       "priority": "normal",
       "id": "1754299064293",
       "createdAt": "2025-08-04T09:17:44.293Z"
+    },
+    {
+      "title": "Summit Dark Grey Pillow – Ribbed Sophistication for Modern Interiors",
+      "link": "",
+      "content": "Explain that the Summit collection features ribbed textures and elegant solid colours. Describe the Summit Dark Grey pillow (50 × 50 cm) with its deep charcoal hue and meticulous ribbed texture, which adds refined elegance to both modern and classic interiors\neilersencushion.eu\n. Mention the durable",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-09-15",
+      "startTime": "11:17",
+      "dueDate": "2025-09-15",
+      "dueTime": "11:17",
+      "date": "2025-09-15",
+      "time": "11:17",
+      "utcStart": "2025-09-15T09:17:00.000Z",
+      "utcDue": "2025-09-15T09:17:00.000Z",
+      "utc": "2025-09-15T09:17:00.000Z",
+      "updatedAt": "2025-08-04T09:18:09.550Z",
+      "type": "event",
+      "status": "idea",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754299089552",
+      "createdAt": "2025-08-04T09:18:09.552Z"
     }
   ],
   "tasks": [
@@ -4337,5 +4362,5 @@
       "createdAt": "2025-08-04T09:13:42.377Z"
     }
   ],
-  "lastSync": "2025-08-04T09:17:44.296Z"
+  "lastSync": "2025-08-04T09:18:09.556Z"
 }
