@@ -4204,21 +4204,21 @@
       "content": "",
       "startDate": "2025-07-30",
       "startTime": "13:00",
-      "dueDate": "2025-08-04",
+      "dueDate": "2025-08-05",
       "dueTime": "15:00",
       "date": "2025-07-30",
       "time": "13:00",
       "utcStart": "2025-07-30T11:00:00.000Z",
-      "utcDue": "2025-08-01T13:00:00.000Z",
+      "utcDue": "2025-08-05T13:00:00.000Z",
       "utc": "2025-07-30T11:00:00.000Z",
-      "updatedAt": "2025-08-01T05:20:56.343Z",
+      "updatedAt": "2025-08-04T14:12:35.735Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "inprogress",
       "id": "1753792245392",
       "createdAt": "2025-07-29T12:30:45.392Z",
       "clientTag": "Eilersen",
-      "clientTagColor": "#50b9dc",
+      "clientTagColor": "#3bc8f7",
       "clientTagIcon": "user"
     },
     {
@@ -4541,5 +4541,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T14:12:18.715Z"
+  "lastSync": "2025-08-04T14:12:35.737Z"
 }
