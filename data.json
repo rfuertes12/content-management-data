@@ -3073,6 +3073,31 @@
       "priority": "normal",
       "id": "1754298125928",
       "createdAt": "2025-08-04T09:02:05.928Z"
+    },
+    {
+      "title": "Fern Brown/Light Blue Cushion – Earthy Diagonal Pattern",
+      "link": "",
+      "content": "Present the Fern collection’s natural colour palette (earthy browns, greens, navy and red) and sophisticated aesthetic\neilersencushion.eu\n. Spotlight the Fern Brown/Light Blue square cushion with its diagonal striped pattern and warm earthy tones\neilersencushion.eu\n. Discuss the materials (viscose/c",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "tag",
+      "startDate": "2025-08-14",
+      "startTime": "11:02",
+      "dueDate": "2025-08-14",
+      "dueTime": "11:02",
+      "date": "2025-08-14",
+      "time": "11:02",
+      "utcStart": "2025-08-14T09:02:00.000Z",
+      "utcDue": "2025-08-14T09:02:00.000Z",
+      "utc": "2025-08-14T09:02:00.000Z",
+      "updatedAt": "2025-08-04T09:02:42.083Z",
+      "type": "event",
+      "status": "idea",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754298162085",
+      "createdAt": "2025-08-04T09:02:42.085Z"
     }
   ],
   "tasks": [
@@ -4085,5 +4110,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T09:02:05.932Z"
+  "lastSync": "2025-08-04T09:02:42.089Z"
 }
