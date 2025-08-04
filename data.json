@@ -3200,6 +3200,33 @@
       "priority": "normal",
       "id": "1754298957181",
       "createdAt": "2025-08-04T09:15:57.181Z"
+    },
+    {
+      "title": "Lisbon Outdoor Slate Luxe Cushion – Durable Slate Grey for Patios",
+      "link": "",
+      "content": "Discuss the Lisbon outdoor collection’s timeless elegance that enhances patios and garden lounges\neilersencushion.eu\n. Describe the Slate Luxe cushion: a 50 × 50 cm propylene/polyester pillow in deep slate grey, water‑repellent and quick‑dry, with high colour‑fastness and abrasion resistance\neilerse",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-09-01",
+      "startTime": "11:16",
+      "dueDate": "2025-09-01",
+      "dueTime": "11:16",
+      "date": "2025-09-01",
+      "time": "11:16",
+      "utcStart": "2025-09-01T09:16:00.000Z",
+      "utcDue": "2025-09-01T09:16:00.000Z",
+      "utc": "2025-09-01T09:16:00.000Z",
+      "updatedAt": "2025-08-04T09:16:21.404Z",
+      "type": "event",
+      "status": "idea",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1754298981406",
+      "createdAt": "2025-08-04T09:16:21.406Z"
     }
   ],
   "tasks": [
@@ -4235,5 +4262,5 @@
       "createdAt": "2025-08-04T09:13:42.377Z"
     }
   ],
-  "lastSync": "2025-08-04T09:15:57.183Z"
+  "lastSync": "2025-08-04T09:16:21.409Z"
 }
