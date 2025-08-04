@@ -2713,6 +2713,31 @@
       "priority": "normal",
       "id": "1753962801764",
       "createdAt": "2025-07-31T11:53:21.764Z"
+    },
+    {
+      "title": "Ridge Sage Green Indoor Pillows: The Ultimate Premium Indoor Pillow for Sophisticated Interiors",
+      "link": "https://eilersencushion.eu/blogs/product-spotlights/ridge-sage-green-indoor-pillows",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-07-11",
+      "startTime": "09:09",
+      "dueDate": "2025-07-11",
+      "dueTime": "09:09",
+      "date": "2025-07-11",
+      "time": "09:09",
+      "utcStart": "2025-07-11T07:09:00.000Z",
+      "utcDue": "2025-07-11T07:09:00.000Z",
+      "utc": "2025-07-11T07:09:00.000Z",
+      "updatedAt": "2025-08-04T07:09:31.542Z",
+      "type": "event",
+      "status": "published",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754291371545",
+      "createdAt": "2025-08-04T07:09:31.545Z"
     }
   ],
   "tasks": [
@@ -3725,5 +3750,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T06:50:16.843Z"
+  "lastSync": "2025-08-04T07:09:31.547Z"
 }
