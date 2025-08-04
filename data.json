@@ -4023,6 +4023,33 @@
       "priority": "normal",
       "id": "1754326019026",
       "createdAt": "2025-08-04T16:46:59.026Z"
+    },
+    {
+      "title": "Summit- Deep Forest",
+      "link": "https://www.pinterest.com/pin/1096063628080099479",
+      "content": "Immerse your space in nature’s tranquility with the Summit- Deep Forest by Nils Juul Eilersen. This deep forest-green cushion features a luxurious ribbed design, evoking the rich textures of woodland greenery. Its velvety softness brings comfort, while the earthy tone adds a touch of serene elegance",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:47",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:47",
+      "date": "2025-08-01",
+      "time": "15:47",
+      "utcStart": "2025-08-01T13:47:00.000Z",
+      "utcDue": "2025-08-01T13:47:00.000Z",
+      "utc": "2025-08-01T13:47:00.000Z",
+      "updatedAt": "2025-08-04T16:47:34.517Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754326054519",
+      "createdAt": "2025-08-04T16:47:34.519Z"
     }
   ],
   "tasks": [
@@ -5081,5 +5108,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:46:59.032Z"
+  "lastSync": "2025-08-04T16:47:34.524Z"
 }
