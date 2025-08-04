@@ -3446,12 +3446,12 @@
       "utcStart": "2025-08-04T13:00:00.000Z",
       "utcDue": "2025-08-04T13:00:00.000Z",
       "utc": "2025-08-04T13:00:00.000Z",
-      "updatedAt": "2025-08-04T14:08:30.440Z",
+      "updatedAt": "2025-08-04T14:09:11.254Z",
       "type": "event",
       "status": "published",
       "category": "social",
       "platforms": [
-        "facebook"
+        "instagram"
       ],
       "priority": "normal",
       "id": "1754316510442",
@@ -4514,5 +4514,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T14:08:45.609Z"
+  "lastSync": "2025-08-04T14:09:11.258Z"
 }
