@@ -3080,7 +3080,7 @@
       "content": "Present the Fern collection’s natural colour palette (earthy browns, greens, navy and red) and sophisticated aesthetic\neilersencushion.eu\n. Spotlight the Fern Brown/Light Blue square cushion with its diagonal striped pattern and warm earthy tones\neilersencushion.eu\n. Discuss the materials (viscose/c",
       "clientTag": "Eilersen",
       "clientTagColor": "#3bc8f7",
-      "clientTagIcon": "tag",
+      "clientTagIcon": "user",
       "startDate": "2025-08-14",
       "startTime": "11:02",
       "dueDate": "2025-08-14",
@@ -3090,7 +3090,7 @@
       "utcStart": "2025-08-14T09:02:00.000Z",
       "utcDue": "2025-08-14T09:02:00.000Z",
       "utc": "2025-08-14T09:02:00.000Z",
-      "updatedAt": "2025-08-04T09:02:42.083Z",
+      "updatedAt": "2025-08-04T09:12:16.962Z",
       "type": "event",
       "status": "idea",
       "category": "blog",
@@ -4110,5 +4110,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T09:12:07.898Z"
+  "lastSync": "2025-08-04T09:12:16.967Z"
 }
