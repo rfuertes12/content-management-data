@@ -3377,6 +3377,31 @@
       "priority": "normal",
       "id": "1754299140747",
       "createdAt": "2025-08-04T09:19:00.747Z"
+    },
+    {
+      "title": "Outdoor Cushion Showdown: Emerald Haven vs Slate Luxe",
+      "link": "",
+      "content": "Compare two popular outdoor cushions—Bali Emerald Haven and Lisbon Slate Luxe—highlighting their differences in colour (emerald green vs slate grey), materials (100 % polypropylene vs propylene/polyester), and unique features like water‑repellent, quick‑dry properties and high colour‑fastness\neilers",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-09-25",
+      "startTime": "11:19",
+      "dueDate": "2025-09-25",
+      "dueTime": "11:19",
+      "date": "2025-09-25",
+      "time": "11:19",
+      "utcStart": "2025-09-25T09:19:00.000Z",
+      "utcDue": "2025-09-25T09:19:00.000Z",
+      "utc": "2025-09-25T09:19:00.000Z",
+      "updatedAt": "2025-08-04T09:19:30.265Z",
+      "type": "event",
+      "status": "idea",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754299170266",
+      "createdAt": "2025-08-04T09:19:30.266Z"
     }
   ],
   "tasks": [
@@ -4412,5 +4437,5 @@
       "createdAt": "2025-08-04T09:13:42.377Z"
     }
   ],
-  "lastSync": "2025-08-04T09:19:00.750Z"
+  "lastSync": "2025-08-04T09:19:30.270Z"
 }
