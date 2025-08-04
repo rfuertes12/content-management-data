@@ -2863,6 +2863,33 @@
       "priority": "normal",
       "id": "1754291523957",
       "createdAt": "2025-08-04T07:12:03.957Z"
+    },
+    {
+      "title": "Top 5 Cushion Color Trends for Summer 2025",
+      "link": "https://www.pinterest.com/pin/1096063628079304021",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-07-14",
+      "startTime": "09:13",
+      "dueDate": "2025-07-14",
+      "dueTime": "09:13",
+      "date": "2025-07-14",
+      "time": "09:13",
+      "utcStart": "2025-07-14T07:13:00.000Z",
+      "utcDue": "2025-07-14T07:13:00.000Z",
+      "utc": "2025-07-14T07:13:00.000Z",
+      "updatedAt": "2025-08-04T07:13:57.650Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754291637652",
+      "createdAt": "2025-08-04T07:13:57.652Z"
     }
   ],
   "tasks": [
@@ -3875,5 +3902,5 @@
       "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T07:12:03.959Z"
+  "lastSync": "2025-08-04T07:13:57.654Z"
 }
