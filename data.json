@@ -3942,6 +3942,33 @@
       "priority": "normal",
       "id": "1754325906286",
       "createdAt": "2025-08-04T16:45:06.286Z"
+    },
+    {
+      "title": "Summit - Light Slate Gray Pillow",
+      "link": "https://www.pinterest.com/pin/1096063628080099478",
+      "content": "The Summit - Light Slate Gray Pillow evokes the calm of open waters with its soft blue-gray shade and elegant ribbed texture. Designed to enhance modern and coastal interiors, this cushion brings a touch of peaceful sophistication to any space.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:45",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:45",
+      "date": "2025-08-01",
+      "time": "15:45",
+      "utcStart": "2025-08-01T13:45:00.000Z",
+      "utcDue": "2025-08-01T13:45:00.000Z",
+      "utc": "2025-08-01T13:45:00.000Z",
+      "updatedAt": "2025-08-04T16:45:42.275Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754325942277",
+      "createdAt": "2025-08-04T16:45:42.277Z"
     }
   ],
   "tasks": [
@@ -5000,5 +5027,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:45:06.289Z"
+  "lastSync": "2025-08-04T16:45:42.282Z"
 }
