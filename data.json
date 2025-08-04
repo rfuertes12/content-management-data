@@ -3591,6 +3591,33 @@
       "priority": "normal",
       "id": "1754325316062",
       "createdAt": "2025-08-04T16:35:16.062Z"
+    },
+    {
+      "title": "Stone-Ruby Red Cushion",
+      "link": "https://www.pinterest.com/pin/1096063628080098795",
+      "content": "Infuse your space with bold elegance using the Stone-Ruby Red by Nils Juul Eilersen. This cushion’s deep red hue and luxurious diagonal corded texture make a striking statement, adding warmth and sophistication to any decor style.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:00",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:00",
+      "date": "2025-08-01",
+      "time": "15:00",
+      "utcStart": "2025-08-01T13:00:00.000Z",
+      "utcDue": "2025-08-01T13:00:00.000Z",
+      "utc": "2025-08-01T13:00:00.000Z",
+      "updatedAt": "2025-08-04T16:35:53.532Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1754325353534",
+      "createdAt": "2025-08-04T16:35:53.535Z"
     }
   ],
   "tasks": [
@@ -4649,5 +4676,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:35:16.064Z"
+  "lastSync": "2025-08-04T16:35:53.537Z"
 }
