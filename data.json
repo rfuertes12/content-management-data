@@ -3654,7 +3654,30 @@
       "taskStatus": "todo",
       "id": "1754282515333",
       "createdAt": "2025-08-04T04:41:55.333Z"
+    },
+    {
+      "title": "Generate media asset for the blog",
+      "link": "",
+      "content": "",
+      "clientTag": "MySigrid",
+      "clientTagColor": "#bd1faf",
+      "clientTagIcon": "tag",
+      "startDate": "2025-08-04",
+      "startTime": "09:30",
+      "dueDate": "2025-08-04",
+      "dueTime": "10:30",
+      "date": "2025-08-04",
+      "time": "09:30",
+      "utcStart": "2025-08-04T07:30:00.000Z",
+      "utcDue": "2025-08-04T08:30:00.000Z",
+      "utc": "2025-08-04T07:30:00.000Z",
+      "updatedAt": "2025-08-04T05:01:57.686Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1754283717688",
+      "createdAt": "2025-08-04T05:01:57.688Z"
     }
   ],
-  "lastSync": "2025-08-04T05:01:12.163Z"
+  "lastSync": "2025-08-04T05:01:57.689Z"
 }
