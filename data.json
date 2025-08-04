@@ -3173,6 +3173,33 @@
       "priority": "normal",
       "id": "1754298936414",
       "createdAt": "2025-08-04T09:15:36.414Z"
+    },
+    {
+      "title": "Gale Cylinder Cushion Collection – Sophisticated Design Meets Comfort",
+      "link": "",
+      "content": "Introduce the Gale collection’s sophisticated design and rich colours\neilersencushion.eu\n. Since product details are similar across variants, write a collection overview: describe the cylindrical shape, high‑quality materials and durability. Offer styling ideas for using these bolsters on sofas, bed",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-28",
+      "startTime": "11:15",
+      "dueDate": "2025-08-28",
+      "dueTime": "11:15",
+      "date": "2025-08-28",
+      "time": "11:15",
+      "utcStart": "2025-08-28T09:15:00.000Z",
+      "utcDue": "2025-08-28T09:15:00.000Z",
+      "utc": "2025-08-28T09:15:00.000Z",
+      "updatedAt": "2025-08-04T09:15:57.179Z",
+      "type": "event",
+      "status": "idea",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1754298957181",
+      "createdAt": "2025-08-04T09:15:57.181Z"
     }
   ],
   "tasks": [
@@ -4208,5 +4235,5 @@
       "createdAt": "2025-08-04T09:13:42.377Z"
     }
   ],
-  "lastSync": "2025-08-04T09:15:36.417Z"
+  "lastSync": "2025-08-04T09:15:57.183Z"
 }
