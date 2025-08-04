@@ -3275,6 +3275,33 @@
       "priority": "normal",
       "id": "1754299042258",
       "createdAt": "2025-08-04T09:17:22.258Z"
+    },
+    {
+      "title": "Stone Olive Green Cushion – Diagonal Corded Design Inspired by Nature",
+      "link": "",
+      "content": "Present the Stone collection’s diagonal corded pattern that evokes organic textures. Highlight the Stone Olive Green square cushion (50 × 50 cm) with its rich olive shade and subtle texture\neilersencushion.eu\n. Discuss the durable acrylic/polyester blend and how it adds colour and dimension to moder",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-09-11",
+      "startTime": "11:17",
+      "dueDate": "2025-09-11",
+      "dueTime": "11:17",
+      "date": "2025-09-11",
+      "time": "11:17",
+      "utcStart": "2025-09-11T09:17:00.000Z",
+      "utcDue": "2025-09-11T09:17:00.000Z",
+      "utc": "2025-09-11T09:17:00.000Z",
+      "updatedAt": "2025-08-04T09:17:44.291Z",
+      "type": "event",
+      "status": "idea",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1754299064293",
+      "createdAt": "2025-08-04T09:17:44.293Z"
     }
   ],
   "tasks": [
@@ -4310,5 +4337,5 @@
       "createdAt": "2025-08-04T09:13:42.377Z"
     }
   ],
-  "lastSync": "2025-08-04T09:17:22.261Z"
+  "lastSync": "2025-08-04T09:17:44.296Z"
 }
