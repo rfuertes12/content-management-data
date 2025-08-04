@@ -3700,7 +3700,30 @@
       "taskStatus": "todo",
       "id": "1754283779807",
       "createdAt": "2025-08-04T05:02:59.807Z"
+    },
+    {
+      "title": "Generate social media content",
+      "link": "",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-04",
+      "startTime": "09:30",
+      "dueDate": "2025-08-04",
+      "dueTime": "10:30",
+      "date": "2025-08-04",
+      "time": "09:30",
+      "utcStart": "2025-08-04T07:30:00.000Z",
+      "utcDue": "2025-08-04T08:30:00.000Z",
+      "utc": "2025-08-04T07:30:00.000Z",
+      "updatedAt": "2025-08-04T05:03:48.456Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1754283828458",
+      "createdAt": "2025-08-04T05:03:48.458Z"
     }
   ],
-  "lastSync": "2025-08-04T05:03:09.962Z"
+  "lastSync": "2025-08-04T05:03:48.459Z"
 }
