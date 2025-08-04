@@ -3098,6 +3098,31 @@
       "priority": "normal",
       "id": "1754298162085",
       "createdAt": "2025-08-04T09:02:42.085Z"
+    },
+    {
+      "title": "Luna Beige/Blue Cushion – Checkerboard Design with Timeless Appeal",
+      "link": "",
+      "content": "Describe the Luna collection’s soft, sophisticated pairings like beige/blue, burgundy/navy and rosa/red\neilersencushion.eu\n. Highlight the 60 × 40 cm Luna Beige/Blue cushion featuring a checkerboard pattern and high‑quality viscose/cotton/polyester blend\neilersencushion.eu\n. Offer tips for mixing it",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-18",
+      "startTime": "11:14",
+      "dueDate": "2025-08-18",
+      "dueTime": "11:14",
+      "date": "2025-08-18",
+      "time": "11:14",
+      "utcStart": "2025-08-18T09:14:00.000Z",
+      "utcDue": "2025-08-18T09:14:00.000Z",
+      "utc": "2025-08-18T09:14:00.000Z",
+      "updatedAt": "2025-08-04T09:14:44.168Z",
+      "type": "event",
+      "status": "idea",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754298884172",
+      "createdAt": "2025-08-04T09:14:44.172Z"
     }
   ],
   "tasks": [
@@ -4133,5 +4158,5 @@
       "createdAt": "2025-08-04T09:13:42.377Z"
     }
   ],
-  "lastSync": "2025-08-04T09:13:53.333Z"
+  "lastSync": "2025-08-04T09:14:44.174Z"
 }
