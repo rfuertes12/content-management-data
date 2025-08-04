@@ -3834,6 +3834,33 @@
       "priority": "normal",
       "id": "1754325736955",
       "createdAt": "2025-08-04T16:42:16.955Z"
+    },
+    {
+      "title": "Stone-Olive Yellow",
+      "link": "https://www.pinterest.com/pin/1096063628080098956",
+      "content": "Brighten your space with the vibrant Stone-Olive Yellow by Nils Juul Eilersen. This cushion’s lively golden-green hue and sophisticated diagonal corded texture make it a stunning accent piece, adding warmth and elegance to any room, whether modern or traditional.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:42",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:42",
+      "date": "2025-08-01",
+      "time": "15:42",
+      "utcStart": "2025-08-01T13:42:00.000Z",
+      "utcDue": "2025-08-01T13:42:00.000Z",
+      "utc": "2025-08-01T13:42:00.000Z",
+      "updatedAt": "2025-08-04T16:43:00.704Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754325780708",
+      "createdAt": "2025-08-04T16:43:00.708Z"
     }
   ],
   "tasks": [
@@ -4892,5 +4919,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:42:16.957Z"
+  "lastSync": "2025-08-04T16:43:00.712Z"
 }
