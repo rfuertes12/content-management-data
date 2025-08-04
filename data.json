@@ -3608,7 +3608,30 @@
       "taskStatus": "inprogress",
       "id": "1754025939866",
       "createdAt": "2025-08-01T05:25:39.866Z"
+    },
+    {
+      "title": "Create monthly report for Nils",
+      "link": "",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#50b9dc",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-03",
+      "startTime": "07:00",
+      "dueDate": "2025-08-03",
+      "dueTime": "08:00",
+      "date": "2025-08-03",
+      "time": "07:00",
+      "utcStart": "2025-08-03T05:00:00.000Z",
+      "utcDue": "2025-08-03T06:00:00.000Z",
+      "utc": "2025-08-03T05:00:00.000Z",
+      "updatedAt": "2025-08-04T04:40:52.498Z",
+      "type": "task",
+      "priority": "high",
+      "taskStatus": "todo",
+      "id": "1754282452499",
+      "createdAt": "2025-08-04T04:40:52.499Z"
     }
   ],
-  "lastSync": "2025-08-01T05:25:39.866Z"
+  "lastSync": "2025-08-04T04:40:52.500Z"
 }
