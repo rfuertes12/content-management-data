@@ -3429,6 +3429,33 @@
       "priority": "normal",
       "id": "1754316451705",
       "createdAt": "2025-08-04T14:07:31.705Z"
+    },
+    {
+      "title": "When sophistication meets comfort, magic happens",
+      "link": "https://www.instagram.com/p/DM7ypA6MA4o/",
+      "content": "When sophistication meets comfort, magic happens.\n\nThe Eilersen Blaze yellow-beige cushion isn't just décor—\nit's poetry in textile form.\n\nThat chevron pattern?\nPure visual symphony.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-04",
+      "startTime": "15:00",
+      "dueDate": "2025-08-04",
+      "dueTime": "15:00",
+      "date": "2025-08-04",
+      "time": "15:00",
+      "utcStart": "2025-08-04T13:00:00.000Z",
+      "utcDue": "2025-08-04T13:00:00.000Z",
+      "utc": "2025-08-04T13:00:00.000Z",
+      "updatedAt": "2025-08-04T14:08:30.440Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1754316510442",
+      "createdAt": "2025-08-04T14:08:30.442Z"
     }
   ],
   "tasks": [
@@ -4487,5 +4514,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T14:07:31.708Z"
+  "lastSync": "2025-08-04T14:08:30.445Z"
 }
