@@ -3510,6 +3510,33 @@
       "priority": "normal",
       "id": "1754317107869",
       "createdAt": "2025-08-04T14:18:27.869Z"
+    },
+    {
+      "title": "Stone-Dark Gray Cushion",
+      "link": "https://www.pinterest.com/pin/1096063628080098789",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:00",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:00",
+      "date": "2025-08-01",
+      "time": "15:00",
+      "utcStart": "2025-08-01T13:00:00.000Z",
+      "utcDue": "2025-08-01T13:00:00.000Z",
+      "utc": "2025-08-01T13:00:00.000Z",
+      "updatedAt": "2025-08-04T16:33:48.470Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754325228473",
+      "createdAt": "2025-08-04T16:33:48.473Z"
     }
   ],
   "tasks": [
@@ -4568,5 +4595,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T15:17:50.954Z"
+  "lastSync": "2025-08-04T16:33:48.476Z"
 }
