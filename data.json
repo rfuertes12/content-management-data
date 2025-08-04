@@ -3352,6 +3352,31 @@
       "priority": "normal",
       "id": "1754299108876",
       "createdAt": "2025-08-04T09:18:28.876Z"
+    },
+    {
+      "title": "Zephyr Brown/Light Blue Cushion – Geometric Stripes for Subtle Luxury",
+      "link": "",
+      "content": "Discuss how the Zephyr collection provides effortless elegance with refined colour pairings like brown/light blue, burgundy/navy and green/beige\neilersencushion.eu\n. Describe the Zephyr Brown/Light Blue square cushion (50 × 50 cm) with its intricate geometric striped pattern and soft yet durable vis",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-09-22",
+      "startTime": "11:18",
+      "dueDate": "2025-09-22",
+      "dueTime": "11:18",
+      "date": "2025-09-22",
+      "time": "11:18",
+      "utcStart": "2025-09-22T09:18:00.000Z",
+      "utcDue": "2025-09-22T09:18:00.000Z",
+      "utc": "2025-09-22T09:18:00.000Z",
+      "updatedAt": "2025-08-04T09:19:00.745Z",
+      "type": "event",
+      "status": "idea",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754299140747",
+      "createdAt": "2025-08-04T09:19:00.747Z"
     }
   ],
   "tasks": [
@@ -4387,5 +4412,5 @@
       "createdAt": "2025-08-04T09:13:42.377Z"
     }
   ],
-  "lastSync": "2025-08-04T09:18:28.878Z"
+  "lastSync": "2025-08-04T09:19:00.750Z"
 }
