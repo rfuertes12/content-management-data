@@ -3250,6 +3250,31 @@
       "priority": "normal",
       "id": "1754299005963",
       "createdAt": "2025-08-04T09:16:45.963Z"
+    },
+    {
+      "title": "Ridge Slate Grey Cushion – Textured Patchwork for Coastal Calm",
+      "link": "",
+      "content": "Summarise the Ridge collection’s corduroy‑inspired patchwork design and serene colour palette. Describe the Ridge Slate Grey rectangular cushion (60 × 40 cm) with its soothing grey hue and textured patchwork that brings a coastal vibe\neilersencushion.eu\n. Mention the acrylic/polyester blend, high ab",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-09-08",
+      "startTime": "11:17",
+      "dueDate": "2025-09-08",
+      "dueTime": "11:17",
+      "date": "2025-09-08",
+      "time": "11:17",
+      "utcStart": "2025-09-08T09:17:00.000Z",
+      "utcDue": "2025-09-08T09:17:00.000Z",
+      "utc": "2025-09-08T09:17:00.000Z",
+      "updatedAt": "2025-08-04T09:17:22.255Z",
+      "type": "event",
+      "status": "idea",
+      "category": "blog",
+      "platforms": [],
+      "priority": "normal",
+      "id": "1754299042258",
+      "createdAt": "2025-08-04T09:17:22.258Z"
     }
   ],
   "tasks": [
@@ -4285,5 +4310,5 @@
       "createdAt": "2025-08-04T09:13:42.377Z"
     }
   ],
-  "lastSync": "2025-08-04T09:16:54.434Z"
+  "lastSync": "2025-08-04T09:17:22.261Z"
 }
