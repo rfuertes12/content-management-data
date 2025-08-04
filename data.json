@@ -3645,6 +3645,33 @@
       "priority": "normal",
       "id": "1754325393856",
       "createdAt": "2025-08-04T16:36:33.856Z"
+    },
+    {
+      "title": "Stone-Slate Gray",
+      "link": "https://www.pinterest.com/pin/1096063628080098799",
+      "content": "Add a tranquil, coastal vibe to your decor with the Stone-Slate Gray by Nils Juul Eilersen. This cushion’s cool slate-gray shade and refined diagonal corded texture evoke a sense of calm and sophistication, making it a perfect addition to any space.",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-01",
+      "startTime": "15:36",
+      "dueDate": "2025-08-01",
+      "dueTime": "15:36",
+      "date": "2025-08-01",
+      "time": "15:36",
+      "utcStart": "2025-08-01T13:36:00.000Z",
+      "utcDue": "2025-08-01T13:36:00.000Z",
+      "utc": "2025-08-01T13:36:00.000Z",
+      "updatedAt": "2025-08-04T16:37:08.424Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "facebook"
+      ],
+      "priority": "normal",
+      "id": "1754325428426",
+      "createdAt": "2025-08-04T16:37:08.426Z"
     }
   ],
   "tasks": [
@@ -4703,5 +4730,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T16:36:33.860Z"
+  "lastSync": "2025-08-04T16:37:08.431Z"
 }
