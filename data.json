@@ -5177,7 +5177,30 @@
       "taskStatus": "completed",
       "id": "1754393451549",
       "createdAt": "2025-08-05T11:30:51.549Z"
+    },
+    {
+      "title": "Draft a proposal for Eilersen Cushion Promos and Discounts",
+      "link": "",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-05",
+      "startTime": "13:31",
+      "dueDate": "2025-08-05",
+      "dueTime": "16:00",
+      "date": "2025-08-05",
+      "time": "13:31",
+      "utcStart": "2025-08-05T11:31:00.000Z",
+      "utcDue": "2025-08-05T14:00:00.000Z",
+      "utc": "2025-08-05T11:31:00.000Z",
+      "updatedAt": "2025-08-05T11:31:54.209Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1754393514211",
+      "createdAt": "2025-08-05T11:31:54.211Z"
     }
   ],
-  "lastSync": "2025-08-05T11:31:12.273Z"
+  "lastSync": "2025-08-05T11:31:54.211Z"
 }
