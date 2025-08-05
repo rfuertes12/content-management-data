@@ -4362,19 +4362,19 @@
       "title": "Audit site technical SEO and fix issues",
       "link": "",
       "content": "",
-      "startDate": "2025-08-05",
+      "startDate": "2025-08-08",
       "startTime": "12:00",
-      "dueDate": "2025-08-05",
+      "dueDate": "2025-08-08",
       "dueTime": "13:00",
-      "date": "2025-08-05",
+      "date": "2025-08-08",
       "time": "12:00",
-      "utcStart": "2025-08-05T10:00:00.000Z",
-      "utcDue": "2025-08-05T11:00:00.000Z",
-      "utc": "2025-08-05T10:00:00.000Z",
-      "updatedAt": "2025-08-04T14:13:50.392Z",
+      "utcStart": "2025-08-08T10:00:00.000Z",
+      "utcDue": "2025-08-08T11:00:00.000Z",
+      "utc": "2025-08-08T10:00:00.000Z",
+      "updatedAt": "2025-08-05T11:15:59.983Z",
       "type": "task",
       "priority": "high",
-      "taskStatus": "inprogress",
+      "taskStatus": "todo",
       "id": "1753678998869",
       "createdAt": "2025-07-28T05:03:18.869Z",
       "clientTag": "Eilersen",
@@ -5133,5 +5133,5 @@
       "createdAt": "2025-08-04T10:12:54.075Z"
     }
   ],
-  "lastSync": "2025-08-04T17:51:22.335Z"
+  "lastSync": "2025-08-05T11:15:59.986Z"
 }
