@@ -5131,7 +5131,30 @@
       "taskStatus": "completed",
       "id": "1754302374075",
       "createdAt": "2025-08-04T10:12:54.075Z"
+    },
+    {
+      "title": "Send Nils and Lisa an email  re: images",
+      "link": "",
+      "content": "Request delivery of images on a weekly basis",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-05",
+      "startTime": "13:29",
+      "dueDate": "2025-08-05",
+      "dueTime": "15:00",
+      "date": "2025-08-05",
+      "time": "13:29",
+      "utcStart": "2025-08-05T11:29:00.000Z",
+      "utcDue": "2025-08-05T13:00:00.000Z",
+      "utc": "2025-08-05T11:29:00.000Z",
+      "updatedAt": "2025-08-05T11:30:02.375Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1754393402377",
+      "createdAt": "2025-08-05T11:30:02.377Z"
     }
   ],
-  "lastSync": "2025-08-05T11:15:59.986Z"
+  "lastSync": "2025-08-05T11:30:02.379Z"
 }
