@@ -5154,7 +5154,30 @@
       "taskStatus": "todo",
       "id": "1754393402377",
       "createdAt": "2025-08-05T11:30:02.377Z"
+    },
+    {
+      "title": "Call with Nils",
+      "link": "",
+      "content": "",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-05",
+      "startTime": "08:00",
+      "dueDate": "2025-08-05",
+      "dueTime": "09:00",
+      "date": "2025-08-05",
+      "time": "08:00",
+      "utcStart": "2025-08-05T06:00:00.000Z",
+      "utcDue": "2025-08-05T07:00:00.000Z",
+      "utc": "2025-08-05T06:00:00.000Z",
+      "updatedAt": "2025-08-05T11:30:51.547Z",
+      "type": "task",
+      "priority": "normal",
+      "taskStatus": "todo",
+      "id": "1754393451549",
+      "createdAt": "2025-08-05T11:30:51.549Z"
     }
   ],
-  "lastSync": "2025-08-05T11:30:20.645Z"
+  "lastSync": "2025-08-05T11:30:51.550Z"
 }
