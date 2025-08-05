@@ -4934,14 +4934,14 @@
       "clientTagIcon": "tag",
       "startDate": "2025-07-31",
       "startTime": "13:00",
-      "dueDate": "2025-08-05",
+      "dueDate": "2025-08-06",
       "dueTime": "17:00",
       "date": "2025-07-31",
       "time": "13:00",
       "utcStart": "2025-07-31T11:00:00.000Z",
-      "utcDue": "2025-08-05T15:00:00.000Z",
+      "utcDue": "2025-08-06T15:00:00.000Z",
       "utc": "2025-07-31T11:00:00.000Z",
-      "updatedAt": "2025-08-04T04:57:48.261Z",
+      "updatedAt": "2025-08-05T11:30:20.643Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "inprogress",
@@ -5156,5 +5156,5 @@
       "createdAt": "2025-08-05T11:30:02.377Z"
     }
   ],
-  "lastSync": "2025-08-05T11:30:02.379Z"
+  "lastSync": "2025-08-05T11:30:20.645Z"
 }
