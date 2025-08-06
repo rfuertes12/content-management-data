@@ -4102,6 +4102,33 @@
       "priority": "normal",
       "id": "1754481376538",
       "createdAt": "2025-08-06T11:56:16.538Z"
+    },
+    {
+      "title": "Scandinavian Luxury Outdoor Cushions - Emerald Haven Weather-Resistant Design",
+      "link": "https://www.pinterest.com/pin/1096063628080321875",
+      "content": "Discover how the Eilersen Bali Outdoor collection elevates your garden, patio, or terrace into a sophisticated Scandinavian-inspired retreat. The Emerald Haven cushion features premium 100% polypropylene construction with water-repellent and quick-dry technology, perfect for discerning homeowners wh",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-06",
+      "startTime": "13:56",
+      "dueDate": "2025-08-06",
+      "dueTime": "13:56",
+      "date": "2025-08-06",
+      "time": "13:56",
+      "utcStart": "2025-08-06T11:56:00.000Z",
+      "utcDue": "2025-08-06T11:56:00.000Z",
+      "utc": "2025-08-06T11:56:00.000Z",
+      "updatedAt": "2025-08-06T11:57:03.237Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "pinterest"
+      ],
+      "priority": "normal",
+      "id": "1754481423240",
+      "createdAt": "2025-08-06T11:57:03.240Z"
     }
   ],
   "tasks": [
@@ -5229,5 +5256,5 @@
       "createdAt": "2025-08-05T11:31:54.211Z"
     }
   ],
-  "lastSync": "2025-08-06T11:56:16.542Z"
+  "lastSync": "2025-08-06T11:57:03.243Z"
 }
