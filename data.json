@@ -4817,16 +4817,16 @@
       "title": "Add Zephyr collection pin board",
       "link": "https://sk.pinterest.com/eilersencushion/eilersen-zephyr-collection/",
       "content": "",
-      "startDate": "2025-08-05",
+      "startDate": "2025-08-06",
       "startTime": "13:00",
-      "dueDate": "2025-08-05",
+      "dueDate": "2025-08-06",
       "dueTime": "15:00",
-      "date": "2025-08-05",
+      "date": "2025-08-06",
       "time": "13:00",
-      "utcStart": "2025-08-05T11:00:00.000Z",
-      "utcDue": "2025-08-05T13:00:00.000Z",
-      "utc": "2025-08-05T11:00:00.000Z",
-      "updatedAt": "2025-08-04T14:13:35.852Z",
+      "utcStart": "2025-08-06T11:00:00.000Z",
+      "utcDue": "2025-08-06T13:00:00.000Z",
+      "utc": "2025-08-06T11:00:00.000Z",
+      "updatedAt": "2025-08-06T05:16:01.832Z",
       "type": "task",
       "priority": "normal",
       "taskStatus": "inprogress",
@@ -5202,5 +5202,5 @@
       "createdAt": "2025-08-05T11:31:54.211Z"
     }
   ],
-  "lastSync": "2025-08-06T05:15:51.073Z"
+  "lastSync": "2025-08-06T05:16:01.834Z"
 }
