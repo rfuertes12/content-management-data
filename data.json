@@ -4075,6 +4075,33 @@
       "priority": "normal",
       "id": "1754326096492",
       "createdAt": "2025-08-04T16:48:16.492Z"
+    },
+    {
+      "title": "Emerald dreams meet Scandinavian sophistication.",
+      "link": "https://www.instagram.com/p/DNAzUeFifpR/",
+      "content": "Emerald dreams meet Scandinavian sophistication.\n\nWhen your outdoor space deserves nothing but the finest... The Eilersen Bali Outdoor collection transforms ordinary patios into extraordinary retreats. This Emerald Haven cushion combines stunning aesthetics with intelligent design—100% polypropylene",
+      "clientTag": "Eilersen",
+      "clientTagColor": "#3bc8f7",
+      "clientTagIcon": "user",
+      "startDate": "2025-08-06",
+      "startTime": "13:55",
+      "dueDate": "2025-08-06",
+      "dueTime": "13:55",
+      "date": "2025-08-06",
+      "time": "13:55",
+      "utcStart": "2025-08-06T11:55:00.000Z",
+      "utcDue": "2025-08-06T11:55:00.000Z",
+      "utc": "2025-08-06T11:55:00.000Z",
+      "updatedAt": "2025-08-06T11:56:16.535Z",
+      "type": "event",
+      "status": "published",
+      "category": "social",
+      "platforms": [
+        "instagram"
+      ],
+      "priority": "normal",
+      "id": "1754481376538",
+      "createdAt": "2025-08-06T11:56:16.538Z"
     }
   ],
   "tasks": [
@@ -5202,5 +5229,5 @@
       "createdAt": "2025-08-05T11:31:54.211Z"
     }
   ],
-  "lastSync": "2025-08-06T05:16:23.986Z"
+  "lastSync": "2025-08-06T11:56:16.542Z"
 }
